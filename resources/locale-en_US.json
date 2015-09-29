@@ -1,0 +1,6 @@
+{
+    "views.main.welcome": "Welcome to Covisint's CUI core.",
+    "views.main.option": "What can I help you with today?",
+    "views.main.people": "people helped.",
+    "directives.language-select.Language": "Language"
+}
