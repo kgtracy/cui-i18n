@@ -18,7 +18,7 @@ Edit this part of the translate.js file.
         'preferredLocale': 'en_US'
     })
 ```
-The translate.js will get translations from the files located in the directory defined at
+The translate.js module will get translations from the files located in the directory defined at
 ```javascript
     $translateProvider.useStaticFilesLoader({
         prefix: 'dist/cui-i18n/angular-translate/locale-',// path to translations files
