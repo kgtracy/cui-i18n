@@ -1,5 +1,5 @@
 {
-  "name": "Translate",
+  "name": "translate",
   "description" : "Translation module for angular apps - using angular-translate",
   "main": "translate.js",
   "version": "1.0.0",
