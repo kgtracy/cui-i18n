@@ -17,7 +17,7 @@
 
 		app.increase = function(){
 			if(app.ammount<1000000){
-				app.ammount+=1000;
+				app.ammount+=0.01;
 				$timeout(app.increase,1);
 			}
 		}

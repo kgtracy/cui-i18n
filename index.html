@@ -9,9 +9,8 @@
 <body ng-controller="appCtrl as app">
 	<div class="container">
 		<div ng-translate-language-select></div>
-		<h1 translate>{{"views.main.welcome"}}</h1>
-		<h2 translate>{{"views.main.option"}}</h2>
-		<h3>{{app.ammount | number}} {{"views.main.people" | translate}}</h3>
+		<h1 translate>{{"reg-your-organization"}}</h1>
+		<h3>{{app.ammount | currency}}</h3>
 		<h3>{{app.date | date:'longDate'}} - {{app.date | date:'mediumTime'}}</h3>
 	</div>
 
