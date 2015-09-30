@@ -2,6 +2,7 @@ var sheetrock = require('sheetrock');
 var fs = require('fs');
 
 var codes = ['en-US','pt-PT'];
+var url = "https://docs.google.com/spreadsheets/d/1ZHAW_42AArB6z7BIRLjJPPgzWnQmSJqRoOR8fILiJuE/edit#gid=0";
 
 var myCallback = function (error, options, response) {
   if (!error) {
@@ -55,7 +56,7 @@ var writeToFiles = function(code,res){
 
 
 sheetrock({
-  url: "https://docs.google.com/spreadsheets/d/1ZHAW_42AArB6z7BIRLjJPPgzWnQmSJqRoOR8fILiJuE/edit#gid=0",
+  url: url,
   query: "select *",
   callback: myCallback
 });
