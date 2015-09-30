@@ -3,9 +3,9 @@ Running ```npm install``` and ```node node.js``` in this folder will output loca
 
 The layout of the spreadsheet should be:
 
-Language Key     |      en-US       |       pt-PT     |
-
-say-hello		 |      Hello!      |        Ola!     |
-say-goodbye      |       Bye!       |       Adeus!    |	
+    Language Key     |      en-US       |       pt-PT     |
+    
+    say-hello		 |      Hello!      |        Ola!     |
+    say-goodbye      |       Bye!       |       Adeus!    |	
 
 The script will ignore anything that doesn't have a language key or any language codes that aren't in the ```codes``` array.
