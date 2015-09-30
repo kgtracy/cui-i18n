@@ -22,7 +22,7 @@
 
 	    //Asynchronously load translations
 	    $translateProvider.useStaticFilesLoader({
-	        prefix: 'resources/locale-',// path to translations files
+	        prefix: 'dist/cui-i18n/angular-translate/locale-',// path to translations files
 	        suffix: '.json'// suffix, currently- extension of the translations
 	    });
 	    $translateProvider.preferredLanguage('en_US');// is applied on first load
@@ -99,7 +99,7 @@
             template: ''+
             '<div class="language-select" ng-if="visible">'+
                 '<label>'+
-                    '{{"cui-please-select-country" | translate}}:'+
+                    '{{"cui-please-select-country" | translate}} : '+
                     '<select ng-model="currentLocaleDisplayName"'+
                         'ng-options="localesDisplayName for localesDisplayName in localesDisplayNames"'+
                         'ng-change="changeLanguage(currentLocaleDisplayName)">'+
