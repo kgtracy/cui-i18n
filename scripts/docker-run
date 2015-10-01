@@ -1,0 +1,9 @@
+#!/bin/bash
+
+IMAGE_NAME=cui-i18n
+CONTAINER_NAME=cui-i18n-$(date +%s)
+SRC_VOLUME=$(pwd)/dist
+DEST_VOLUME=/app/dist
+
+docker run --name=${CONTAINER_NAME} --volume=${SRC_VOLUME}:${DEST_VOLUME} ${IMAGE_NAME}
+docker rm ${CONTAINER_NAME}
