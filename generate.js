@@ -15,44 +15,39 @@ var myCallback = function (error, options, response) {
 };
 
 var parseResponse = function(res){
-	createFiles(res[0].cells);
+	createFiles(res[0].cells, res);
 	for(i=0;i<codes.length;i++){
 		writeToFiles(codes[i],res);
 	}
 };
 
-var createFiles = function(cells){
+var createFiles = function(cells, res){
 	for(i=0;i<codes.length;i++){
-		fs.writeFile(outputDirectory+'locale-'+codes[i].replace(/-/g, '_')+'.json','{',function(err){
-			if(err) throw err;
+		fs.writeFile(outputDirectory+'locale-'+codes[i].replace(/-/g, '_')+'.json','{\n',function(err){
+			if(err){ console.log(err);}
 		})
 	}
 };
 
 var writeToFiles = function(code,res){
 	var valueInserted=false;
-	for(j=1; j<res.length ; j++){
+	var fileName=outputDirectory + 'locale-' + code.replace(/-/g, '_') + '.json';
+	console.log(res.length)
+	for(j=1; j < res.length ; j++){
 		if(res[j].cells.LanguageKey!=='N/A' && (res[j].cells[code]!=='' && res[j].cells[code]!==undefined)){
 			if(res[j].cells[code].includes('"')){
 				res[j].cells[code]=res[j].cells[code].replace(/"/g,'&quot;');
 			}
-			var fileName=outputDirectory + 'locale-' + code.replace(/-/g, '_') + '.json';
 			if(!valueInserted){
-				fs.appendFile(fileName, '\n    "' + res[j].cells.LanguageKey + '": ' + '"' + res[j].cells[code] + '"' ,function(err){
-					if(err) throw err;
-				})
+				fs.appendFileSync(fileName, '      "' + res[j].cells.LanguageKey + '": "' + res[j].cells[code] + '"');
 			}
 			else{
-				fs.appendFile(fileName, ',\n    "' + res[j].cells.LanguageKey + '": ' + '"' + res[j].cells[code] + '"' ,function(err){
-					if(err) throw err;
-				})
+				fs.appendFileSync(fileName, ',\n    "' + res[j].cells.LanguageKey + '": "' + res[j].cells[code] + '"');
 			}
 			valueInserted=true;
 		}
 	}
-	fs.appendFile(fileName, '\n}' ,function(err){
-		if(err) throw err;
-	})	
+	fs.appendFileSync(fileName, '\n}')
 };
 
 
@@ -61,3 +56,9 @@ sheetrock({
   query: "select *",
   callback: myCallback
 });
+
+if (!String.prototype.includes) {
+  String.prototype.includes = function() {
+    return String.prototype.indexOf.apply(this, arguments) !== -1;
+  };
+}
