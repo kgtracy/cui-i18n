@@ -10,7 +10,7 @@
     "ulp-forgot-password": "Forgot Password",
     "ulp-roche-user-log-on": "Roche user log on",
     "ulp-log-on": "Log on",
-    "ulp-no-account": "I don't have an account",
+    "ulp-no-account": "I don't have an account. Booh.",
     "err-max-forgot-questionnaire-attempts": "“You have exceeded the maximum number of invalid forgot questionnaire attempts -- your account has been locked as a security precaution.”",
     "err-username-taken": "Username is already used in the system. Please enter a different Username.”",
     "err-password-invalid": "The new password does not adhere to Roche’s password policy. Please recheck the password policy below and re-enter a new password.”",
