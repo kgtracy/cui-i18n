@@ -4,15 +4,18 @@
     angular
     .module('app',['translate'])
     .factory('getVariables',['$http','$q',getVariables])
-    .controller('appCtrl',['$timeout','getVariables',appCtrl]);
+    .controller('appCtrl',['$timeout','getVariables','$translate',appCtrl]);
     
     function getVariables($http){
         return $http.get('dist/cui-i18n/angular-translate/locale-en_US.json')
     }
 
-    function appCtrl($timeout,getVariables){
+    function appCtrl($timeout,getVariables,$translate){
         var app=this;
         app.init = function(){
+            app.data={
+                name: 'Ricardo Marques'
+            }
             app.key=[];
             app.getVariables();
             app.ammount=0;
@@ -44,7 +47,6 @@
         }
 
         app.init();
-
     }
 
 

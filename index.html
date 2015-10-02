@@ -9,6 +9,7 @@
 <body ng-controller="appCtrl as app">
 	<div class="container">
 		<div ng-translate-language-select></div>
+		{{app.select}}
 		<h3>{{app.ammount | currency}}</h3>
 		<h3>{{app.date | date:'longDate'}} - {{app.date | date:'mediumTime'}}</h3>
 		<table class="table table-striped">
@@ -20,7 +21,7 @@
 			</thead>
 			<tbody>
 			    <tr ng-repeat="key in app.key">
-			    	<td>{{key}}</td><td translate>{{key}}</td>
+			    	<td>{{key}}</td><td translate translate-values="{{app.data}}">{{key}}</td>
 			    </tr>
 			</tbody>
 		</table>
