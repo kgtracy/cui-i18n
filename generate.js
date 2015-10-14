@@ -2,7 +2,7 @@ var sheetrock = require('sheetrock');
 var fs = require('fs');
 
 var codes = ['en-US','pt-PT'];
-var url = "https://docs.google.com/spreadsheets/d/1ZHAW_42AArB6z7BIRLjJPPgzWnQmSJqRoOR8fILiJuE/edit#gid=0";
+var url = "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0";
 var outputDirectory = "./dist/cui-i18n/angular-translate/";
 var outputDirectoryJava = "./dist/cui-i18n/java/";
 
@@ -37,7 +37,7 @@ var writeToFiles = function(code,res){
 	var valueInserted=false;
 	var fileName=outputDirectory + 'locale-' + code.replace(/-/g, '_') + '.json';
 	var fileName2=outputDirectoryJava + 'locale-' + code.replace(/-/g, '_') + '.properties';
-	for(j=1; j < res.length ; j++){
+	for(j=0; j < res.length ; j++){
 		if(res[j].cells.LanguageKey!=='N/A' && (res[j].cells[code]!=='' && res[j].cells[code]!==undefined)){
 			fs.appendFileSync(fileName2, '\n' + res[j].cells.LanguageKey + '=' + res[j].cells[code]);
 			if(res[j].cells[code].includes('"')){
