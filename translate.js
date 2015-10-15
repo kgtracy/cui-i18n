@@ -64,6 +64,7 @@
 	    
 	      // asking angular-translate to load and apply proper translations
 	      $translate.use(locale);
+	      $rootScope.$broadcast('languageChange');
 	    };
 	    
 	    // EVENTS
