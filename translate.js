@@ -11,8 +11,8 @@
 	.constant('LOCALES', {
 	    'locales': {
 	    	//add more locales here
-	        'pt_PT': 'Portugal',
-	        'en_US': 'United States'
+	        'pt_PT': 'Português (Portugal)',
+	        'en_US': 'English (United States)'
 	    },
 	    'preferredLocale': 'en_US'
 	})
@@ -22,11 +22,11 @@
 
 	    //Asynchronously load translations
 	    $translateProvider.useStaticFilesLoader({
-	        prefix: 'dist/cui-i18n/angular-translate/locale-',// path to translations files
+	        prefix: 'bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-',// path to translations files
 	        suffix: '.json'// suffix, currently- extension of the translations
 	    });
 	    $translateProvider.preferredLanguage('en_US');// is applied on first load
-	    $translateProvider.useSanitizeValueStrategy('sanitize');
+	    $translateProvider.useSanitizeValueStrategy('escape');
 	    $translateProvider.useLocalStorage();// saves selected language to localStorage
 
 	    //Where the $locale settings are (for currency,dates and number formats)
@@ -64,6 +64,7 @@
 	    
 	      // asking angular-translate to load and apply proper translations
 	      $translate.use(locale);
+	      $rootScope.$broadcast('languageChange');
 	    };
 	    
 	    // EVENTS
@@ -98,13 +99,10 @@
             replace: true,
             template: ''+
             '<div class="language-select" ng-if="visible">'+
-                '<label>'+
-                    '{{"cui-please-select-country" | translate}} : '+
-                    '<select ng-model="currentLocaleDisplayName"'+
-                        'ng-options="localesDisplayName for localesDisplayName in localesDisplayNames"'+
-                        'ng-change="changeLanguage(currentLocaleDisplayName)">'+
-                    '</select>'+
-                '</label>'+
+                '<select ng-model="currentLocaleDisplayName"'+
+                    'ng-options="localesDisplayName for localesDisplayName in localesDisplayNames"'+
+                    'ng-change="changeLanguage(currentLocaleDisplayName)">'+
+                '</select>'+
             '</div>'+
             '',
             controller: function ($scope) {

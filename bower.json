@@ -1,5 +1,5 @@
 {
-  "name": "translate",
+  "name": "cui-i18n",
   "description" : "Translation module for angular apps - using angular-translate",
   "main": "translate.js",
   "version": "1.0.0",
@@ -16,7 +16,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    ".DS_store",
+    "**/.DS_store"
   ],
   "dependencies": {
     "angular-translate": "~2.8.0",
