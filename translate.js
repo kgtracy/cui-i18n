@@ -12,7 +12,8 @@
 	    'locales': {
 	    	//add more locales here
 	        'pt_PT': 'Português (Portugal)',
-	        'en_US': 'English (United States)'
+	        'en_US': 'English (United States)',
+	        'zh_CN': 'Chinese (China)'
 	    },
 	    'preferredLocale': 'en_US'
 	})
