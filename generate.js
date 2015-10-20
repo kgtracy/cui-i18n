@@ -1,7 +1,7 @@
 var sheetrock = require('sheetrock');
 var fs = require('fs');
 
-var codes = ['en-US','pt-PT'];
+var codes = ['en-US','pt-PT','zh-CN'];
 var url = "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0";
 var outputDirectory = "./dist/cui-i18n/angular-translate/";
 var outputDirectoryJava = "./dist/cui-i18n/java/";
