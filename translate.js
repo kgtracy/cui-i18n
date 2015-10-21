@@ -13,7 +13,8 @@
 	    	//add more locales here
 	        'pt_PT': 'Português (Portugal)',
 	        'en_US': 'English (United States)',
-	        'zh_CN': 'Chinese (China)'
+	        'zh_CN': 'Chinese (China)',
+	        'pl_PL': 'Polish (Poland)'
 	    },
 	    'preferredLocale': 'en_US'
 	})
