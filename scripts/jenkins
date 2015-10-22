@@ -3,7 +3,6 @@
 npm install
 node generate.js
 source scripts/native2ascii
-tar -czvf dist/cui-i18n.tar.gz -C dist/ cui-i18n/
-mvn deploy:deploy-file -DpomFile=pom.xml -DrepositoryId=thirdwave-snapshots -Dfile=dist/cui-i18n.tar.gz -Durl=http://nexus.thirdwavellc.com/content/repositories/snapshots/
+mvn clean deploy
 git add -A
 git diff-index --quiet --cached HEAD || git commit -am "Updates Published by Jenkins (Build ${BUILD_NUMBER})"
