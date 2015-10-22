@@ -1,4 +1,4 @@
-dist/cui-i18n.tar.gz
+target/
 node_modules/
 bower_components/
 .DS_Store
