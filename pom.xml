@@ -73,7 +73,7 @@
                                   <author_link>http://www.thirdwavellc.com</author_link>
                                   <author_name>Orin Fink</author_name>
                                   <color>#36a64f</color>
-                                  <fallback>Recent artifact for you.</fallback>
+                                  <fallback>Artifact ${project.artifactId} has been posted to Nexus.</fallback>
                                   <fields>
                                       <element>
                                           <short>false</short>
@@ -81,7 +81,6 @@
                                           <value>High</value>
                                       </element>
                                   </fields>
-                                  <image_url>http://support.thirdwavellc.com/default.asp?pg=pgDownload&amp;pgType=pgLogo&amp;ixAttachmentLogo=13313</image_url>
                                   <pretext>Get your artifact here!</pretext>
                                   <text>${project.description}</text>
                               </attachment>
