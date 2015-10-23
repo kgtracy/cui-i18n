@@ -13,6 +13,16 @@
   <artifactId>cui-i18n</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+
+  <dependencies>
+  <!-- Slack Notifier -->
+    <dependency>
+      <groupId>br.com.kibutx</groupId>
+      <artifactId>slack-maven-plugin</artifactId>
+      <version>1.0.1-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
+
   <build>
     <plugins>
       <plugin>
@@ -31,6 +41,56 @@
           </execution>
         </executions>
       </plugin>
+
+
+      <!-- lets let people know we are deploying this -->
+      <plugin>
+          <groupId>br.com.kibutx</groupId>
+          <artifactId>slack-maven-plugin</artifactId>
+          <executions>
+              <execution>
+                  <id>slack</id>
+                  <phase>deploy</phase>
+                  <goals>
+                      <goal>slackmessage</goal>
+                  </goals>
+                  <configuration>
+                      <apiHash>T04NG8SKZ/B0CSFDSAU/dEomAyvMHfg0CBuVMyKFKCyT</apiHash>
+                      <username>Maven8r</username>
+                      <channel>#cui-i18n</channel>
+                      <message>Whoo Hoo!  A new deploy.</message>
+                      <fields>
+                          <field>
+                              <value>Project Version ${project.version}</value>
+                          </field>
+                      </fields>
+                          <attachments>
+                            <attachment>
+                                  <title>${project.name}</title>
+                                  <title_link>http://nexus.thirdwavellc.com/service/local/artifact/maven/redirect?r=snapshots&amp;g=${project.groupId}&amp;a=${project.artifactId}&amp;v=${project.version}&amp;p=tar.gz&amp;c=resources</title_link>
+                                  <thumb_url>http://www.hackrunner.com/wp-content/uploads/2012/04/nexus2.png</thumb_url>                             
+                                  <author_icon>https://s.gravatar.com/avatar/34f6fb8ea4cee277147582858f827f67?s=80</author_icon>
+                                  <author_link>http://www.thirdwavellc.com</author_link>
+                                  <author_name>Orin Fink</author_name>
+                                  <color>#36a64f</color>
+                                  <fallback>Recent artifact for you.</fallback>
+                                  <fields>
+                                      <element>
+                                          <short>false</short>
+                                          <title>Priority</title>
+                                          <value>High</value>
+                                      </element>
+                                  </fields>
+                                  <image_url>http://support.thirdwavellc.com/default.asp?pg=pgDownload&amp;pgType=pgLogo&amp;ixAttachmentLogo=13313</image_url>
+                                  <pretext>Get your artifact here!</pretext>
+                                  <text>${project.description}</text>
+                              </attachment>
+                          </attachments>
+                  </configuration>
+              </execution>
+          </executions>
+      </plugin>
+
     </plugins>
   </build>
 
@@ -44,4 +104,5 @@
     <name>Covisint</name>
   </organization>
   <name>CUI Language Bundle</name>
+  <description>A library of language resource bundles</description>
 </project>
