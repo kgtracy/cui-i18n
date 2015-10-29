@@ -16,7 +16,7 @@
 	    },
 	    'preferredLocale': 'en_US'
 	})
-	.config(function ($translateProvider,tmhDynamicLocaleProvider) {
+	.config(['$translateProvider','tmhDynamicLocaleProvider', function ($translateProvider,tmhDynamicLocaleProvider) {
 		//get warning in console regarding forgotten ID's. Comment out when not needed.
 	    $translateProvider.useMissingTranslationHandlerLog();
 
@@ -32,8 +32,9 @@
 	    //Where the $locale settings are (for currency,dates and number formats)
 	    tmhDynamicLocaleProvider.localeLocationPattern('bower_components/angular-i18n/angular-locale_{{locale}}.js');
 
-	})
-	.service('LocaleService', function ($translate, LOCALES, $rootScope, tmhDynamicLocale) {
+	}])
+	.service('LocaleService', ['$translate', 'LOCALES', '$rootScope', 'tmhDynamicLocale',
+	 function ($translate, LOCALES, $rootScope, tmhDynamicLocale) {
 	    // PREPARING LOCALES INFO
 	    var localesObj = LOCALES.locales;
 
@@ -91,9 +92,9 @@
 	        return _LOCALES_DISPLAY_NAMES;
 	      }
 	    };
-	})
+	}])
 	//language dropdown directive
-	.directive('ngTranslateLanguageSelect', function (LocaleService) { 'use strict';
+	.directive('ngTranslateLanguageSelect',['LocaleService',function (LocaleService) { 'use strict';
 		return {
             restrict: 'A',
             replace: true,
@@ -116,7 +117,7 @@
                 };
             }
         };
-    });
+    }]);
 
 
 })(angular)
