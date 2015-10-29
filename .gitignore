@@ -3,3 +3,7 @@ node_modules/
 bower_components/
 .DS_Store
 **/.DS_Store
+.settings
+bin
+.classpath
+.project

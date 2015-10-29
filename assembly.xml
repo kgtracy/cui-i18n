@@ -4,6 +4,7 @@
   <id>resources</id>
   <formats>
     <format>tar.gz</format>
+    <format>zip</format>
   </formats>
   
   <fileSets>
@@ -11,7 +12,7 @@
       <directory>${project.basedir}/dist/</directory>
       <outputDirectory>/</outputDirectory>
       <includes>
-        <include>*</include>
+        <include>**/*</include>
       </includes>
     </fileSet>
   </fileSets>
