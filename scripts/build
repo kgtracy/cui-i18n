@@ -3,4 +3,5 @@
 npm install
 node generate.js
 source scripts/native2ascii
+grunt build
 mvn clean assembly:single deploy
