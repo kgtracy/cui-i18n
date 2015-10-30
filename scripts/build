@@ -1,5 +1,6 @@
 #!/bin/bash
 
+bower install
 npm install
 node generate.js
 source scripts/native2ascii
