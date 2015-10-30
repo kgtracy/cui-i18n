@@ -38,6 +38,7 @@
       <plugin>
           <groupId>br.com.kibutx</groupId>
           <artifactId>slack-maven-plugin</artifactId>
+          <version>1.1.2</version>
           <executions>
               <execution>
                   <id>slack</id>
@@ -54,17 +55,9 @@
                             <attachment>
                                   <title>${project.name}</title>
                                   <title_link>http://nexus.thirdwavellc.com/service/local/artifact/maven/redirect?r=snapshots&amp;g=${project.groupId}&amp;a=${project.artifactId}&amp;v=${project.version}&amp;p=tar.gz&amp;c=resources</title_link>
-                                  <thumb_url>http://www.hackrunner.com/wp-content/uploads/2012/04/nexus2.png</thumb_url>                             
                                   <author_name>${user.name} on ${os.name}</author_name>
                                   <color>#36a64f</color>
                                   <fallback>Artifact ${project.artifactId} has been posted to Nexus.</fallback>
-                                  <fields>
-                                      <element>
-                                          <short>false</short>
-                                          <title>Priority</title>
-                                          <value>High</value>
-                                      </element>
-                                  </fields>
                                   <pretext>Get your artifact here!</pretext>
                                   <text>${project.description}</text>
                               </attachment>
