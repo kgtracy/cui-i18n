@@ -1,0 +1,6 @@
+#!/bin/bash
+
+npm install
+node generate.js
+source scripts/native2ascii
+mvn clean assembly:single deploy

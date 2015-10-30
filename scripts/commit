@@ -1,8 +1,4 @@
 #!/bin/bash
 
-npm install
-node generate.js
-source scripts/native2ascii
-mvn clean assembly:single deploy
 git add -A
 git diff-index --quiet --cached HEAD || git commit -am "Updates Published by Jenkins (Build ${BUILD_NUMBER})"
