@@ -1,6 +1,6 @@
 {
   "name": "cui-i18n",
-  "description" : "Translation module for angular apps - using angular-translate",
+  "description": "Translation module for angular apps - using angular-translate",
   "main": "translate.js",
   "version": "1.0.0",
   "authors": [
@@ -30,6 +30,7 @@
     "angular-resource": "~1.4.6",
     "angular-sanitize": "~1.4.6",
     "bootstrap": "~3.3.5",
-    "angular-translate-loader-static-files": "~2.8.0"
+    "angular-translate-loader-static-files": "~2.8.0",
+    "cui-i18n": "*"
   }
 }

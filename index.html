@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="app">
+<html>
 <head>
 	<meta charset="UTF-8">
 	<title>Translation test</title>
+	
+	<!-- build:css assets/css/styles.css -->
 	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
 	<link rel="stylesheet" href="styles.css">
+	<!-- endbuild -->
 </head>
-<body ng-controller="appCtrl as app">
+<body ng-app="app" ng-controller="appCtrl as app">
 	<div class="container">
 		<div ng-translate-language-select></div>
 		{{app.select}}
@@ -27,8 +30,8 @@
 		</table>
 	</div>
 
-
-	<script src="bower_components/jquery/dist/jquery.js"></script>
+	<!-- build:js assets/js/vendor.js -->
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
 	<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
 
 	<script src="bower_components/angular/angular.js"></script>
@@ -42,8 +45,13 @@
 	<script src="bower_components/angular-translate-loader-static-files/angular-translate-loader-static-files.js"></script>
 	<script src="bower_components/angular-translate-storage-cookie/angular-translate-storage-cookie.js"></script>
 	<script src="bower_components/angular-translate-handler-log/angular-translate-handler-log.js"></script>
-
 	<script src="translate.js"></script>
+	<!-- endbuild -->
+
+
+	<!-- build:js assets/js/app.js -->
 	<script src="app.js"></script>
+	<!-- endbuild -->
+
 </body>
 </html>

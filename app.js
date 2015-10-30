@@ -1,16 +1,11 @@
 (function(angular){
-    'use strict';
 
     angular
     .module('app',['translate'])
-    .factory('getVariables',['$http','$q',getVariables])
-    .controller('appCtrl',['$timeout','getVariables','$translate',appCtrl]);
-    
-    function getVariables($http){
-        return $http.get('dist/cui-i18n/angular-translate/locale-en_US.json')
-    }
-
-    function appCtrl($timeout,getVariables,$translate){
+    .factory('getVariables',['$http',function($http){
+        return $http.get('bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-en_US.json')
+    }])
+    .controller('appCtrl',['$timeout','getVariables',function($timeout,getVariables){
         var app=this;
         app.init = function(){
             app.data={
@@ -47,9 +42,5 @@
         }
 
         app.init();
-    }
-
-
-
-
-})(angular)
+    }]);
+})(angular);
