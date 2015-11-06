@@ -18,7 +18,12 @@
     "test",
     "tests",
     ".DS_store",
-    "**/.DS_store"
+    "**/.DS_store",
+    "scripts",
+    "app.js",
+    "assembly.xml",
+    "Dockerfile",
+    "pom.xml"
   ],
   "dependencies": {
     "angular-translate": "~2.8.0",
