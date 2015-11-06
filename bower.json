@@ -23,7 +23,13 @@
     "app.js",
     "assembly.xml",
     "Dockerfile",
-    "pom.xml"
+    "pom.xml",
+    "app.js",
+    "generate.js",
+    "Gruntfile.js",
+    "index.html",
+    "package.json",
+    "styles.css"
   ],
   "dependencies": {
     "angular-translate": "~2.8.0",
@@ -31,11 +37,13 @@
     "angular-translate-handler-log": "~2.8.0",
     "angular-dynamic-locale": "~0.1.27",
     "angular-i18n": "~1.4.6",
-    "angular": "~1.4.6",
     "angular-resource": "~1.4.6",
     "angular-sanitize": "~1.4.6",
+    "angular-translate-loader-static-files": "~2.8.0"
+  },
+  "devDependencies": {
+    "angular": "~1.4.6",
     "bootstrap": "~3.3.5",
-    "angular-translate-loader-static-files": "~2.8.0",
     "cui-i18n": "*"
   }
 }
