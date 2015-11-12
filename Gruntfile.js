@@ -40,8 +40,12 @@ module.exports = function(grunt) {
         src: 'index.html',
         dest: 'build/index.html'
       },
+      index2: {
+        src: 'index2.html',
+        dest: 'build/index2.html'
+      },
       translations: {
-        src: 'dist/cui-i18n/angular-translate/*.json',
+        src: 'dist/cui-i18n/**/*.json',
         dest: 'build/bower_components/cui-i18n/'
       },
       localeFiles: {
@@ -50,18 +54,19 @@ module.exports = function(grunt) {
       }
     },
     useminPrepare: {
-      html: 'index.html',
+      html: '*.html',
       options: {
         dest: 'build'
       }
+     
     },
     usemin: {
-      options: {
-        assetsDirs: ['build']
-      },
       css: ['build/assets/css/{,*/}*.css'],
       js: ['build/assets/js/{,*/}*.js'],
-      html: ['build/index.html']
+      html: ['build/*.html'],
+      options: {
+        assetsDirs: ['build']
+      }
     },
     uglify: {
       options: {
@@ -73,13 +78,8 @@ module.exports = function(grunt) {
     }
 
   });
-
- 
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-browser-sync');
-  grunt.loadNpmTasks('grunt-exec');
   
   grunt.registerTask('default', ['browserSync:dev']);
-  grunt.registerTask('build', ['exec:generate','copy:translations','copy:localeFiles','copy:index','useminPrepare','concat:generated','cssmin:generated','uglify:generated','usemin']);
+  grunt.registerTask('build', ['exec:generate','copy:translations','copy:localeFiles','copy:index','copy:index2','useminPrepare','concat:generated','cssmin:generated','uglify:generated','usemin']);
   grunt.registerTask('demo', ['browserSync:demo']);
 }

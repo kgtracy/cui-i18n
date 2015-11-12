@@ -1,3 +1,24 @@
 .container{
 	padding-top:20px;
+    position:relative;
+    width:100%;
+    min-height:100vh;
+}
+
+.desktop-menu{
+    margin:0;
+}
+
+.content {
+    margin-left:300px;
+}
+
+@media all and (max-width: 1000px){
+    .desktop-menu{
+        display:inline-block;
+    }
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
 }
