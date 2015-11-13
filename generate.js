@@ -40,10 +40,10 @@ var createFiles = function(cells, res, mode){
     }
     if(mode==='messaging'){
         for(i=0;i<codes.length;i++){
-            fs.writeFile(messagingOutputDirectory+'locale-'+codes[i].replace(/-/g, '_')+'.json','{\n',function(err){
+            fs.writeFile(messagingOutputDirectory+codes[i].replace(/-/g, '_')+'.json','{\n',function(err){
                 if(err){ console.log(err);}
             })
-            fs.writeFile(messagingOutputDirectoryJava+'locale-'+codes[i].replace(/-/g, '_')+'.properties','',function(err){
+            fs.writeFile(messagingOutputDirectoryJava+codes[i].replace(/-/g, '_')+'.properties','',function(err){
                 if(err){ console.log(err);}
             })
         }
@@ -57,8 +57,8 @@ var writeToFiles = function(code,res,mode){
 	    var fileName2=outputDirectoryJava + 'locale-' + code.replace(/-/g, '_') + '.properties';
     }
     if (mode==='messaging'){
-        var fileName=messagingOutputDirectory + 'locale-' + code.replace(/-/g, '_') + '.json';
-        var fileName2=messagingOutputDirectoryJava + 'locale-' + code.replace(/-/g, '_') + '.properties';
+        var fileName=messagingOutputDirectory + code.replace(/-/g, '_') + '.json';
+        var fileName2=messagingOutputDirectoryJava + code.replace(/-/g, '_') + '.properties';
     }
 	for(j=0; j < res.length ; j++){
 		if(res[j].cells.LanguageKey!=='N/A' && (res[j].cells[code]!=='' && res[j].cells[code]!==undefined)){
