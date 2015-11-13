@@ -3,7 +3,7 @@
     angular
     .module('app2',['translate'])
     .factory('getVariables',['$http',function($http){
-        return $http.get('bower_components/cui-i18n/dist/cui-i18n/messaging/json/locale-en_US.json')
+        return $http.get('bower_components/cui-i18n/dist/cui-i18n/messaging/json/en_US.json')
     }])
     .controller('appCtrl',['$timeout','getVariables',function($timeout,getVariables){
         var app=this;
