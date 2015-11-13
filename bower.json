@@ -29,7 +29,9 @@
     "Gruntfile.js",
     "index.html",
     "package.json",
-    "styles.css"
+    "styles.css",
+    "index2.html",
+    "app2.js"
   ],
   "dependencies": {
     "angular-translate": "~2.8.0",
