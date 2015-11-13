@@ -5,6 +5,17 @@
     .factory('getVariables',['$http',function($http){
         return $http.get('bower_components/cui-i18n/dist/cui-i18n/messaging/json/en_US.json')
     }])
+    .config(['$translateProvider',function($translateProvider){
+        $translateProvider.useLoader('LocaleLoader',{
+            url:'bower_components/cui-i18n/dist/cui-i18n/messaging/json/'
+        });
+    }])
+    .run(['LocaleService',function(LocaleService){
+        LocaleService.setLocales('en_US','English (United States)');
+        LocaleService.setLocales('pl_PL','Polish (Poland)');
+        LocaleService.setLocales('zh_CN', 'Chinese (Simplified)');
+        LocaleService.setLocales('pt_PT','Portuguese (Portugal)');
+    }])
     .controller('appCtrl',['$timeout','getVariables',function($timeout,getVariables){
         var app=this;
         app.init = function(){

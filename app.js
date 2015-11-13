@@ -5,7 +5,19 @@
     .factory('getVariables',['$http',function($http){
         return $http.get('bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-en_US.json')
     }])
-    .controller('appCtrl',['$timeout','getVariables',function($timeout,getVariables){
+    .config(['$translateProvider',function($translateProvider){
+        $translateProvider.useLoader('LocaleLoader',{
+            url:'bower_components/cui-i18n/dist/cui-i18n/angular-translate/',
+            prefix:'locale-'
+        });
+    }])
+    .run(['LocaleService',function(LocaleService){
+        LocaleService.setLocales('en_US','English (United States)');
+        LocaleService.setLocales('pl_PL','Polish (Poland)');
+        LocaleService.setLocales('zh_CN', 'Chinese (Simplified)');
+        LocaleService.setLocales('pt_PT','Portuguese (Portugal)');
+    }])
+    .controller('appCtrl',['LocaleService','$timeout','getVariables',function(LocaleService,$timeout,getVariables){
         var app=this;
         app.init = function(){
             app.data={
