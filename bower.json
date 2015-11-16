@@ -2,7 +2,7 @@
   "name": "cui-i18n",
   "description": "Translation module for angular apps - using angular-translate",
   "main": "translate.js",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "authors": [
     "Thirdwave, LLC."
   ],
