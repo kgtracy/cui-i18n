@@ -2,7 +2,6 @@ var sheetrock = require('sheetrock');
 var generator = require('./generator');
 
 var codes = ['en-US','pt-PT','zh-CN','pl-PL'];
-var translationsUrl = "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0";
 
 var translationCallback = function(error, options, response) {
   if (error) {
@@ -24,7 +23,7 @@ var translationCallback = function(error, options, response) {
 }
 
 sheetrock({
-  url: translationsUrl,
+  url: "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0",
   query: "select *",
   callback: translationCallback
 });
