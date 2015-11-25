@@ -30,5 +30,18 @@
     "cui-next": "PRÓXIMO",
     "cui-previous": "ANTERIOR",
     "cui-create-security-admin-account": "Cria a tua conta de administrador de segurança",
-    "cui-skip-for-now": "PASSAR POR AGORA"
+    "cui-skip-for-now": "PASSAR POR AGORA",
+    "icon-library": "Libraria de icons",
+    "lowercase-not-allowed": "nao conter nenhuma letra minuscula",
+    "uppercase-not-allowed": "nao conter nenhuma letra maiuscula",
+    "numbers-not-allowed": "nao conter nenhum numero",
+    "special-not-allowed": "nao conter nenhum simbolo especial (ex: ! * +)",
+    "char-not-allowed": "nao conter nenhum dos seguintes caracters : ^&*)(#$",
+    "password-length": "ter entre 8-18 caracters",
+    "password-rules": "ter 3 dos seguintes:",
+    "password-lowercase": "pelo menos 1 letra minuscula",
+    "password-uppercase": "pelo menos 1 letra maiuscula",
+    "password-number": "pelo menos 1 numero",
+    "password-special": "pelo menos 1 simbolo (ex: ! * + )",
+    "passwords-must": "A password tem de:"
 }
