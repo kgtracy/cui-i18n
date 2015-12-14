@@ -6,15 +6,12 @@ import java.io.IOException;
 
 public class ListCountry {
 
-    public ListCountry() {
-    }
-
     public static void main(String[] args) {
 	    ListCountry obj = new ListCountry();
-        obj.listCountriesLocale();
+        obj.ListCountriesLocale();
     }
 
-    public static void listCountriesLocale() {
+    public static void ListCountriesLocale() {
 
         Locale locales[] = Locale.getAvailableLocales();
         String[] isoCountries = Locale.getISOCountries();
