@@ -18,34 +18,38 @@ public class ListCountry {
 
         Locale locales[] = Locale.getAvailableLocales();
         String[] isoCountries = Locale.getISOCountries();
+        String localeString;
 
         for (Locale locale : locales) {
 
-            try {
-                PrintWriter writer = new PrintWriter("./assets/json/"+locale+".json", "UTF-8");
-                writer.println("[{");
-                writer.flush();
+            localeString = locale.toString();
 
-                for (int i = 0; i < isoCountries.length; i++) {
-                    Locale localeObj = new Locale("", isoCountries[i]);
+            if (localeString.length() == 2) {
+                try {
+                    PrintWriter writer = new PrintWriter("./assets/json/"+localeString+".json", "UTF-8");
+                    writer.println("[{");
+                    writer.flush();
 
-                    if (i == isoCountries.length - 1) {
-                        writer.println("\"" + localeObj.getCountry() + "\":\"" + localeObj.getDisplayCountry(locale) + "\"");
-                        writer.flush();
+                    for (int i = 0; i < isoCountries.length; i++) {
+                        Locale localeObj = new Locale("", isoCountries[i]);
+
+                        if (i == isoCountries.length - 1) {
+                            writer.println("\"" + localeObj.getCountry() + "\":\"" + localeObj.getDisplayCountry(locale) + "\"");
+                            writer.flush();
+                        }
+                        else {
+                            writer.println("\"" + localeObj.getCountry() + "\":\"" + localeObj.getDisplayCountry(locale) + "\",");
+                            writer.flush();
+                        }
                     }
-                    else {
-                        writer.println("\"" + localeObj.getCountry() + "\":\"" + localeObj.getDisplayCountry(locale) + "\",");
-                        writer.flush();
-                    }
+                    writer.println("}]");
+                    writer.flush();
+                    writer.close();
+
+                } catch (IOException e) {
+                    System.out.println("Error writing to file: " + e);
                 }
-                writer.println("}]");
-                writer.flush();
-                writer.close();
-
-            } catch (IOException e) {
-                System.out.println("Error writing to file: " + e);
             }
-
         }
     }
 }
