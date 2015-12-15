@@ -25,7 +25,7 @@ public class ListCountry {
             if (localeString.length() == 2) {
 
                 try {
-                    PrintWriter writer = new PrintWriter("./assets/json/"+localeString+".json", "UTF-8");
+                    PrintWriter writer = new PrintWriter("./assets/json/country_list/"+localeString+".json", "UTF-8");
                     writer.println("[{");
                     writer.flush();
 
