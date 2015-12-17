@@ -33,6 +33,22 @@
         </executions>
       </plugin>
 
+    <plugin>
+      <!-- Build an executable JAR -->
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-jar-plugin</artifactId>
+      <version>2.4</version>
+      <configuration>
+        <archive>
+          <manifest>
+            <addClasspath>true</addClasspath>
+            <classpathPrefix>lib/</classpathPrefix>
+            <mainClass>com.covisint.cui.i18n.ListCountry</mainClass>
+          </manifest>
+        </archive>
+      </configuration>
+    </plugin>
+
 
       <!-- lets let people know we are deploying this -->
       <plugin>
