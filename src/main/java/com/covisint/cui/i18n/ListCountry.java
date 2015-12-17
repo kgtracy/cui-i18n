@@ -1,70 +1,75 @@
 package com.covisint.cui.i18n;
 
 import java.util.Locale;
-import java.util.Map;
-import java.util.TreeMap;
+import java.io.PrintWriter;
+import java.io.IOException;
 
 public class ListCountry {
 
-    private Map<String, String> languagesMap = new TreeMap<String, String>();
-
-    public ListCountry() {
-	initLanguageMap();
-    }
-
     public static void main(String[] args) {
-
-	ListCountry obj = new ListCountry();
-	obj.getListOfCountries();
-
+	    ListCountry obj = new ListCountry();
+        obj.ListCountriesLocale();
     }
 
-    public void getListOfCountries() {
+    public static void ListCountriesLocale() {
 
-	String[] countries = Locale.getISOCountries();
+        Locale locales[] = Locale.getAvailableLocales();
+        String[] isoCountries = Locale.getISOCountries();
+        String localeString;
+        String[] displayCountryParts;
 
-	int supportedLocale = 0, nonSupportedLocale = 0;
+        for (Locale locale : locales) {
 
-	for (String countryCode : countries) {
+            localeString = locale.toString();
 
-	  Locale obj = null;
-	  if (languagesMap.get(countryCode) == null) {
-				
-		obj = new Locale("", countryCode);
-		nonSupportedLocale++;
-				
-	  } else {
+            if (localeString.length() == 2) {
 
-		//create a Locale with own country's languages
-		obj = new Locale(languagesMap.get(countryCode), countryCode);
-		supportedLocale++;
+                try {
+                    PrintWriter writer = new PrintWriter("./dist/cui-i18n/angular-translate/countries/"+localeString+".json", "UTF-8");
+                    writer.println("[{");
+                    writer.flush();
 
-	  }
+                    for (int i = 0; i < isoCountries.length; i++) {
 
-	  System.out.println("Country Code = " + obj.getCountry() 
-		+ ", Country Name = " + obj.getDisplayCountry(obj)
-		+ ", Languages = " + obj.getDisplayLanguage());
+                        Locale localeObj = new Locale("", isoCountries[i]);
 
-	  }
+                        /* If last item in loop don't write comma at the end */
+                        if (i == isoCountries.length - 1) {
 
-	  System.out.println("nonSupportedLocale : " + nonSupportedLocale);
-	  System.out.println("supportedLocale : " + supportedLocale);
+                            if (localeObj.getDisplayCountry(locale).contains(",")) {
+                                displayCountryParts = localeObj.getDisplayCountry(locale).split(",");
+                                writer.println("\"" + localeObj.getCountry() + "\":\"" + displayCountryParts[1] + " " + displayCountryParts[0] + "\"");
+                                writer.flush();
+                            }
+                            else {
+                                writer.println("\"" + localeObj.getCountry() + "\":\"" + localeObj.getDisplayCountry(locale) + "\"");
+                                writer.flush();
+                            }
 
+                        }
+                        else {
+
+                            if (localeObj.getDisplayCountry(locale).contains(",")) {
+                                displayCountryParts = localeObj.getDisplayCountry(locale).split(",");
+                                displayCountryParts[1] = displayCountryParts[1].substring(1);
+                                writer.println("\"" + localeObj.getCountry() + "\":\"" + displayCountryParts[1] + " " + displayCountryParts[0] + "\",");
+                                writer.flush();
+                            }
+                            else {
+                                writer.println("\"" + localeObj.getCountry() + "\":\"" + localeObj.getDisplayCountry(locale) + "\",");
+                                writer.flush();
+                            }
+
+                        }
+                    }
+                    writer.println("}]");
+                    writer.flush();
+                    writer.close();
+
+                } catch (IOException e) {
+                    System.out.println("Error writing to file: " + e);
+                }
+            }
+        }
     }
-
-    // create Map with country code and languages
-    public void initLanguageMap() {
-
-	Locale[] locales = Locale.getAvailableLocales();
-
-	for (Locale obj : locales) {
-
-	  if ((obj.getDisplayCountry() != null) && (!"".equals(obj.getDisplayCountry()))) {
-		languagesMap.put(obj.getCountry(), obj.getLanguage());
-	  }
-
-	}
-
-    }
-
 }
