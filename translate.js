@@ -63,7 +63,7 @@
 	    
 	      // asking angular-translate to load and apply proper translations
 	      $translate.use(localeCode);
-	      $rootScope.$broadcast('languageChange');
+	      $rootScope.$broadcast('languageChange',localeCode);
 	    };
 	    
 	    var setLocales = function(locale,localeDisplayName){
