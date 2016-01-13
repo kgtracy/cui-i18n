@@ -129,4 +129,4 @@
     }]);
 
 
-})(angular)
+})(angular);
