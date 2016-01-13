@@ -44,6 +44,8 @@
     "cui-address": "Address",
     "cui-organization-name": "Company/Division",
     "cui-supplier-code": "Supplier Code",
+    "cui-address-1": "Address 1",
+    "cui-address-2": "Address 2",
     "lowercase-not-allowed": "not have any lower case letters",
     "uppercase-not-allowed": "not have any upper case letters",
     "numbers-not-allowed": "not have any numbers",
