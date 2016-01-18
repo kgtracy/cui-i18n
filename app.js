@@ -8,7 +8,8 @@
     .config(['$translateProvider',function($translateProvider){
         $translateProvider.useLoader('LocaleLoader',{
             url:'bower_components/cui-i18n/dist/cui-i18n/angular-translate/',
-            prefix:'locale-'
+            prefix:'locale-',
+            suffix:'.json'
         });
     }])
     .run(['LocaleService',function(LocaleService){

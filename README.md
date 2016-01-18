@@ -16,10 +16,9 @@ Internationalization / localization module for use with angular on CUI products.
   .config(['$translateProvider',function($translateProvider){
         $translateProvider.useLoader('LocaleLoader',{
             url:'bower_components/cui-i18n/dist/cui-i18n/angular-translate/',
-            prefix:'locale-'  // Look in bower_components/cui-i18n/dist/cui-i18n/angular-translate/ for files that
-                  // look like locale-<language code>, so ex: locale-en_US.json. This can also be pointed
-                  // at a URL.
-        });
+            prefix:'locale-', // Look in bower_components/cui-i18n/dist/cui-i18n/angular-translate/ for files that
+            suffix:'.json'    // look like locale-<language code>.json, so ex: locale-en_US.json. This can also be pointed
+        });                   // at a URL.
   }]);
 ```
 
@@ -31,6 +30,8 @@ Then, in your html
 <!-- example -->
 {{"cui-create-security-admin-account" | translate}}
 ```
+## Change log 1/18/2016
 
+* localeloader now takes a suffix for different file types and urls
 
 
