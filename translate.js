@@ -24,7 +24,7 @@
 			var deferred=$q.defer();
 			$http({
 				method:'GET',
-				url:options.url + (options.prefix || '') + options.key + '.json'
+				url:options.url + (options.prefix || '') + options.key + (options.suffix || '')
 			})
 			.success(function(data){
 				deferred.resolve(data);
