@@ -61,6 +61,8 @@
     "cui-login": "Login",
     "cui-supplier-content": "Update this once the design docs come in. This is in the translation google doc. Lorem Ipsum. Other stuff. Supplier code important information. I like turtles.",
     "cui-all-organizations": "All Organizations:",
+    "cui-application-select-info": "You can always make your selections after logging in for the first time.",
+    "cui-all-applications": "All applications:",
     "lowercase-not-allowed": "not have any lower case letters",
     "uppercase-not-allowed": "not have any upper case letters",
     "numbers-not-allowed": "not have any numbers",
