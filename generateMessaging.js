@@ -9,7 +9,7 @@ var messagingCallback = function(error, options, response) {
     return;
   }
 
-  var parsedResponse = generator.parseLanguages(codes, response);
+  var parsedResponse = generator.sheetrock.parseLanguages(codes, response);
   var files = [{ extension: 'json',
                  formatter: generator.jsonFormatter,
                  outputDirectory: './dist/cui-i18n/messaging/json/' },

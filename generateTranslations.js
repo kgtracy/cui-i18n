@@ -9,7 +9,7 @@ var translationCallback = function(error, options, response) {
     return;
   }
 
-  var parsedResponse = generator.parseLanguages(codes, response);
+  var parsedResponse = generator.sheetrock.parseLanguages(codes, response);
   var files = [{ extension: 'json',
                  prefix: 'locale-',
                  formatter: generator.jsonFormatter,

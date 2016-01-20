@@ -21,32 +21,34 @@ module.exports = {
     });
   },
 
-  parseLanguages: function(codes, response) {
-    var languages = {};
+  sheetrock: {
+    parseLanguages: function(codes, response) {
+      var languages = {};
 
-    for (var i = 0; i < codes.length; i++) {
-      var code = codes[i];
-      if (response.rows[0].labels.indexOf(code) >= 0) {
-        languages[code] = this.extractLanguageKeys(code, response);
+      for (var i = 0; i < codes.length; i++) {
+        var code = codes[i];
+        if (response.rows[0].labels.indexOf(code) >= 0) {
+          languages[code] = this.extractLanguageKeys(code, response);
+        }
       }
+
+      return languages;
+    },
+
+    extractLanguageKeys: function(code, response) {
+      var keys = {};
+
+      for (var i = 0; i < response.rows.length; i++) {
+        var row = response.rows[i];
+
+        if (row.labels.indexOf(code) < 0) continue;
+        if (row.cells[code] === "") continue;
+
+        keys[row.cells.LanguageKey] = row.cells[code];
+      }
+
+      return keys;
     }
-
-    return languages;
-  },
-
-  extractLanguageKeys: function(code, response) {
-    var keys = {};
-
-    for (var i = 0; i < response.rows.length; i++) {
-      var row = response.rows[i];
-
-      if (row.labels.indexOf(code) < 0) continue;
-      if (row.cells[code] === "") continue;
-
-      keys[row.cells.LanguageKey] = row.cells[code];
-    }
-
-    return keys;
   },
 
   jsonFormatter: function (json) {
