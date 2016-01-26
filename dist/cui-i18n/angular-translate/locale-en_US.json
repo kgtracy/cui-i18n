@@ -91,6 +91,7 @@
     "cui-add-org": "Add Organization",
     "cui-remove-org": "Remove Organization",
     "cui-select-org": "Select Organization",
+    "cui-more-information": "more information",
     "lowercase-not-allowed": "not have any lower case letters",
     "uppercase-not-allowed": "not have any upper case letters",
     "numbers-not-allowed": "not have any numbers",
