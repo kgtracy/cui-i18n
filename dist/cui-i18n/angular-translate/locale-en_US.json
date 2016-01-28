@@ -109,5 +109,6 @@
     "cui-application-tos": "Review Terms & Conditions",
     "cui-application-tos-agreement": "Terms & Conditions Agreement",
     "cui-package-tos": "You have not accepted terms for the packages selected.",
-    "cui-view-tos": "View Terms & Conditions"
+    "cui-view-tos": "View Terms & Conditions",
+    "password-mismatch": "Passwords must match"
 }
