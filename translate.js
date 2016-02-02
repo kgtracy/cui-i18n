@@ -85,7 +85,7 @@
 
         return {
           getLocaleCode: function () {
-            return currentLocale;
+            return currentLocale || getLocales()[0];
           },
           getLocaleDisplayName: function () {
             return localesObj[currentLocale];
