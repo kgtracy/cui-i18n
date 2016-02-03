@@ -113,5 +113,7 @@
     "password-mismatch": "Passwords must match",
     "cui-back-to-review": "Back to Review",
     "email-mismatch": "Emails must match",
-    "no-applications-selected": "You don't have any applications selected. Click here to go back to application selection."
+    "no-applications-selected": "You don't have any applications selected. Click here to go back to application selection.",
+    "cui-all-fields-required": "All fields are required",
+    "cui-complete-registration": "Complete your registration below with"
 }
