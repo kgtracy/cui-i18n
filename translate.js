@@ -85,10 +85,10 @@
 
         return {
           getLocaleCode: function () {
-            return currentLocale || getLocales()[0];
+            return currentLocale || $translate.use() || getLocales()[0];
           },
           getLocaleDisplayName: function () {
-            return localesObj[currentLocale];
+            return localesObj[currentLocale || $translate.use()];
           },
           setLocaleByDisplayName: function (locale) {
             setLocale(locale);
@@ -119,7 +119,9 @@
             '</div>'+
             '',
             controller: function ($scope) {
-                $scope.currentLocaleDisplayName = LocaleService.getLocaleDisplayName() || LocaleService.getLocalesDisplayNames()[0];
+                $scope.$watch(function(){ return LocaleService.getLocaleDisplayName();},function(){
+                  $scope.currentLocaleDisplayName = LocaleService.getLocaleDisplayName();
+                });
                 $scope.localesDisplayNames = LocaleService.getLocalesDisplayNames();
                 $scope.visible = $scope.localesDisplayNames &&
                 $scope.localesDisplayNames.length > 1;
@@ -129,6 +131,5 @@
             }
         };
     }]);
-
 
 })(angular);
