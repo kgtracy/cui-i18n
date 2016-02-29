@@ -1,7 +1,7 @@
 var sheetrock = require('sheetrock');
 var generator = require('./generator');
 
-var codes = ['en-US','pt-PT','zh-CN','pl-PL'];
+var codes = ['en','pt','zh','pl'];
 
 var messagingCallback = function(error, options, response) {
   if (error) {
