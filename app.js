@@ -3,7 +3,7 @@
     angular
     .module('app',['translate'])
     .factory('getVariables',['$http',function($http){
-        return $http.get('bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-en_US.json')
+        return $http.get('bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-en.json')
     }])
     .config(['$translateProvider',function($translateProvider){
         $translateProvider.useLoader('LocaleLoader',{
@@ -13,10 +13,17 @@
         });
     }])
     .run(['LocaleService',function(LocaleService){
-        LocaleService.setLocales('en_US','English (United States)');
-        LocaleService.setLocales('pl_PL','Polish (Poland)');
-        LocaleService.setLocales('zh_CN', 'Chinese (Simplified)');
-        LocaleService.setLocales('pt_PT','Portuguese (Portugal)');
+        LocaleService.setLocales('en','English');
+        LocaleService.setLocales('pt','Portuguese');
+        LocaleService.setLocales('tr','Turkish');
+        LocaleService.setLocales('zh','Chinese (Simplified)');
+        LocaleService.setLocales('fr','French');
+        LocaleService.setLocales('es','Spanish');
+        LocaleService.setLocales('it','Italian');
+        LocaleService.setLocales('ru','Russian');
+        LocaleService.setLocales('th','Thai');
+        LocaleService.setLocales('ja','Japanese');
+        LocaleService.setLocales('de','German');
     }])
     .controller('appCtrl',['LocaleService','$timeout','getVariables',function(LocaleService,$timeout,getVariables){
         var app=this;
@@ -26,7 +33,7 @@
             }
             app.key=[];
             app.getVariables();
-            app.ammount=0;
+            app.amount=0;
             app.increase();
             app.date=new Date();
             app.tick();
@@ -43,8 +50,8 @@
         }
 
         app.increase = function(){
-            if(app.ammount<1000000){
-                app.ammount+=0.01;
+            if(app.amount<1000000){
+                app.amount+=0.01;
                 $timeout(app.increase,1);
             }
         }

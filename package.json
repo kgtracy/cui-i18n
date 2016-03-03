@@ -1,5 +1,5 @@
 {
-  "name": "translate",
+  "name": "cui-i18n",
   "version": "1.0.0",
   "description": "Translation module for AngularJS apps.",
   "main": "index.html",
@@ -25,5 +25,12 @@
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^3.3.0",
     "sheetrock": "^1.0.0"
-  }
+  },
+  "publishConfig": {
+    "registry": "http://nexus.thirdwavellc.com/content/repositories/cui-npm/"
+  },
+  "files":
+  [
+    "build/"
+  ]
 }

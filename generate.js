@@ -1,7 +1,8 @@
 var sheetrock = require('sheetrock');
 var fs = require('fs');
 
-var codes = ['en','pt','zh','pl'];
+var codes = ['en', 'pt', 'tr', 'zh', 'fr', 'es', 'it', 'ru', 'th', 'ja', 'de'];
+
 var url = "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0";
 var messagingUrl = "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=56492656";
 
@@ -52,7 +53,7 @@ var createFiles = function(cells, res, mode){
 
 var writeToFiles = function(code,res,mode){
 	var valueInserted=false;
-	if (mode==='idm'){
+	if (mode==='idm'){ 
         var fileName=outputDirectory + 'locale-' + code.replace(/-/g, '_') + '.json';
 	    var fileName2=outputDirectoryJava + 'locale-' + code.replace(/-/g, '_') + '.properties';
     }

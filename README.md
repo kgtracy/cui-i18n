@@ -1,6 +1,14 @@
 # cui-i18n
 Internationalization / localization module for use with angular on CUI products. The module will look up the value for the selected language based on the translation key.
 
+## Build
+Create a Google Sheet following the template used here:
+https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo
+
+Then inside the "generate.js" file, modify the codes, url and messaging url variables to point to your sheet.
+
+Then run the build.
+
 ## Usage
 
 ### How to generate a new dist folder for your own custom translations (please read if you're forking this repo)

@@ -149,5 +149,11 @@
     "bundled-applications": "Bundled Applications",
     "application-details": "Application Details",
     "my-claims": "My Claims",
-    "related-applications": "Related Applications"
+    "related-applications": "Related Applications",
+    "review-request": "Review Request",
+    "back-to-search": "Back to Search",
+    "requested-items": "Requested Items",
+    "request-reason": "Request Reason",
+    "reason-im-requesting": "Reason I'm requesting",
+    "you-must-enter-a-reason": "You must enter a reason to request this app"
 }
