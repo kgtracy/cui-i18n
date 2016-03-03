@@ -32,7 +32,7 @@
             }
             app.key=[];
             app.getVariables();
-            app.ammount=0;
+            app.amount=0;
             app.increase();
             app.date=new Date();
             app.tick();
@@ -49,8 +49,8 @@
         }
 
         app.increase = function(){
-            if(app.ammount<1000000){
-                app.ammount+=0.01;
+            if(app.amount<1000000){
+                app.amount+=0.01;
                 $timeout(app.increase,1);
             }
         }
