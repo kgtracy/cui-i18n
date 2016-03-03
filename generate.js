@@ -1,7 +1,8 @@
 var sheetrock = require('sheetrock');
 var fs = require('fs');
 
-var codes = ['en-US','pt-PT','zh-CN','pl-PL'];
+var codes = ['en', 'pt', 'tr', 'zh', 'fr', 'es', 'it', 'ru', 'th', 'ja', 'de'];
+
 var url = "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0";
 var messagingUrl = "https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=56492656";
 
