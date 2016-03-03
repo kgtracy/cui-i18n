@@ -3,7 +3,7 @@
     angular
     .module('app',['translate'])
     .factory('getVariables',['$http',function($http){
-        return $http.get('bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-en_US.json')
+        return $http.get('bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-en.json')
     }])
     .config(['$translateProvider',function($translateProvider){
         $translateProvider.useLoader('LocaleLoader',{
