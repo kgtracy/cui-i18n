@@ -155,5 +155,6 @@
     "requested-items": "Itens solicitados",
     "request-reason": "pedido Razão",
     "reason-im-requesting": "Razão pela qual estou solicitando",
-    "you-must-enter-a-reason": "Você deve inserir um motivo para solicitar este app"
+    "you-must-enter-a-reason": "Você deve inserir um motivo para solicitar este app",
+    "cui-org-no-applications": "Parece que a sua organização não tem nenhum aplicações. Você sempre pode tentar novamente após o login."
 }

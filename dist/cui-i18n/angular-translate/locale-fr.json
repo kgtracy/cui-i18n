@@ -155,5 +155,6 @@
     "requested-items": "Articles demandés",
     "request-reason": "Demande Raison",
     "reason-im-requesting": "Raison je demande",
-    "you-must-enter-a-reason": "Vous devez entrer une raison pour demander l'application"
+    "you-must-enter-a-reason": "Vous devez entrer une raison pour demander l'application",
+    "cui-org-no-applications": "On dirait que votre organisation n'a pas de demandes. Vous pouvez toujours essayer de nouveau après la connexion."
 }

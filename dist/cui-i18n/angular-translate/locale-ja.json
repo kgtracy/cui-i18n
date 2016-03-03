@@ -155,5 +155,6 @@
     "requested-items": "要求されたアイテム",
     "request-reason": "要求理由",
     "reason-im-requesting": "私が要求している理由",
-    "you-must-enter-a-reason": "あなたは、このアプリを要求する理由を入力する必要があります"
+    "you-must-enter-a-reason": "あなたは、このアプリを要求する理由を入力する必要があります",
+    "cui-org-no-applications": "組織が任意のアプリケーションを持っていないように思えます。あなたは、常にログイン後に再試行することができます。"
 }

@@ -155,5 +155,6 @@
     "requested-items": "talep Öğeler",
     "request-reason": "Talep Nedeni",
     "reason-im-requesting": "Nedeni talep ediyorum",
-    "you-must-enter-a-reason": "Bu uygulamayı istemek için bir neden de girmeniz gerekir"
+    "you-must-enter-a-reason": "Bu uygulamayı istemek için bir neden de girmeniz gerekir",
+    "cui-org-no-applications": "Kuruluşunuz herhangi bir uygulama yoktur gibi görünüyor. Her zaman oturum açtıktan sonra tekrar deneyebilirsiniz."
 }
