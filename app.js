@@ -12,10 +12,17 @@
         });
     }])
     .run(['LocaleService',function(LocaleService){
-        LocaleService.setLocales('en_US','English (United States)');
-        LocaleService.setLocales('pl_PL','Polish (Poland)');
-        LocaleService.setLocales('zh_CN', 'Chinese (Simplified)');
-        LocaleService.setLocales('pt_PT','Portuguese (Portugal)');
+        LocaleService.setLocales('en','English');
+        LocaleService.setLocales('pt','Portuguese');
+        LocaleService.setLocales('tr','Turkish');
+        LocaleService.setLocales('zh','Chinese (Simplified)');
+        LocaleService.setLocales('fr','French');
+        LocaleService.setLocales('es','Spanish');
+        LocaleService.setLocales('it','Italian');
+        LocaleService.setLocales('ru','Russian');
+        LocaleService.setLocales('th','Thai');
+        LocaleService.setLocales('ja','Japanese');
+        LocaleService.setLocales('de','German');
     }])
     .controller('appCtrl',['LocaleService','$timeout','getVariables',function(LocaleService,$timeout,getVariables){
         var app=this;
