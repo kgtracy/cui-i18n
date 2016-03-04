@@ -162,5 +162,6 @@
     "cui-filter-app-name": "Filter by application name",
     "cui-search-user-name": "Search users by name",
     "page": "Page",
-    "cui-num-results-page": "Number of results per page"
+    "cui-num-results-page": "Number of results per page",
+    "submit-request": "Submit Request"
 }
