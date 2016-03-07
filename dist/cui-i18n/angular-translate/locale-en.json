@@ -177,5 +177,8 @@
     "cui-faq-answer3": "A. You Can Withdraw Your Request By Clicking View Profile And Then Click View Pending Requests. You Can Cancel Your Request From That Screen.",
     "cui-faq-answer4": "A. Click On View Service Packages, Then Click The Sub-Package That You Wish To Request Additional Codes For. Click Request Site Code. Your Request Will Be Routed To Your Administrator.",
     "cui-faq-answer5": "A. If You Have Already Have Been Approved Or Already Have A Pending Request For That Package Or Sub-Package, You Won't See The Package On The List. Keep In Mind That If You Are Trying To Find A Specific Service, It May Be Bundled In A Package With A Different Name. Check The Package Description To View The Services It Contains.",
-    "cui-answer": "Answer"
+    "cui-answer": "Answer",
+    "cui-enter-password": "Enter password",
+    "cui-enter-new-password": "Enter new password",
+    "cui-re-enter-new-password": "Re-enter new password"
 }
