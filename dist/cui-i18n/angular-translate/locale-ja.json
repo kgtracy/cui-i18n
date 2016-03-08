@@ -87,7 +87,6 @@
     "cui-updated": "更新しました",
     "cui-error-try-again": "エラー！再試行する？",
     "cui-back": "バック",
-    "cui-updated": "更新しました",
     "cui-selections": "選択",
     "cui-add-org": "組織を追加します。",
     "cui-remove-org": "組織を削除します",
@@ -97,7 +96,7 @@
     "cui-org-profile": "組織のプロフィール",
     "cui-info": "インフォ",
     "cui-admins": "管理者",
-    "lowercase-not-allowed": "より下のケースの文字を持っていません",
+    "lowercase-not-allowed": "任意の小文字を持っていません",
     "uppercase-not-allowed": "任意の大文字を持っていません",
     "numbers-not-allowed": "任意の数字を持っていません",
     "special-not-allowed": "特別なシンボルを持っていません（例：！* +）",
@@ -156,9 +155,5 @@
     "request-reason": "要求理由",
     "reason-im-requesting": "私が要求している理由",
     "you-must-enter-a-reason": "あなたは、このアプリを要求する理由を入力する必要があります",
-    "cui-org-no-applications": "組織が任意のアプリケーションを持っていないように思えます。あなたは、常にログイン後に再試行することができます。",
-    "cui-frequently-asked-questions": "よくある質問",
-    "cui-faq-question1": "Q.私のセキュリティ管理者は誰ですか？",
-    "cui-faq-question2": "Q.誰もがパッケージまたはサイトコードのための私の要求に応答しませんでした。 それで？",
-    "cui-faq-question3": "Q.どのようにパッケージまたはサイトコードの要求を撤回ですか？"
+    "cui-org-no-applications": "組織が任意のアプリケーションを持っていないように思えます。あなたは、常にログイン後に再試行することができます。"
 }

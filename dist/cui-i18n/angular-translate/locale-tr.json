@@ -76,7 +76,7 @@
     "cui-thank-you": "Teşekkür ederim",
     "cui-request-submitted": "Talep Ekleyen",
     "cui-success": "başarı",
-    "cui-success-content": "Your Covisint kayıt başarıyla gönderildi. Kısa bir süre daha fazla ayrıntı içeren bir e-posta alacaksınız.",
+    "cui-success-content": "Sizin Covisint kayıt başarıyla gönderildi. Kısa bir süre daha fazla ayrıntı içeren bir e-posta alacaksınız.",
     "cui-check-your": "sizin yanınızdaki kontrol",
     "cui-registration-status-lower": "kayıt durumu",
     "cui-application-selection": "uygulama Seçimi",
@@ -87,7 +87,6 @@
     "cui-updated": "Güncelleme",
     "cui-error-try-again": "Hata! Tekrar dene?",
     "cui-back": "Geri",
-    "cui-updated": "Güncelleme",
     "cui-selections": "Seçimler",
     "cui-add-org": "Kuruluş ekle",
     "cui-remove-org": "Organizasyon kaldır",
@@ -146,7 +145,7 @@
     "my-applications": "benim Uygulamaları",
     "app-summary": "Uygulama Özeti",
     "granted": "verilen",
-    "bundled-applications": "paket uygulamalar",
+    "bundled-applications": "Sarılmış Uygulamalar",
     "application-details": "uygulama Detayları",
     "my-claims": "benim İddialar",
     "related-applications": "İlgili Uygulamalar",
@@ -156,9 +155,5 @@
     "request-reason": "Talep Nedeni",
     "reason-im-requesting": "Nedeni talep ediyorum",
     "you-must-enter-a-reason": "Bu uygulamayı istemek için bir neden de girmeniz gerekir",
-    "cui-org-no-applications": "Kuruluşunuz herhangi bir uygulama yoktur gibi görünüyor. Her zaman oturum açtıktan sonra tekrar deneyebilirsiniz.",
-    "cui-frequently-asked-questions": "SIK SORULAN SORULAR",
-    "cui-faq-question1": "S. Güvenlik Yöneticisi Kimdir?",
-    "cui-faq-question2": "S. Kimse bir paket ya da site Kodu Benim talebimize cevap geldi. Şimdi ne olacak?",
-    "cui-faq-question3": "S. Nasıl bir Paket Veya Sitesi Kod A Talebi Çekme musunuz?"
+    "cui-org-no-applications": "Kuruluşunuz herhangi bir uygulama yoktur gibi görünüyor. Her zaman oturum açtıktan sonra tekrar deneyebilirsiniz."
 }

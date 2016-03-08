@@ -1,6 +1,19 @@
 var fs = require('fs');
 
 module.exports = {
+  parseOverrides: function(parsedResponse,overrideParsedResponse,languageCodes){
+    var tempObject=parsedResponse;
+
+    var originalKeys=Object.keys(parsedResponse[languageCodes[0]]);
+    var overrideKeys=Object.keys(overrideParsedResponse[languageCodes[0]]);
+    overrideKeys.forEach(function(overrideKey){
+      languageCodes.forEach(function(languageCode){
+          tempObject[languageCode][overrideKey]=overrideParsedResponse[languageCode][overrideKey];
+      });
+    });
+    return tempObject;
+  },
+
   createLanguageFilesFromParsedResponse: function(files, parsedResponse) {
     for (var code in parsedResponse) {
       for (var i = 0; i < files.length; i++) {

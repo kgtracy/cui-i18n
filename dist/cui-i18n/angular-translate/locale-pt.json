@@ -87,7 +87,6 @@
     "cui-updated": "Atualizada",
     "cui-error-try-again": "Erro! Tente novamente?",
     "cui-back": "Costas",
-    "cui-updated": "Atualizada",
     "cui-selections": "seleções",
     "cui-add-org": "Adicionar Organização",
     "cui-remove-org": "Remover Organização",
@@ -156,16 +155,5 @@
     "request-reason": "pedido Razão",
     "reason-im-requesting": "Razão pela qual estou solicitando",
     "you-must-enter-a-reason": "Você deve inserir um motivo para solicitar este app",
-    "cui-org-no-applications": "Parece que a sua organização não tem nenhum aplicações. Você sempre pode tentar novamente após o login.",
-    "cui-frequently-asked-questions": "PERGUNTAS FREQUENTES",
-    "cui-faq-question1": "Pergunta: Quem é meu Security Administrator?",
-    "cui-faq-question2": "Q. Ninguém respondeu ao meu pedido de um pacote ou código do site. O que agora?",
-    "cui-faq-question3": "P. Como faço para retirar um pedido de um código de site Package Or?",
-    "cui-faq-question4": "P. Como faço para solicitar códigos adicionais site?",
-    "cui-faq-question5": "P. Por que não vejo o pacote ou a sub-embalagem que eu quero na lista de pacotes Requestable?",
-    "cui-faq-answer1": "A. Você pode descobrir quem o administrador de segurança é clicando no meu Administradores link. Você verá uma lista de todos os usuários em sua organização da responsabilidade administrativa.",
-    "cui-faq-answer2": "A. O seu pedido foi encaminhado para o administrador de segurança. Você pode enviar um lembrete e-mail ao administrador de segurança por ver o seu perfil, em seguida, clicando The View Pendente pedidos de ligação. Você terá uma oportunidade a partir dessa tela para lembrá o administrador de segurança para avaliar a solicitação ou você pode cancelar o pedido.",
-    "cui-faq-answer3": "A. Você pode retirar seu pedido clicando Ver Perfil e clique em Exibir pedidos pendentes. Você pode cancelar a solicitação a partir dessa tela.",
-    "cui-faq-answer4": "A. Clique em Pacotes de Vista Serviços, depois clique no Sub-pacote que você deseja solicitar códigos adicionais para. Clique pedido do código do site. O seu pedido será encaminhado para o administrador.",
-    "cui-faq-answer5": "A. Se você tiver já foram aprovados ou já tem um pedido pendente para esse pacote ou sub-pacote, você não verá o pacote na lista. Tenha em mente que se você está tentando encontrar um serviço específico, pode ser empacotado em um pacote com um nome diferente. Verifique o pacote Descrição Para visualizar os serviços que ele contém."
+    "cui-org-no-applications": "Parece que a sua organização não tem nenhum aplicações. Você sempre pode tentar novamente após o login."
 }
