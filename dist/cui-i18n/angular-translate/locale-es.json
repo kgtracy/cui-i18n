@@ -87,7 +87,6 @@
     "cui-updated": "Actualizado",
     "cui-error-try-again": "¡Error! ¿Inténtalo de nuevo?",
     "cui-back": "Espalda",
-    "cui-updated": "Actualizado",
     "cui-selections": "Trozos escogidos",
     "cui-add-org": "Añadir Organización",
     "cui-remove-org": "Retire Organización",
@@ -156,9 +155,5 @@
     "request-reason": "Motivo solicitud",
     "reason-im-requesting": "Razón por la que estoy solicitando",
     "you-must-enter-a-reason": "Debe introducir un motivo para solicitar esta aplicación",
-    "cui-org-no-applications": "Parece que su organización no tiene ninguna aplicación. Siempre se puede volver a intentarlo después de iniciar sesión.",
-    "cui-frequently-asked-questions": "PREGUNTAS FRECUENTES",
-    "cui-faq-question1": "P. ¿Quién es mi administrador de seguridad?",
-    "cui-faq-question2": "P. ¿Nadie ha respondido a mi solicitud de un paquete o código de sitio. ¿Ahora que?",
-    "cui-faq-question3": "P: ¿Cómo puedo retirar una solicitud de un código de sitio del paquete O?"
+    "cui-org-no-applications": "Parece que su organización no tiene ninguna aplicación. Siempre se puede volver a intentarlo después de iniciar sesión."
 }

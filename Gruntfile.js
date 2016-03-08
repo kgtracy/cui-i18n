@@ -58,7 +58,7 @@ module.exports = function(grunt) {
       options: {
         dest: 'build'
       }
-     
+
     },
     usemin: {
       css: ['build/assets/css/{,*/}*.css'],
@@ -74,11 +74,11 @@ module.exports = function(grunt) {
       }
     },
     exec: {
-      generate: 'node generate.js'
+      generate: 'node generateTranslations.js && node generateMessaging.js'
     }
 
   });
-  
+
   grunt.registerTask('default', ['browserSync:dev']);
   grunt.registerTask('build', ['exec:generate','copy:translations','copy:localeFiles','copy:index','copy:index2','useminPrepare','concat:generated','cssmin:generated','uglify:generated','usemin']);
   grunt.registerTask('demo', ['browserSync:demo']);
