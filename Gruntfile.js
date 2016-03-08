@@ -44,12 +44,12 @@ module.exports = function(grunt) {
         src: 'index2.html',
         dest: 'build/index2.html'
       },
-      translations: {
-        src: 'dist/cui-i18n/**/*.json',
-        dest: 'build/bower_components/cui-i18n/'
-      },
       localeFiles: {
         src: 'bower_components/angular-i18n/*.js',
+        dest: 'build/'
+      },
+      dist: {
+        src : 'dist/**/*.json',
         dest: 'build/'
       }
     },
@@ -80,6 +80,6 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('default', ['browserSync:dev']);
-  grunt.registerTask('build', ['exec:generate','copy:translations','copy:localeFiles','copy:index','copy:index2','useminPrepare','concat:generated','cssmin:generated','uglify:generated','usemin']);
+  grunt.registerTask('build', ['exec:generate','copy','useminPrepare','concat:generated','cssmin:generated','uglify:generated','usemin']);
   grunt.registerTask('demo', ['browserSync:demo']);
 }
