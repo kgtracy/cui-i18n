@@ -3,18 +3,21 @@
     angular
     .module('app2',['translate'])
     .factory('getVariables',['$http',function($http){
-        return $http.get('bower_components/cui-i18n/dist/cui-i18n/messaging/json/en_US.json')
+        return $http.get('dist/cui-i18n/messaging/json/en.json')
     }])
     .config(['$translateProvider',function($translateProvider){
         $translateProvider.useLoader('LocaleLoader',{
-            url:'bower_components/cui-i18n/dist/cui-i18n/messaging/json/'
-        });
+            url:'dist/cui-i18n/messaging/json/',
+            prefix:'',
+            suffix:'.json'
+        })
+        .preferredLanguage('en');
     }])
     .run(['LocaleService',function(LocaleService){
-        LocaleService.setLocales('en_US','English (United States)');
-        LocaleService.setLocales('pl_PL','Polish (Poland)');
-        LocaleService.setLocales('zh_CN', 'Chinese (Simplified)');
-        LocaleService.setLocales('pt_PT','Portuguese (Portugal)');
+        LocaleService.setLocales('en','English (United States)');
+        LocaleService.setLocales('pl','Polish (Poland)');
+        LocaleService.setLocales('zh', 'Chinese (Simplified)');
+        LocaleService.setLocales('pt','Portuguese (Portugal)');
     }])
     .controller('appCtrl',['$timeout','getVariables',function($timeout,getVariables){
         var app=this;

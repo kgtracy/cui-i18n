@@ -3,14 +3,15 @@
     angular
     .module('app',['translate'])
     .factory('getVariables',['$http',function($http){
-        return $http.get('bower_components/cui-i18n/dist/cui-i18n/angular-translate/locale-en.json')
+        return $http.get('dist/cui-i18n/angular-translate/locale-en.json')
     }])
     .config(['$translateProvider',function($translateProvider){
         $translateProvider.useLoader('LocaleLoader',{
-            url:'bower_components/cui-i18n/dist/cui-i18n/angular-translate/',
-            prefix:'locale-',
-            suffix:'.json'
-        });
+            'url':'dist/cui-i18n/angular-translate/',
+            'prefix':'locale-',
+            'suffix':'.json'
+        })
+        .preferredLanguage('en');
     }])
     .run(['LocaleService',function(LocaleService){
         LocaleService.setLocales('en','English');
