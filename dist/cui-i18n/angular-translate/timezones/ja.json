@@ -1,0 +1,266 @@
+[
+    {
+        "javaID": "Pacific/Fiji",
+        "translation": "(GMT+12:00)フィジー、カムチャッカ、マーシャル諸島"
+    },
+    {
+        "javaID": "Pacific/Auckland",
+        "translation": "(GMT+12:00)オークランド、ウェリントン"
+    },
+    {
+        "javaID": "Pacific/Efate",
+        "translation": "(GMT+11:00)マガダン、ソロモン諸島、ニューカレドニア"
+    },
+    {
+        "javaID": "Asia/Vladivostok",
+        "translation": "(GMT+10:00)ウラジオストック"
+    },
+    {
+        "javaID": "Australia/Lord_Howe",
+        "translation": "(GMT+10:00) ホバート"
+    },
+    {
+        "javaID": "Pacific/Guam",
+        "translation": "(GMT+10:00)グアム、ポートモレスビー"
+    },
+    {
+        "javaID": "Australia/Sydney",
+        "translation": "(GMT+10:00) キャンベラ、メルボルン、シドニー"
+    },
+    {
+        "javaID": "Australia/Brisbane",
+        "translation": "(GMT+10:00)ブリスベーン"
+    },
+    {
+        "javaID": "Australia/Darwin",
+        "translation": "(GMT+09:30)ダ―ウィン"
+    },
+    {
+        "javaID": "Australia/Adelaide",
+        "translation": "(GMT+09:30)アデレード"
+    },
+    {
+        "javaID": "Asia/Yakutsk",
+        "translation": "(GMT+09:00)ヤクーツク"
+    },
+    {
+        "javaID": "Asia/Seoul",
+        "translation": "(GMT+09:00)ソウル"
+    },
+    {
+        "javaID": "Asia/Tokyo",
+        "translation": "(GMT+09:00) 大阪、札幌、東京"
+    },
+    {
+        "javaID": "ACT",
+        "translation": "(GMT+09:00) ACT"
+    },
+    {
+        "javaID": "Asia/Taipei",
+        "translation": "(GMT+08:00) 台北"
+    },
+    {
+        "javaID": "Asia/Singapore",
+        "translation": "(GMT+08:00) シンガポール"
+    },
+    {
+        "javaID": "Australia/Perth",
+        "translation": "(GMT+08:00) パース"
+    },
+    {
+        "javaID": "Asia/Hong_Kong",
+        "translation": "(GMT+08:00) 北京、重慶、香港、ウルムチ"
+    },
+    {
+        "javaID": "Asia/Bangkok",
+        "translation": "(GMT+07:00) バンコク、ハノイ、ジャカルタ"
+    },
+    {
+        "javaID": "Asia/Colombo",
+        "translation": "(GMT+06:00)コロンボ"
+    },
+    {
+        "javaID": "Asia/Alma-Ata",
+        "translation": "(GMT+06:00)アルマトイ、ダッカ"
+    },
+    {
+        "javaID": "Asia/Calcutta",
+        "translation": "(GMT+05:３0) ボンベイ、カルカッタ、マドラス、ニューデリー"
+    },
+    {
+        "javaID": "Asia/Karachi",
+        "translation": "(GMT+05:00)イスラマバード、カラチ、タシュケント"
+    },
+    {
+        "javaID": "Asia/Yekaterinburg",
+        "translation": "(GMT+05:00)エカテリンブルグ"
+    },
+    {
+        "javaID": "Asia/Kabul",
+        "translation": "(GMT+04:30) カブール"
+    },
+    {
+        "javaID": "Asia/Baku",
+        "translation": "(GMT+04:00) バクー、トビリシ"
+    },
+    {
+        "javaID": "Asia/Muscat",
+        "translation": "(GMT+04:00) アブダビ、マスカット"
+    },
+    {
+        "javaID": "Asia/Tehran",
+        "translation": "(GMT+03:30) テヘラン"
+    },
+    {
+        "javaID": "Africa/Nairobi",
+        "translation": "(GMT+03:00) ナイロビ"
+    },
+    {
+        "javaID": "Europe/Moscow",
+        "translation": "(GMT+03:00) モスクワ、サンクトぺテルブルグ、ヴォルゴグラード"
+    },
+    {
+        "javaID": "Asia/Baghdad",
+        "translation": "(GMT+0３:00) バグダッド、クウェ―ト、リヤド"
+    },
+    {
+        "javaID": "Asia/Jerusalem",
+        "translation": "(GMT+02:00) エルサレム"
+    },
+    {
+        "javaID": "Europe/Helsinki",
+        "translation": "(GMT+02:00) ヘルシンキ、リガ、タリン"
+    },
+    {
+        "javaID": "Africa/Harare",
+        "translation": "(GMT+02:00) ハラレ、プレトリア"
+    },
+    {
+        "javaID": "Africa/Cairo",
+        "translation": "(GMT+02:00) カイロ"
+    },
+    {
+        "javaID": "Europe/Bucharest",
+        "translation": "(GMT+02:00) ブカレスト"
+    },
+    {
+        "javaID": "Europe/Athens",
+        "translation": "(GMT+02:00) アテネ、イスタンブール、ミンスク"
+    },
+    {
+        "javaID": "Europe/Sofia",
+        "translation": "(GMT+01:00) サラエボ、スコピエ、ソフィア、ワルシャワ、ザグレブ"
+    },
+    {
+        "javaID": "Europe/Brussels",
+        "translation": "(GMT+01:00) ブリュッセル、ベルリン、ベルン、ローマ、ストックホルム、ウィ―ン"
+    },
+    {
+        "javaID": "Europe/Belgrade",
+        "translation": "(GMT+01:00) ベオグラード、サラエボ、スコピエ、ザグレブ"
+    },
+    {
+        "javaID": "Europe/Amsterdam",
+        "translation": "(GMT+01:00) アムステルダム、コペンハーゲン、マドリッド、パリ、ビリニュス"
+    },
+    {
+        "javaID": "Africa/Casablanca",
+        "translation": "(GMT-00:00) カサブランカ、モンロビア"
+    },
+    {
+        "javaID": "GMT",
+        "translation": "(GMT-00:00) グリニッジ標準時、ダブリン、エディンバラ、リスボン"
+    },
+    {
+        "javaID": "Europe/London",
+        "translation": "(GMT+01:00)ロンドン"
+    },
+    {
+        "javaID": "Atlantic/Azores",
+        "translation": "(GMT-01:00) アゾレス、カ―ボ・ヴェルデ諸島"
+    },
+    {
+        "javaID": "Atlantic/South_Georgia",
+        "translation": "(GMT-02:00) 中部大西洋"
+    },
+    {
+        "javaID": "BET",
+        "translation": "(GMT-03:00)ブラジリア"
+    },
+    {
+        "javaID": "America/Buenos_Aires",
+        "translation": "(GMT-03:00)ブエノスアイレス、ジョージタウン"
+    },
+    {
+        "javaID": "CNT",
+        "translation": "(GMT-03:00) CNT"
+    },
+    {
+        "javaID": "America/St_Johns",
+        "translation": "(GMT-03:30) ニューファウンドランド"
+    },
+    {
+        "javaID": "America/Halifax",
+        "translation": "(GMT-04:00) カナダ大西洋標準時"
+    },
+    {
+        "javaID": "America/Caracas",
+        "translation": "(GMT-04:00) カラカス、ラパス"
+    },
+    {
+        "javaID": "America/Santiago",
+        "translation": "(GMT-04:00)サンチャゴ"
+    },
+    {
+        "javaID": "America/Bogota",
+        "translation": "(GMT-05:00) ボゴタ、リマ、キト"
+    },
+    {
+        "javaID": "EST5EDT",
+        "translation": "(GMT-05:00) 東部標準時（米国、カナダ）"
+    },
+    {
+        "javaID": "IET",
+        "translation": "(GMT-05:00)インディアナ（東部）"
+    },
+    {
+        "javaID": "CST6CDT",
+        "translation": "(GMT-06:00) 中部標準時（米国、カナダ）"
+    },
+    {
+        "javaID": "America/Mexico_City",
+        "translation": "(GMT-06:00) メキシコシティ、テグシガルパ"
+    },
+    {
+        "javaID": "America/Winnipeg",
+        "translation": "(GMT-06:00)サスカチュワン"
+    },
+    {
+        "javaID": "America/Phoenix",
+        "translation": "(GMT-07:00) アリゾナ"
+    },
+    {
+        "javaID": "MST7MDT",
+        "translation": "(GMT-07:00) 山岳部（米国、カナダ）"
+    },
+    {
+        "javaID": "America/Tijuana",
+        "translation": "(GMT-08:00) 太平洋標準時（米国、カナダ）、ティファナ"
+    },
+    {
+        "javaID": "America/Anchorage",
+        "translation": "(GMT-09:00) アラスカ"
+    },
+    {
+        "javaID": "Pacific/Honolulu",
+        "translation": "(GMT-10:00) ハワイ"
+    },
+    {
+        "javaID": "Pacific/Apia",
+        "translation": "(GMT-11:00) ミッドウェイ諸島サモア"
+    },
+    {
+        "javaID": "Pacific/Enderbury",
+        "translation": "(GMT-12:00)エ二ウェトク、クェゼリン"
+    }
+]

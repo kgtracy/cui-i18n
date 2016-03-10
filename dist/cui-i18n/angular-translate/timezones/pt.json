@@ -1,0 +1,266 @@
+[
+    {
+        "javaID": "Pacific/Fiji",
+        "translation": "(TMG+12:00) Fiji, Kamchatka, Ilhas Marshall"
+    },
+    {
+        "javaID": "Pacific/Auckland",
+        "translation": "(TMG+12:00) Auckland, Wellington"
+    },
+    {
+        "javaID": "Pacific/Efate",
+        "translation": "(TMG+11:00) Magadan, Ilhas Salomão, Nova Caledônia"
+    },
+    {
+        "javaID": "Asia/Vladivostok",
+        "translation": "(TMG+10:00) Vladivostoque"
+    },
+    {
+        "javaID": "Australia/Lord_Howe",
+        "translation": "(TMG+10:00) Hobart"
+    },
+    {
+        "javaID": "Pacific/Guam",
+        "translation": "(TMG+10:00) Guam, Port Moresby"
+    },
+    {
+        "javaID": "Australia/Sydney",
+        "translation": "(TMG+10:00) Camberra, Melbourne, Sídnei"
+    },
+    {
+        "javaID": "Australia/Brisbane",
+        "translation": "(TMG+10:00) Brisbane"
+    },
+    {
+        "javaID": "Australia/Darwin",
+        "translation": "(TMG+09:30) Darwin"
+    },
+    {
+        "javaID": "Australia/Adelaide",
+        "translation": "(TMG+09:30) Adelaide"
+    },
+    {
+        "javaID": "Asia/Yakutsk",
+        "translation": "(TMG+09:00) Yakutsk"
+    },
+    {
+        "javaID": "Asia/Seoul",
+        "translation": "(TMG+09:00) Seul"
+    },
+    {
+        "javaID": "Asia/Tokyo",
+        "translation": "(TMG+09:00) Osaca, Saporo, Tóquio"
+    },
+    {
+        "javaID": "ACT",
+        "translation": "(TMG+09:00) TCA"
+    },
+    {
+        "javaID": "Asia/Taipei",
+        "translation": "(TMG+08:00) Taipei"
+    },
+    {
+        "javaID": "Asia/Singapore",
+        "translation": "(TMG+08:00) Cingapura"
+    },
+    {
+        "javaID": "Australia/Perth",
+        "translation": "(TMG+08:00) Perth"
+    },
+    {
+        "javaID": "Asia/Hong_Kong",
+        "translation": "(TMG+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+    },
+    {
+        "javaID": "Asia/Bangkok",
+        "translation": "(TMG+07:00) Banguecoque, Hanoi, Jacarta"
+    },
+    {
+        "javaID": "Asia/Colombo",
+        "translation": "(TMG+06:00) Colombo"
+    },
+    {
+        "javaID": "Asia/Alma-Ata",
+        "translation": "(TMG+06:00) Almaty, Dacca"
+    },
+    {
+        "javaID": "Asia/Calcutta",
+        "translation": "(TMG+05:30) Bombaím, Calcutá, Chennai, Nova Deli"
+    },
+    {
+        "javaID": "Asia/Karachi",
+        "translation": "(TMG+05:00) Islamabade, Carachi, Tashkent"
+    },
+    {
+        "javaID": "Asia/Yekaterinburg",
+        "translation": "(TMG+05:00) Ecaterimburgo"
+    },
+    {
+        "javaID": "Asia/Kabul",
+        "translation": "(TMG+04:30) Cabul"
+    },
+    {
+        "javaID": "Asia/Baku",
+        "translation": "(TMG+04:00) Baku, Tbilisi"
+    },
+    {
+        "javaID": "Asia/Muscat",
+        "translation": "(TMG+04:00) Abu Dabi, Mascate"
+    },
+    {
+        "javaID": "Asia/Tehran",
+        "translation": "(TMG+03:30) Teerã"
+    },
+    {
+        "javaID": "Africa/Nairobi",
+        "translation": "(TMG+03:00) Nairobi"
+    },
+    {
+        "javaID": "Europe/Moscow",
+        "translation": "(TMG+03:00) Moscou, S. Petersburgo, Volgogrado"
+    },
+    {
+        "javaID": "Asia/Baghdad",
+        "translation": "(TMG+03:00) Bagdá, Kuwait, Riade"
+    },
+    {
+        "javaID": "Asia/Jerusalem",
+        "translation": "(TMG+02:00) Jerusalem"
+    },
+    {
+        "javaID": "Europe/Helsinki",
+        "translation": "(TMG+02:00) Helsinque, Riga, Taline"
+    },
+    {
+        "javaID": "Africa/Harare",
+        "translation": "(TMG+02:00) Harare, Pretória"
+    },
+    {
+        "javaID": "Africa/Cairo",
+        "translation": "(TMG+02:00) Cairo"
+    },
+    {
+        "javaID": "Europe/Bucharest",
+        "translation": "(TMG+02:00) Bucareste"
+    },
+    {
+        "javaID": "Europe/Athens",
+        "translation": "(TMG+02:00) Atenas, Istambul, Minsque"
+    },
+    {
+        "javaID": "Europe/Sofia",
+        "translation": "(TMG+01:00) Sarajevo, Skopje, Sófia, Varsóvia, Zagreb"
+    },
+    {
+        "javaID": "Europe/Brussels",
+        "translation": "(TMG+01:00) Bruxelas, Berlim, Berna, Roma, Estocolmo, Viena"
+    },
+    {
+        "javaID": "Europe/Belgrade",
+        "translation": "(TMG+01:00) Belgrado, Sarajevo, Skopje, Zagreb"
+    },
+    {
+        "javaID": "Europe/Amsterdam",
+        "translation": "(TMG+01:00) Amsterdã, Copenhague, Madri, Paris, Vilnius"
+    },
+    {
+        "javaID": "Africa/Casablanca",
+        "translation": "(TMG-00:00) Casablanca, Monróvia"
+    },
+    {
+        "javaID": "GMT",
+        "translation": "(TMG-00:00) Tempo Médio de Greenwich: Dublin, Edinburgo, Lisboa"
+    },
+    {
+        "javaID": "Europe/London",
+        "translation": "(TMG+01:00) Londres"
+    },
+    {
+        "javaID": "Atlantic/Azores",
+        "translation": "(TMG-01:00) Açores, Cabo Verde"
+    },
+    {
+        "javaID": "Atlantic/South_Georgia",
+        "translation": "(TMG-02:00) Atlântico Médio"
+    },
+    {
+        "javaID": "BET",
+        "translation": "(TMG-03:00) Brasília"
+    },
+    {
+        "javaID": "America/Buenos_Aires",
+        "translation": "(TMG-03:00) Buenos Aires, Georgetown"
+    },
+    {
+        "javaID": "CNT",
+        "translation": "(TMG-03:00) TCN"
+    },
+    {
+        "javaID": "America/St_Johns",
+        "translation": "(TMG-03:30) Terra Nova"
+    },
+    {
+        "javaID": "America/Halifax",
+        "translation": "(TMG-04:00) Hora do Atlântico Canadá"
+    },
+    {
+        "javaID": "America/Caracas",
+        "translation": "(TMG-04:00) Caracas, La Paz"
+    },
+    {
+        "javaID": "America/Santiago",
+        "translation": "(TMG-04:00) Santiago"
+    },
+    {
+        "javaID": "America/Bogota",
+        "translation": "(TMG-05:00) Bogotá, Lima, Quito"
+    },
+    {
+        "javaID": "EST5EDT",
+        "translation": "(TMG-05:00) Hora Oriental (EUA & Canadá)"
+    },
+    {
+        "javaID": "IET",
+        "translation": "(TMG-05:00) Indiana (Oriental)"
+    },
+    {
+        "javaID": "CST6CDT",
+        "translation": "(TMG-06:00) Hora Central (EUA & Canadá)"
+    },
+    {
+        "javaID": "America/Mexico_City",
+        "translation": "(TMG-06:00) Cidade do México, Tegucigalpa"
+    },
+    {
+        "javaID": "America/Winnipeg",
+        "translation": "(TMG-06:00) Saskatchewan"
+    },
+    {
+        "javaID": "America/Phoenix",
+        "translation": "(TMG-07:00) Arizona"
+    },
+    {
+        "javaID": "MST7MDT",
+        "translation": "(TMG-07:00) Hora das Montanhas (EUA & Canadá)"
+    },
+    {
+        "javaID": "America/Tijuana",
+        "translation": "(TMG-08:00) Hora do Pacífico (EUA & Canadá); Tijuana"
+    },
+    {
+        "javaID": "America/Anchorage",
+        "translation": "(TMG-09:00) Alasca"
+    },
+    {
+        "javaID": "Pacific/Honolulu",
+        "translation": "(TMG-10:00) Havaí"
+    },
+    {
+        "javaID": "Pacific/Apia",
+        "translation": "(TMG-11:00) Ilha Midway Samoa"
+    },
+    {
+        "javaID": "Pacific/Enderbury",
+        "translation": "(TMG-12:00) Eniwetok, Kwajalein"
+    }
+]
