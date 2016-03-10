@@ -86,3 +86,7 @@ Then, in your html
 ## Change log 1/18/2016
 
 * localeloader now takes a suffix for different file types and urls
+
+## Change log 3/10/2016
+
+* Adds translations to timezones
