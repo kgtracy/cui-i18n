@@ -1,266 +1,266 @@
 [
     {
-        "javaID": "Pacific/Fiji",
-        "translation": "(TMG+12:00) Fiji, Kamchatka, Ilhas Marshall"
+        "id": "Pacific/Fiji",
+        "name": "(TMG+12:00) Fiji, Kamchatka, Ilhas Marshall"
     },
     {
-        "javaID": "Pacific/Auckland",
-        "translation": "(TMG+12:00) Auckland, Wellington"
+        "id": "Pacific/Auckland",
+        "name": "(TMG+12:00) Auckland, Wellington"
     },
     {
-        "javaID": "Pacific/Efate",
-        "translation": "(TMG+11:00) Magadan, Ilhas Salomão, Nova Caledônia"
+        "id": "Pacific/Efate",
+        "name": "(TMG+11:00) Magadan, Ilhas Salomão, Nova Caledônia"
     },
     {
-        "javaID": "Asia/Vladivostok",
-        "translation": "(TMG+10:00) Vladivostoque"
+        "id": "Asia/Vladivostok",
+        "name": "(TMG+10:00) Vladivostoque"
     },
     {
-        "javaID": "Australia/Lord_Howe",
-        "translation": "(TMG+10:00) Hobart"
+        "id": "Australia/Lord_Howe",
+        "name": "(TMG+10:00) Hobart"
     },
     {
-        "javaID": "Pacific/Guam",
-        "translation": "(TMG+10:00) Guam, Port Moresby"
+        "id": "Pacific/Guam",
+        "name": "(TMG+10:00) Guam, Port Moresby"
     },
     {
-        "javaID": "Australia/Sydney",
-        "translation": "(TMG+10:00) Camberra, Melbourne, Sídnei"
+        "id": "Australia/Sydney",
+        "name": "(TMG+10:00) Camberra, Melbourne, Sídnei"
     },
     {
-        "javaID": "Australia/Brisbane",
-        "translation": "(TMG+10:00) Brisbane"
+        "id": "Australia/Brisbane",
+        "name": "(TMG+10:00) Brisbane"
     },
     {
-        "javaID": "Australia/Darwin",
-        "translation": "(TMG+09:30) Darwin"
+        "id": "Australia/Darwin",
+        "name": "(TMG+09:30) Darwin"
     },
     {
-        "javaID": "Australia/Adelaide",
-        "translation": "(TMG+09:30) Adelaide"
+        "id": "Australia/Adelaide",
+        "name": "(TMG+09:30) Adelaide"
     },
     {
-        "javaID": "Asia/Yakutsk",
-        "translation": "(TMG+09:00) Yakutsk"
+        "id": "Asia/Yakutsk",
+        "name": "(TMG+09:00) Yakutsk"
     },
     {
-        "javaID": "Asia/Seoul",
-        "translation": "(TMG+09:00) Seul"
+        "id": "Asia/Seoul",
+        "name": "(TMG+09:00) Seul"
     },
     {
-        "javaID": "Asia/Tokyo",
-        "translation": "(TMG+09:00) Osaca, Saporo, Tóquio"
+        "id": "Asia/Tokyo",
+        "name": "(TMG+09:00) Osaca, Saporo, Tóquio"
     },
     {
-        "javaID": "ACT",
-        "translation": "(TMG+09:00) TCA"
+        "id": "ACT",
+        "name": "(TMG+09:00) TCA"
     },
     {
-        "javaID": "Asia/Taipei",
-        "translation": "(TMG+08:00) Taipei"
+        "id": "Asia/Taipei",
+        "name": "(TMG+08:00) Taipei"
     },
     {
-        "javaID": "Asia/Singapore",
-        "translation": "(TMG+08:00) Cingapura"
+        "id": "Asia/Singapore",
+        "name": "(TMG+08:00) Cingapura"
     },
     {
-        "javaID": "Australia/Perth",
-        "translation": "(TMG+08:00) Perth"
+        "id": "Australia/Perth",
+        "name": "(TMG+08:00) Perth"
     },
     {
-        "javaID": "Asia/Hong_Kong",
-        "translation": "(TMG+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+        "id": "Asia/Hong_Kong",
+        "name": "(TMG+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
     },
     {
-        "javaID": "Asia/Bangkok",
-        "translation": "(TMG+07:00) Banguecoque, Hanoi, Jacarta"
+        "id": "Asia/Bangkok",
+        "name": "(TMG+07:00) Banguecoque, Hanoi, Jacarta"
     },
     {
-        "javaID": "Asia/Colombo",
-        "translation": "(TMG+06:00) Colombo"
+        "id": "Asia/Colombo",
+        "name": "(TMG+06:00) Colombo"
     },
     {
-        "javaID": "Asia/Alma-Ata",
-        "translation": "(TMG+06:00) Almaty, Dacca"
+        "id": "Asia/Alma-Ata",
+        "name": "(TMG+06:00) Almaty, Dacca"
     },
     {
-        "javaID": "Asia/Calcutta",
-        "translation": "(TMG+05:30) Bombaím, Calcutá, Chennai, Nova Deli"
+        "id": "Asia/Calcutta",
+        "name": "(TMG+05:30) Bombaím, Calcutá, Chennai, Nova Deli"
     },
     {
-        "javaID": "Asia/Karachi",
-        "translation": "(TMG+05:00) Islamabade, Carachi, Tashkent"
+        "id": "Asia/Karachi",
+        "name": "(TMG+05:00) Islamabade, Carachi, Tashkent"
     },
     {
-        "javaID": "Asia/Yekaterinburg",
-        "translation": "(TMG+05:00) Ecaterimburgo"
+        "id": "Asia/Yekaterinburg",
+        "name": "(TMG+05:00) Ecaterimburgo"
     },
     {
-        "javaID": "Asia/Kabul",
-        "translation": "(TMG+04:30) Cabul"
+        "id": "Asia/Kabul",
+        "name": "(TMG+04:30) Cabul"
     },
     {
-        "javaID": "Asia/Baku",
-        "translation": "(TMG+04:00) Baku, Tbilisi"
+        "id": "Asia/Baku",
+        "name": "(TMG+04:00) Baku, Tbilisi"
     },
     {
-        "javaID": "Asia/Muscat",
-        "translation": "(TMG+04:00) Abu Dabi, Mascate"
+        "id": "Asia/Muscat",
+        "name": "(TMG+04:00) Abu Dabi, Mascate"
     },
     {
-        "javaID": "Asia/Tehran",
-        "translation": "(TMG+03:30) Teerã"
+        "id": "Asia/Tehran",
+        "name": "(TMG+03:30) Teerã"
     },
     {
-        "javaID": "Africa/Nairobi",
-        "translation": "(TMG+03:00) Nairobi"
+        "id": "Africa/Nairobi",
+        "name": "(TMG+03:00) Nairobi"
     },
     {
-        "javaID": "Europe/Moscow",
-        "translation": "(TMG+03:00) Moscou, S. Petersburgo, Volgogrado"
+        "id": "Europe/Moscow",
+        "name": "(TMG+03:00) Moscou, S. Petersburgo, Volgogrado"
     },
     {
-        "javaID": "Asia/Baghdad",
-        "translation": "(TMG+03:00) Bagdá, Kuwait, Riade"
+        "id": "Asia/Baghdad",
+        "name": "(TMG+03:00) Bagdá, Kuwait, Riade"
     },
     {
-        "javaID": "Asia/Jerusalem",
-        "translation": "(TMG+02:00) Jerusalem"
+        "id": "Asia/Jerusalem",
+        "name": "(TMG+02:00) Jerusalem"
     },
     {
-        "javaID": "Europe/Helsinki",
-        "translation": "(TMG+02:00) Helsinque, Riga, Taline"
+        "id": "Europe/Helsinki",
+        "name": "(TMG+02:00) Helsinque, Riga, Taline"
     },
     {
-        "javaID": "Africa/Harare",
-        "translation": "(TMG+02:00) Harare, Pretória"
+        "id": "Africa/Harare",
+        "name": "(TMG+02:00) Harare, Pretória"
     },
     {
-        "javaID": "Africa/Cairo",
-        "translation": "(TMG+02:00) Cairo"
+        "id": "Africa/Cairo",
+        "name": "(TMG+02:00) Cairo"
     },
     {
-        "javaID": "Europe/Bucharest",
-        "translation": "(TMG+02:00) Bucareste"
+        "id": "Europe/Bucharest",
+        "name": "(TMG+02:00) Bucareste"
     },
     {
-        "javaID": "Europe/Athens",
-        "translation": "(TMG+02:00) Atenas, Istambul, Minsque"
+        "id": "Europe/Athens",
+        "name": "(TMG+02:00) Atenas, Istambul, Minsque"
     },
     {
-        "javaID": "Europe/Sofia",
-        "translation": "(TMG+01:00) Sarajevo, Skopje, Sófia, Varsóvia, Zagreb"
+        "id": "Europe/Sofia",
+        "name": "(TMG+01:00) Sarajevo, Skopje, Sófia, Varsóvia, Zagreb"
     },
     {
-        "javaID": "Europe/Brussels",
-        "translation": "(TMG+01:00) Bruxelas, Berlim, Berna, Roma, Estocolmo, Viena"
+        "id": "Europe/Brussels",
+        "name": "(TMG+01:00) Bruxelas, Berlim, Berna, Roma, Estocolmo, Viena"
     },
     {
-        "javaID": "Europe/Belgrade",
-        "translation": "(TMG+01:00) Belgrado, Sarajevo, Skopje, Zagreb"
+        "id": "Europe/Belgrade",
+        "name": "(TMG+01:00) Belgrado, Sarajevo, Skopje, Zagreb"
     },
     {
-        "javaID": "Europe/Amsterdam",
-        "translation": "(TMG+01:00) Amsterdã, Copenhague, Madri, Paris, Vilnius"
+        "id": "Europe/Amsterdam",
+        "name": "(TMG+01:00) Amsterdã, Copenhague, Madri, Paris, Vilnius"
     },
     {
-        "javaID": "Africa/Casablanca",
-        "translation": "(TMG-00:00) Casablanca, Monróvia"
+        "id": "Africa/Casablanca",
+        "name": "(TMG-00:00) Casablanca, Monróvia"
     },
     {
-        "javaID": "GMT",
-        "translation": "(TMG-00:00) Tempo Médio de Greenwich: Dublin, Edinburgo, Lisboa"
+        "id": "GMT",
+        "name": "(TMG-00:00) Tempo Médio de Greenwich: Dublin, Edinburgo, Lisboa"
     },
     {
-        "javaID": "Europe/London",
-        "translation": "(TMG+01:00) Londres"
+        "id": "Europe/London",
+        "name": "(TMG+01:00) Londres"
     },
     {
-        "javaID": "Atlantic/Azores",
-        "translation": "(TMG-01:00) Açores, Cabo Verde"
+        "id": "Atlantic/Azores",
+        "name": "(TMG-01:00) Açores, Cabo Verde"
     },
     {
-        "javaID": "Atlantic/South_Georgia",
-        "translation": "(TMG-02:00) Atlântico Médio"
+        "id": "Atlantic/South_Georgia",
+        "name": "(TMG-02:00) Atlântico Médio"
     },
     {
-        "javaID": "BET",
-        "translation": "(TMG-03:00) Brasília"
+        "id": "BET",
+        "name": "(TMG-03:00) Brasília"
     },
     {
-        "javaID": "America/Buenos_Aires",
-        "translation": "(TMG-03:00) Buenos Aires, Georgetown"
+        "id": "America/Buenos_Aires",
+        "name": "(TMG-03:00) Buenos Aires, Georgetown"
     },
     {
-        "javaID": "CNT",
-        "translation": "(TMG-03:00) TCN"
+        "id": "CNT",
+        "name": "(TMG-03:00) TCN"
     },
     {
-        "javaID": "America/St_Johns",
-        "translation": "(TMG-03:30) Terra Nova"
+        "id": "America/St_Johns",
+        "name": "(TMG-03:30) Terra Nova"
     },
     {
-        "javaID": "America/Halifax",
-        "translation": "(TMG-04:00) Hora do Atlântico Canadá"
+        "id": "America/Halifax",
+        "name": "(TMG-04:00) Hora do Atlântico Canadá"
     },
     {
-        "javaID": "America/Caracas",
-        "translation": "(TMG-04:00) Caracas, La Paz"
+        "id": "America/Caracas",
+        "name": "(TMG-04:00) Caracas, La Paz"
     },
     {
-        "javaID": "America/Santiago",
-        "translation": "(TMG-04:00) Santiago"
+        "id": "America/Santiago",
+        "name": "(TMG-04:00) Santiago"
     },
     {
-        "javaID": "America/Bogota",
-        "translation": "(TMG-05:00) Bogotá, Lima, Quito"
+        "id": "America/Bogota",
+        "name": "(TMG-05:00) Bogotá, Lima, Quito"
     },
     {
-        "javaID": "EST5EDT",
-        "translation": "(TMG-05:00) Hora Oriental (EUA & Canadá)"
+        "id": "EST5EDT",
+        "name": "(TMG-05:00) Hora Oriental (EUA & Canadá)"
     },
     {
-        "javaID": "IET",
-        "translation": "(TMG-05:00) Indiana (Oriental)"
+        "id": "IET",
+        "name": "(TMG-05:00) Indiana (Oriental)"
     },
     {
-        "javaID": "CST6CDT",
-        "translation": "(TMG-06:00) Hora Central (EUA & Canadá)"
+        "id": "CST6CDT",
+        "name": "(TMG-06:00) Hora Central (EUA & Canadá)"
     },
     {
-        "javaID": "America/Mexico_City",
-        "translation": "(TMG-06:00) Cidade do México, Tegucigalpa"
+        "id": "America/Mexico_City",
+        "name": "(TMG-06:00) Cidade do México, Tegucigalpa"
     },
     {
-        "javaID": "America/Winnipeg",
-        "translation": "(TMG-06:00) Saskatchewan"
+        "id": "America/Winnipeg",
+        "name": "(TMG-06:00) Saskatchewan"
     },
     {
-        "javaID": "America/Phoenix",
-        "translation": "(TMG-07:00) Arizona"
+        "id": "America/Phoenix",
+        "name": "(TMG-07:00) Arizona"
     },
     {
-        "javaID": "MST7MDT",
-        "translation": "(TMG-07:00) Hora das Montanhas (EUA & Canadá)"
+        "id": "MST7MDT",
+        "name": "(TMG-07:00) Hora das Montanhas (EUA & Canadá)"
     },
     {
-        "javaID": "America/Tijuana",
-        "translation": "(TMG-08:00) Hora do Pacífico (EUA & Canadá); Tijuana"
+        "id": "America/Tijuana",
+        "name": "(TMG-08:00) Hora do Pacífico (EUA & Canadá); Tijuana"
     },
     {
-        "javaID": "America/Anchorage",
-        "translation": "(TMG-09:00) Alasca"
+        "id": "America/Anchorage",
+        "name": "(TMG-09:00) Alasca"
     },
     {
-        "javaID": "Pacific/Honolulu",
-        "translation": "(TMG-10:00) Havaí"
+        "id": "Pacific/Honolulu",
+        "name": "(TMG-10:00) Havaí"
     },
     {
-        "javaID": "Pacific/Apia",
-        "translation": "(TMG-11:00) Ilha Midway Samoa"
+        "id": "Pacific/Apia",
+        "name": "(TMG-11:00) Ilha Midway Samoa"
     },
     {
-        "javaID": "Pacific/Enderbury",
-        "translation": "(TMG-12:00) Eniwetok, Kwajalein"
+        "id": "Pacific/Enderbury",
+        "name": "(TMG-12:00) Eniwetok, Kwajalein"
     }
 ]

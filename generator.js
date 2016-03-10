@@ -78,8 +78,8 @@ module.exports = {
       for (var i = 1; i < response.rows.length; i++) {
         row = response.rows[i].cells;
         timezones.push({
-          javaID: row['JAVA_ID'],
-          translation: row[code]
+          id: row['JAVA_ID'],
+          name: row[code]
         });
       }
 
