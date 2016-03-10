@@ -43,7 +43,7 @@ module.exports = {
         }
       }
 
-      return languages;
+      return languages;  
     },
 
     extractLanguageKeys: function(code, response) {
@@ -59,6 +59,31 @@ module.exports = {
       }
 
       return keys;
+    },
+
+    parseTimezones: function(codes, response){
+      var timezones = {};
+
+      for (var i = 1; i < codes.length; i++) {
+        var code = codes[i];
+        timezones[code] = this.extractTimezone(code, response);
+      }
+
+      return timezones;
+    },
+
+    extractTimezone: function(code, response) {
+      var timezones = [];
+
+      for (var i = 1; i < response.rows.length; i++) {
+        row = response.rows[i].cells;
+        timezones.push({
+          javaID: row['JAVA_ID'],
+          translation: row[code]
+        });
+      }
+
+      return timezones;
     }
   },
 

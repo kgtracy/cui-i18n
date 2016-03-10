@@ -74,7 +74,7 @@ module.exports = function(grunt) {
       }
     },
     exec: {
-      generate: 'node generateTranslations.js && node generateMessaging.js'
+      generate: 'node generateTranslations.js && node generateMessaging.js && node generateTimezones.js' 
     }
 
   });
