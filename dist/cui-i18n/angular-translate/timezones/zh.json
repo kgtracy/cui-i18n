@@ -1,266 +1,266 @@
 [
     {
-        "javaID": "Pacific/Fiji",
-        "translation": "(GMT+12:00) 斐济、堪察加半岛、马绍尔群岛"
+        "id": "Pacific/Fiji",
+        "name": "(GMT+12:00) 斐济、堪察加半岛、马绍尔群岛"
     },
     {
-        "javaID": "Pacific/Auckland",
-        "translation": "(GMT+12:00) 奥克兰、惠灵顿"
+        "id": "Pacific/Auckland",
+        "name": "(GMT+12:00) 奥克兰、惠灵顿"
     },
     {
-        "javaID": "Pacific/Efate",
-        "translation": "(GMT+11:00) 马加丹、所罗门群岛、新喀里多尼亚"
+        "id": "Pacific/Efate",
+        "name": "(GMT+11:00) 马加丹、所罗门群岛、新喀里多尼亚"
     },
     {
-        "javaID": "Asia/Vladivostok",
-        "translation": "(GMT+10:00) 符拉迪沃斯托克"
+        "id": "Asia/Vladivostok",
+        "name": "(GMT+10:00) 符拉迪沃斯托克"
     },
     {
-        "javaID": "Australia/Lord_Howe",
-        "translation": "(GMT+10:00) 霍巴特"
+        "id": "Australia/Lord_Howe",
+        "name": "(GMT+10:00) 霍巴特"
     },
     {
-        "javaID": "Pacific/Guam",
-        "translation": "(GMT+10:00) 关岛、莫尔兹比港"
+        "id": "Pacific/Guam",
+        "name": "(GMT+10:00) 关岛、莫尔兹比港"
     },
     {
-        "javaID": "Australia/Sydney",
-        "translation": "(GMT+10:00) 堪培拉、墨尔本、悉尼"
+        "id": "Australia/Sydney",
+        "name": "(GMT+10:00) 堪培拉、墨尔本、悉尼"
     },
     {
-        "javaID": "Australia/Brisbane",
-        "translation": "(GMT+10:00) 布里斯班"
+        "id": "Australia/Brisbane",
+        "name": "(GMT+10:00) 布里斯班"
     },
     {
-        "javaID": "Australia/Darwin",
-        "translation": "(GMT+09:30) 达尔文"
+        "id": "Australia/Darwin",
+        "name": "(GMT+09:30) 达尔文"
     },
     {
-        "javaID": "Australia/Adelaide",
-        "translation": "(GMT+09:30) 阿德莱德"
+        "id": "Australia/Adelaide",
+        "name": "(GMT+09:30) 阿德莱德"
     },
     {
-        "javaID": "Asia/Yakutsk",
-        "translation": "(GMT+09:00) 雅库茨克"
+        "id": "Asia/Yakutsk",
+        "name": "(GMT+09:00) 雅库茨克"
     },
     {
-        "javaID": "Asia/Seoul",
-        "translation": "(GMT+09:00) 首尔"
+        "id": "Asia/Seoul",
+        "name": "(GMT+09:00) 首尔"
     },
     {
-        "javaID": "Asia/Tokyo",
-        "translation": "(GMT+09:00) 大阪、札幌、东京"
+        "id": "Asia/Tokyo",
+        "name": "(GMT+09:00) 大阪、札幌、东京"
     },
     {
-        "javaID": "ACT",
-        "translation": "(GMT+09:00) 澳洲"
+        "id": "ACT",
+        "name": "(GMT+09:00) 澳洲"
     },
     {
-        "javaID": "Asia/Taipei",
-        "translation": "(GMT+08:00) 台北"
+        "id": "Asia/Taipei",
+        "name": "(GMT+08:00) 台北"
     },
     {
-        "javaID": "Asia/Singapore",
-        "translation": "(GMT+08:00) 新加坡"
+        "id": "Asia/Singapore",
+        "name": "(GMT+08:00) 新加坡"
     },
     {
-        "javaID": "Australia/Perth",
-        "translation": "(GMT+08:00) 珀斯"
+        "id": "Australia/Perth",
+        "name": "(GMT+08:00) 珀斯"
     },
     {
-        "javaID": "Asia/Hong_Kong",
-        "translation": "(GMT+08:00) 北京、重庆、香港、乌鲁木齐"
+        "id": "Asia/Hong_Kong",
+        "name": "(GMT+08:00) 北京、重庆、香港、乌鲁木齐"
     },
     {
-        "javaID": "Asia/Bangkok",
-        "translation": "(GMT+07:00) 曼谷、河内、雅加达"
+        "id": "Asia/Bangkok",
+        "name": "(GMT+07:00) 曼谷、河内、雅加达"
     },
     {
-        "javaID": "Asia/Colombo",
-        "translation": "(GMT+06:00) 科伦坡"
+        "id": "Asia/Colombo",
+        "name": "(GMT+06:00) 科伦坡"
     },
     {
-        "javaID": "Asia/Alma-Ata",
-        "translation": "(GMT+06:00) 阿拉木图、达卡"
+        "id": "Asia/Alma-Ata",
+        "name": "(GMT+06:00) 阿拉木图、达卡"
     },
     {
-        "javaID": "Asia/Calcutta",
-        "translation": "(GMT+05:30) 孟买、加尔各答、马德拉斯、新德里"
+        "id": "Asia/Calcutta",
+        "name": "(GMT+05:30) 孟买、加尔各答、马德拉斯、新德里"
     },
     {
-        "javaID": "Asia/Karachi",
-        "translation": "(GMT+05:00) 伊斯兰堡、卡拉奇、塔什干"
+        "id": "Asia/Karachi",
+        "name": "(GMT+05:00) 伊斯兰堡、卡拉奇、塔什干"
     },
     {
-        "javaID": "Asia/Yekaterinburg",
-        "translation": "(GMT+05:00) 叶卡特琳堡"
+        "id": "Asia/Yekaterinburg",
+        "name": "(GMT+05:00) 叶卡特琳堡"
     },
     {
-        "javaID": "Asia/Kabul",
-        "translation": "(GMT+04:30) 喀布尔"
+        "id": "Asia/Kabul",
+        "name": "(GMT+04:30) 喀布尔"
     },
     {
-        "javaID": "Asia/Baku",
-        "translation": "(GMT+04:00) 巴库、第比利斯"
+        "id": "Asia/Baku",
+        "name": "(GMT+04:00) 巴库、第比利斯"
     },
     {
-        "javaID": "Asia/Muscat",
-        "translation": "(GMT+04:00) 阿布扎比、马斯喀特"
+        "id": "Asia/Muscat",
+        "name": "(GMT+04:00) 阿布扎比、马斯喀特"
     },
     {
-        "javaID": "Asia/Tehran",
-        "translation": "(GMT+03:30) 德黑兰"
+        "id": "Asia/Tehran",
+        "name": "(GMT+03:30) 德黑兰"
     },
     {
-        "javaID": "Africa/Nairobi",
-        "translation": "(GMT+03:00) 内罗毕"
+        "id": "Africa/Nairobi",
+        "name": "(GMT+03:00) 内罗毕"
     },
     {
-        "javaID": "Europe/Moscow",
-        "translation": "(GMT+03:00) 莫斯科、圣彼得堡、伏尔加格勒"
+        "id": "Europe/Moscow",
+        "name": "(GMT+03:00) 莫斯科、圣彼得堡、伏尔加格勒"
     },
     {
-        "javaID": "Asia/Baghdad",
-        "translation": "(GMT+03:00) 巴格达、科威特、利雅得"
+        "id": "Asia/Baghdad",
+        "name": "(GMT+03:00) 巴格达、科威特、利雅得"
     },
     {
-        "javaID": "Asia/Jerusalem",
-        "translation": "(GMT+02:00) 耶路撒冷"
+        "id": "Asia/Jerusalem",
+        "name": "(GMT+02:00) 耶路撒冷"
     },
     {
-        "javaID": "Europe/Helsinki",
-        "translation": "(GMT+02:00) 赫尔辛基、里加、塔林"
+        "id": "Europe/Helsinki",
+        "name": "(GMT+02:00) 赫尔辛基、里加、塔林"
     },
     {
-        "javaID": "Africa/Harare",
-        "translation": "(GMT+02:00) 哈拉雷、比勒陀利亚"
+        "id": "Africa/Harare",
+        "name": "(GMT+02:00) 哈拉雷、比勒陀利亚"
     },
     {
-        "javaID": "Africa/Cairo",
-        "translation": "(GMT+02:00) 开罗"
+        "id": "Africa/Cairo",
+        "name": "(GMT+02:00) 开罗"
     },
     {
-        "javaID": "Europe/Bucharest",
-        "translation": "(GMT+02:00) 布加勒斯特"
+        "id": "Europe/Bucharest",
+        "name": "(GMT+02:00) 布加勒斯特"
     },
     {
-        "javaID": "Europe/Athens",
-        "translation": "(GMT+02:00) 雅典、伊斯坦布尔、明斯克"
+        "id": "Europe/Athens",
+        "name": "(GMT+02:00) 雅典、伊斯坦布尔、明斯克"
     },
     {
-        "javaID": "Europe/Sofia",
-        "translation": "(GMT+01:00) 萨拉热窝、斯科普里、索非亚、华沙、萨格勒布"
+        "id": "Europe/Sofia",
+        "name": "(GMT+01:00) 萨拉热窝、斯科普里、索非亚、华沙、萨格勒布"
     },
     {
-        "javaID": "Europe/Brussels",
-        "translation": "(GMT+01:00) 布鲁塞尔、柏林，伯尔尼、罗马、斯德哥尔摩、维也纳"
+        "id": "Europe/Brussels",
+        "name": "(GMT+01:00) 布鲁塞尔、柏林，伯尔尼、罗马、斯德哥尔摩、维也纳"
     },
     {
-        "javaID": "Europe/Belgrade",
-        "translation": "(GMT+01:00) 贝尔格莱德、萨拉热窝、斯科普里、萨格勒布"
+        "id": "Europe/Belgrade",
+        "name": "(GMT+01:00) 贝尔格莱德、萨拉热窝、斯科普里、萨格勒布"
     },
     {
-        "javaID": "Europe/Amsterdam",
-        "translation": "(GMT+01:00) 阿姆斯特丹、哥本哈根、马德里、巴黎、维尔纽斯"
+        "id": "Europe/Amsterdam",
+        "name": "(GMT+01:00) 阿姆斯特丹、哥本哈根、马德里、巴黎、维尔纽斯"
     },
     {
-        "javaID": "Africa/Casablanca",
-        "translation": "(GMT-00:00) 卡萨布兰卡、蒙罗维亚"
+        "id": "Africa/Casablanca",
+        "name": "(GMT-00:00) 卡萨布兰卡、蒙罗维亚"
     },
     {
-        "javaID": "GMT",
-        "translation": "(GMT-00:00) 格林威治标准时间：都柏林、爱丁堡、里斯本"
+        "id": "GMT",
+        "name": "(GMT-00:00) 格林威治标准时间：都柏林、爱丁堡、里斯本"
     },
     {
-        "javaID": "Europe/London",
-        "translation": "(GMT+01:00) 伦敦"
+        "id": "Europe/London",
+        "name": "(GMT+01:00) 伦敦"
     },
     {
-        "javaID": "Atlantic/Azores",
-        "translation": "(GMT-01:00) 亚速尔群岛、佛得角岛"
+        "id": "Atlantic/Azores",
+        "name": "(GMT-01:00) 亚速尔群岛、佛得角岛"
     },
     {
-        "javaID": "Atlantic/South_Georgia",
-        "translation": "(GMT-02:00) 中大西洋"
+        "id": "Atlantic/South_Georgia",
+        "name": "(GMT-02:00) 中大西洋"
     },
     {
-        "javaID": "BET",
-        "translation": "(GMT-03:00) 巴西利亚"
+        "id": "BET",
+        "name": "(GMT-03:00) 巴西利亚"
     },
     {
-        "javaID": "America/Buenos_Aires",
-        "translation": "(GMT-03:00) 布宜诺斯艾利斯、乔治敦"
+        "id": "America/Buenos_Aires",
+        "name": "(GMT-03:00) 布宜诺斯艾利斯、乔治敦"
     },
     {
-        "javaID": "CNT",
-        "translation": "(GMT-03:00) CNT"
+        "id": "CNT",
+        "name": "(GMT-03:00) CNT"
     },
     {
-        "javaID": "America/St_Johns",
-        "translation": "(GMT-03:30) 纽芬兰"
+        "id": "America/St_Johns",
+        "name": "(GMT-03:30) 纽芬兰"
     },
     {
-        "javaID": "America/Halifax",
-        "translation": "(GMT-04:00) 大西洋时间（加拿大）"
+        "id": "America/Halifax",
+        "name": "(GMT-04:00) 大西洋时间（加拿大）"
     },
     {
-        "javaID": "America/Caracas",
-        "translation": "(GMT-04:00) 加拉加斯、拉巴斯"
+        "id": "America/Caracas",
+        "name": "(GMT-04:00) 加拉加斯、拉巴斯"
     },
     {
-        "javaID": "America/Santiago",
-        "translation": "(GMT-04:00) 圣地亚哥"
+        "id": "America/Santiago",
+        "name": "(GMT-04:00) 圣地亚哥"
     },
     {
-        "javaID": "America/Bogota",
-        "translation": "(GMT-05:00) 波哥大、利马、基多"
+        "id": "America/Bogota",
+        "name": "(GMT-05:00) 波哥大、利马、基多"
     },
     {
-        "javaID": "EST5EDT",
-        "translation": "(GMT-05:00) 东部时间（美国和加拿大）"
+        "id": "EST5EDT",
+        "name": "(GMT-05:00) 东部时间（美国和加拿大）"
     },
     {
-        "javaID": "IET",
-        "translation": "(GMT-05:00) 印第安纳州（东）"
+        "id": "IET",
+        "name": "(GMT-05:00) 印第安纳州（东）"
     },
     {
-        "javaID": "CST6CDT",
-        "translation": "(GMT-06:00) 中部时间（美国和加拿大）"
+        "id": "CST6CDT",
+        "name": "(GMT-06:00) 中部时间（美国和加拿大）"
     },
     {
-        "javaID": "America/Mexico_City",
-        "translation": "(GMT-06:00) 墨西哥城、特古西加尔巴"
+        "id": "America/Mexico_City",
+        "name": "(GMT-06:00) 墨西哥城、特古西加尔巴"
     },
     {
-        "javaID": "America/Winnipeg",
-        "translation": "(GMT-06:00) 萨斯喀彻温"
+        "id": "America/Winnipeg",
+        "name": "(GMT-06:00) 萨斯喀彻温"
     },
     {
-        "javaID": "America/Phoenix",
-        "translation": "(GMT-07:00) 亚利桑那"
+        "id": "America/Phoenix",
+        "name": "(GMT-07:00) 亚利桑那"
     },
     {
-        "javaID": "MST7MDT",
-        "translation": "(GMT-07:00) 山地时间（美国和加拿大）"
+        "id": "MST7MDT",
+        "name": "(GMT-07:00) 山地时间（美国和加拿大）"
     },
     {
-        "javaID": "America/Tijuana",
-        "translation": "(GMT-08:00) 太平洋时间（美国和加拿大）、提华纳"
+        "id": "America/Tijuana",
+        "name": "(GMT-08:00) 太平洋时间（美国和加拿大）、提华纳"
     },
     {
-        "javaID": "America/Anchorage",
-        "translation": "(GMT-09:00) 阿拉斯加"
+        "id": "America/Anchorage",
+        "name": "(GMT-09:00) 阿拉斯加"
     },
     {
-        "javaID": "Pacific/Honolulu",
-        "translation": "(GMT-10:00) 夏威夷"
+        "id": "Pacific/Honolulu",
+        "name": "(GMT-10:00) 夏威夷"
     },
     {
-        "javaID": "Pacific/Apia",
-        "translation": "(GMT-11:00) 萨摩亚中途岛"
+        "id": "Pacific/Apia",
+        "name": "(GMT-11:00) 萨摩亚中途岛"
     },
     {
-        "javaID": "Pacific/Enderbury",
-        "translation": "(GMT-12:00) 埃尼威托克岛、夸贾林环礁"
+        "id": "Pacific/Enderbury",
+        "name": "(GMT-12:00) 埃尼威托克岛、夸贾林环礁"
     }
 ]

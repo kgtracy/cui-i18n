@@ -90,3 +90,7 @@ Then, in your html
 ## Change log 3/10/2016
 
 * Adds translations to timezones
+
+## Change log 3/10/2016
+
+* Updates keys for timezones JSON files

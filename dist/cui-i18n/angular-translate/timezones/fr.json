@@ -1,266 +1,266 @@
 [
     {
-        "javaID": "Pacific/Fiji",
-        "translation": "(GMT+12:00) Fiji, Kamchatka, Ile Marshall"
+        "id": "Pacific/Fiji",
+        "name": "(GMT+12:00) Fiji, Kamchatka, Ile Marshall"
     },
     {
-        "javaID": "Pacific/Auckland",
-        "translation": "(GMT+12:00) Auckland, Wellington"
+        "id": "Pacific/Auckland",
+        "name": "(GMT+12:00) Auckland, Wellington"
     },
     {
-        "javaID": "Pacific/Efate",
-        "translation": "(GMT+11:00) Magadan, Iles Salomon., Nouvelle Calédonie"
+        "id": "Pacific/Efate",
+        "name": "(GMT+11:00) Magadan, Iles Salomon., Nouvelle Calédonie"
     },
     {
-        "javaID": "Asia/Vladivostok",
-        "translation": "(GMT+10:00) Vladivostok"
+        "id": "Asia/Vladivostok",
+        "name": "(GMT+10:00) Vladivostok"
     },
     {
-        "javaID": "Australia/Lord_Howe",
-        "translation": "(GMT+10:00) Hobart"
+        "id": "Australia/Lord_Howe",
+        "name": "(GMT+10:00) Hobart"
     },
     {
-        "javaID": "Pacific/Guam",
-        "translation": "(GMT+10:00) Guam, Port Moresby"
+        "id": "Pacific/Guam",
+        "name": "(GMT+10:00) Guam, Port Moresby"
     },
     {
-        "javaID": "Australia/Sydney",
-        "translation": "(GMT+10:00) Canberra, Melbourne, Sydney"
+        "id": "Australia/Sydney",
+        "name": "(GMT+10:00) Canberra, Melbourne, Sydney"
     },
     {
-        "javaID": "Australia/Brisbane",
-        "translation": "(GMT+10:00) Brisbane"
+        "id": "Australia/Brisbane",
+        "name": "(GMT+10:00) Brisbane"
     },
     {
-        "javaID": "Australia/Darwin",
-        "translation": "(GMT+09:30) Darwin"
+        "id": "Australia/Darwin",
+        "name": "(GMT+09:30) Darwin"
     },
     {
-        "javaID": "Australia/Adelaide",
-        "translation": "(GMT+09:30) Adélaïde"
+        "id": "Australia/Adelaide",
+        "name": "(GMT+09:30) Adélaïde"
     },
     {
-        "javaID": "Asia/Yakutsk",
-        "translation": "(GMT+09:00) Yakutsk"
+        "id": "Asia/Yakutsk",
+        "name": "(GMT+09:00) Yakutsk"
     },
     {
-        "javaID": "Asia/Seoul",
-        "translation": "(GMT+09:00) Séoul"
+        "id": "Asia/Seoul",
+        "name": "(GMT+09:00) Séoul"
     },
     {
-        "javaID": "Asia/Tokyo",
-        "translation": "(GMT+09:00) Osaka, Sapporo, Tokyo"
+        "id": "Asia/Tokyo",
+        "name": "(GMT+09:00) Osaka, Sapporo, Tokyo"
     },
     {
-        "javaID": "ACT",
-        "translation": "(GMT+09:00) ACT"
+        "id": "ACT",
+        "name": "(GMT+09:00) ACT"
     },
     {
-        "javaID": "Asia/Taipei",
-        "translation": "(GMT+08:00) Taipei"
+        "id": "Asia/Taipei",
+        "name": "(GMT+08:00) Taipei"
     },
     {
-        "javaID": "Asia/Singapore",
-        "translation": "(GMT+08:00) Singapour"
+        "id": "Asia/Singapore",
+        "name": "(GMT+08:00) Singapour"
     },
     {
-        "javaID": "Australia/Perth",
-        "translation": "(GMT+08:00) Perth"
+        "id": "Australia/Perth",
+        "name": "(GMT+08:00) Perth"
     },
     {
-        "javaID": "Asia/Hong_Kong",
-        "translation": "(GMT+08:00) Pékin, Chongqing, Hong Kong, Urumqi"
+        "id": "Asia/Hong_Kong",
+        "name": "(GMT+08:00) Pékin, Chongqing, Hong Kong, Urumqi"
     },
     {
-        "javaID": "Asia/Bangkok",
-        "translation": "(GMT+07:00) Bangkok, Hanoi, Jakarta"
+        "id": "Asia/Bangkok",
+        "name": "(GMT+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
-        "javaID": "Asia/Colombo",
-        "translation": "(GMT+06:00) Colombo"
+        "id": "Asia/Colombo",
+        "name": "(GMT+06:00) Colombo"
     },
     {
-        "javaID": "Asia/Alma-Ata",
-        "translation": "(GMT+06:00) Almaty, Dhaka"
+        "id": "Asia/Alma-Ata",
+        "name": "(GMT+06:00) Almaty, Dhaka"
     },
     {
-        "javaID": "Asia/Calcutta",
-        "translation": "(GMT+05:30) Bombay, Calcutta, Madras, New Delhi"
+        "id": "Asia/Calcutta",
+        "name": "(GMT+05:30) Bombay, Calcutta, Madras, New Delhi"
     },
     {
-        "javaID": "Asia/Karachi",
-        "translation": "(GMT+05:00) Islamabad, Karachi, Tashkent"
+        "id": "Asia/Karachi",
+        "name": "(GMT+05:00) Islamabad, Karachi, Tashkent"
     },
     {
-        "javaID": "Asia/Yekaterinburg",
-        "translation": "(GMT+05:00) Ekaterinburg"
+        "id": "Asia/Yekaterinburg",
+        "name": "(GMT+05:00) Ekaterinburg"
     },
     {
-        "javaID": "Asia/Kabul",
-        "translation": "(GMT+04:30) Kabul"
+        "id": "Asia/Kabul",
+        "name": "(GMT+04:30) Kabul"
     },
     {
-        "javaID": "Asia/Baku",
-        "translation": "(GMT+04:00) Baku, Tbilsi"
+        "id": "Asia/Baku",
+        "name": "(GMT+04:00) Baku, Tbilsi"
     },
     {
-        "javaID": "Asia/Muscat",
-        "translation": "(GMT+04:00) Abu Dhabi, Muscat"
+        "id": "Asia/Muscat",
+        "name": "(GMT+04:00) Abu Dhabi, Muscat"
     },
     {
-        "javaID": "Asia/Tehran",
-        "translation": "(GMT+03:30) Téhéran"
+        "id": "Asia/Tehran",
+        "name": "(GMT+03:30) Téhéran"
     },
     {
-        "javaID": "Africa/Nairobi",
-        "translation": "(GMT+03:00) Nairobi"
+        "id": "Africa/Nairobi",
+        "name": "(GMT+03:00) Nairobi"
     },
     {
-        "javaID": "Europe/Moscow",
-        "translation": "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
+        "id": "Europe/Moscow",
+        "name": "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
     },
     {
-        "javaID": "Asia/Baghdad",
-        "translation": "(GMT+03:00) Baghdad, Kuweït, Riyadh"
+        "id": "Asia/Baghdad",
+        "name": "(GMT+03:00) Baghdad, Kuweït, Riyadh"
     },
     {
-        "javaID": "Asia/Jerusalem",
-        "translation": "(GMT+02:00) Jérusalem"
+        "id": "Asia/Jerusalem",
+        "name": "(GMT+02:00) Jérusalem"
     },
     {
-        "javaID": "Europe/Helsinki",
-        "translation": "(GMT+02:00) Helsinki, Riga, Tallinn"
+        "id": "Europe/Helsinki",
+        "name": "(GMT+02:00) Helsinki, Riga, Tallinn"
     },
     {
-        "javaID": "Africa/Harare",
-        "translation": "(GMT+02:00) Harare, Pretoria"
+        "id": "Africa/Harare",
+        "name": "(GMT+02:00) Harare, Pretoria"
     },
     {
-        "javaID": "Africa/Cairo",
-        "translation": "(GMT+02:00) Caire"
+        "id": "Africa/Cairo",
+        "name": "(GMT+02:00) Caire"
     },
     {
-        "javaID": "Europe/Bucharest",
-        "translation": "(GMT+02:00) Bucharest"
+        "id": "Europe/Bucharest",
+        "name": "(GMT+02:00) Bucharest"
     },
     {
-        "javaID": "Europe/Athens",
-        "translation": "(GMT+02:00) Athènes, Istanbul, Minsk"
+        "id": "Europe/Athens",
+        "name": "(GMT+02:00) Athènes, Istanbul, Minsk"
     },
     {
-        "javaID": "Europe/Sofia",
-        "translation": "(GMT+01:00) Sarajevo, Skopje, Sofija, Warsaw, Zagreb"
+        "id": "Europe/Sofia",
+        "name": "(GMT+01:00) Sarajevo, Skopje, Sofija, Warsaw, Zagreb"
     },
     {
-        "javaID": "Europe/Brussels",
-        "translation": "(GMT+01:00) Bruxelles, Berlin, Bern, Rome, Stockholm, Vienne"
+        "id": "Europe/Brussels",
+        "name": "(GMT+01:00) Bruxelles, Berlin, Bern, Rome, Stockholm, Vienne"
     },
     {
-        "javaID": "Europe/Belgrade",
-        "translation": "(GMT+01:00) Belgrade, Sarajevo, Skopje, Zagreb"
+        "id": "Europe/Belgrade",
+        "name": "(GMT+01:00) Belgrade, Sarajevo, Skopje, Zagreb"
     },
     {
-        "javaID": "Europe/Amsterdam",
-        "translation": "(GMT+01:00) Amsterdam, Copenhagen, Madrid, Paris, Vilnius"
+        "id": "Europe/Amsterdam",
+        "name": "(GMT+01:00) Amsterdam, Copenhagen, Madrid, Paris, Vilnius"
     },
     {
-        "javaID": "Africa/Casablanca",
-        "translation": "(GMT-00:00) Casablanca, Monrovia"
+        "id": "Africa/Casablanca",
+        "name": "(GMT-00:00) Casablanca, Monrovia"
     },
     {
-        "javaID": "GMT",
-        "translation": "(GMT-00:00) Heure de Greenvich : Dublin, Edinburgh, Lisbon"
+        "id": "GMT",
+        "name": "(GMT-00:00) Heure de Greenvich : Dublin, Edinburgh, Lisbon"
     },
     {
-        "javaID": "Europe/London",
-        "translation": "(GMT+01:00) Londres"
+        "id": "Europe/London",
+        "name": "(GMT+01:00) Londres"
     },
     {
-        "javaID": "Atlantic/Azores",
-        "translation": "(GMT-01:00) Açores, Iles du Cap Vert"
+        "id": "Atlantic/Azores",
+        "name": "(GMT-01:00) Açores, Iles du Cap Vert"
     },
     {
-        "javaID": "Atlantic/South_Georgia",
-        "translation": "(GMT-02:00) Médio-Atlantique"
+        "id": "Atlantic/South_Georgia",
+        "name": "(GMT-02:00) Médio-Atlantique"
     },
     {
-        "javaID": "BET",
-        "translation": "(GMT-03:00) Brasilia"
+        "id": "BET",
+        "name": "(GMT-03:00) Brasilia"
     },
     {
-        "javaID": "America/Buenos_Aires",
-        "translation": "(GMT-03:00) Buenos Aires, Georgetown"
+        "id": "America/Buenos_Aires",
+        "name": "(GMT-03:00) Buenos Aires, Georgetown"
     },
     {
-        "javaID": "CNT",
-        "translation": "(GMT-03:00) CNT"
+        "id": "CNT",
+        "name": "(GMT-03:00) CNT"
     },
     {
-        "javaID": "America/St_Johns",
-        "translation": "(GMT-03:30) Terre-Neuve"
+        "id": "America/St_Johns",
+        "name": "(GMT-03:30) Terre-Neuve"
     },
     {
-        "javaID": "America/Halifax",
-        "translation": "(GMT-04:00) Heure de l'Atlantique Canada"
+        "id": "America/Halifax",
+        "name": "(GMT-04:00) Heure de l'Atlantique Canada"
     },
     {
-        "javaID": "America/Caracas",
-        "translation": "(GMT-04:00) Caracas, La Paz"
+        "id": "America/Caracas",
+        "name": "(GMT-04:00) Caracas, La Paz"
     },
     {
-        "javaID": "America/Santiago",
-        "translation": "(GMT-04:00) Santiago"
+        "id": "America/Santiago",
+        "name": "(GMT-04:00) Santiago"
     },
     {
-        "javaID": "America/Bogota",
-        "translation": "(GMT-05:00) Bogota, Lima, Quito"
+        "id": "America/Bogota",
+        "name": "(GMT-05:00) Bogota, Lima, Quito"
     },
     {
-        "javaID": "EST5EDT",
-        "translation": "(GMT-05:00) Heure de l'ESt (USA & Canada)"
+        "id": "EST5EDT",
+        "name": "(GMT-05:00) Heure de l'ESt (USA & Canada)"
     },
     {
-        "javaID": "IET",
-        "translation": "(GMT-05:00) Indiana (Est)"
+        "id": "IET",
+        "name": "(GMT-05:00) Indiana (Est)"
     },
     {
-        "javaID": "CST6CDT",
-        "translation": "(GMT-06:00) Heure Centrale (USA & Canada)"
+        "id": "CST6CDT",
+        "name": "(GMT-06:00) Heure Centrale (USA & Canada)"
     },
     {
-        "javaID": "America/Mexico_City",
-        "translation": "(GMT-06:00) Ville de Mexico, Tegucigalpa"
+        "id": "America/Mexico_City",
+        "name": "(GMT-06:00) Ville de Mexico, Tegucigalpa"
     },
     {
-        "javaID": "America/Winnipeg",
-        "translation": "(GMT-06:00) Saskatchewan"
+        "id": "America/Winnipeg",
+        "name": "(GMT-06:00) Saskatchewan"
     },
     {
-        "javaID": "America/Phoenix",
-        "translation": "(GMT-07:00) Arizona"
+        "id": "America/Phoenix",
+        "name": "(GMT-07:00) Arizona"
     },
     {
-        "javaID": "MST7MDT",
-        "translation": "(GMT-07:00) Heure des Rocheuses (USA & Canada)"
+        "id": "MST7MDT",
+        "name": "(GMT-07:00) Heure des Rocheuses (USA & Canada)"
     },
     {
-        "javaID": "America/Tijuana",
-        "translation": "(GMT-08:00) Heure du Pacifique (USA & Canada); Tijuana"
+        "id": "America/Tijuana",
+        "name": "(GMT-08:00) Heure du Pacifique (USA & Canada); Tijuana"
     },
     {
-        "javaID": "America/Anchorage",
-        "translation": "(GMT-09:00) Alaska"
+        "id": "America/Anchorage",
+        "name": "(GMT-09:00) Alaska"
     },
     {
-        "javaID": "Pacific/Honolulu",
-        "translation": "(GMT-10:00) Hawaii"
+        "id": "Pacific/Honolulu",
+        "name": "(GMT-10:00) Hawaii"
     },
     {
-        "javaID": "Pacific/Apia",
-        "translation": "(GMT-11:00) Îles Midways Samoa"
+        "id": "Pacific/Apia",
+        "name": "(GMT-11:00) Îles Midways Samoa"
     },
     {
-        "javaID": "Pacific/Enderbury",
-        "translation": "(GMT-12:00) Eniwetok, Kwajalein"
+        "id": "Pacific/Enderbury",
+        "name": "(GMT-12:00) Eniwetok, Kwajalein"
     }
 ]
