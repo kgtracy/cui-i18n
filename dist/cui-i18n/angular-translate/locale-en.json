@@ -168,5 +168,6 @@
     "cui-enter-password": "Enter password",
     "cui-enter-new-password": "Enter new password",
     "cui-re-enter-new-password": "Re-enter new password",
-    "granted-to-my-org": "Granted to my organization"
+    "granted-to-my-org": "Granted to my organization",
+    "collected-items-for-request": "Collected Items for Request"
 }
