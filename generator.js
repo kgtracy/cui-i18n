@@ -64,7 +64,7 @@ module.exports = {
     parseTimezones: function(codes, response){
       var timezones = {};
 
-      for (var i = 1; i < codes.length; i++) {
+      for (var i = 0; i < codes.length; i++) {
         var code = codes[i];
         timezones[code] = this.extractTimezone(code, response);
       }
