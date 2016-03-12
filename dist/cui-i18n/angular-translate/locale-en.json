@@ -169,5 +169,8 @@
     "cui-enter-new-password": "Enter new password",
     "cui-re-enter-new-password": "Re-enter new password",
     "granted-to-my-org": "Granted to my organization",
-    "collected-items-for-request": "Collected Items for Request"
+    "collected-items-for-request": "Collected Items for Request",
+    "cui-invalid-password": "Invalid password. Please try again.",
+    "cui-faq": "FAQ",
+    "cui-frequently-asked-questions": "Frequently Asked Questions"
 }
