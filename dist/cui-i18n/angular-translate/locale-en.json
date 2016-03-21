@@ -180,5 +180,6 @@
     "cui-this-is-not-valid-email": "This is not a valid email.",
     "cui-my-app-requests": "My Application Requests",
     "cui-no-claims": "You have no claims for this application.",
-    "cui-no-application-details": "No details available."
+    "cui-no-application-details": "No details available.",
+    "request": "Request"
 }
