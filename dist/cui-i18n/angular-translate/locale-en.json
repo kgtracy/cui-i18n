@@ -183,5 +183,7 @@
     "cui-no-application-details": "No details available.",
     "request": "Request",
     "all": "All",
-    "no-selected-apps": "You haven't selected any applications."
+    "no-selected-apps": "You haven't selected any applications.",
+    "basic-info": "Basic Information",
+    "cui-error-username-exists": "UserID already exists! Please choose another one."
 }
