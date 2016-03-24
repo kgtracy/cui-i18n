@@ -193,7 +193,7 @@
     "security-question-repeated": "This answer has already been used.",
     "cui-by-date-added": "By Date Added",
     "cui-alphabetically": "Alphabetically",
-    "Active": "Active",
-    "Pending": "Pending",
-    "Suspended": "Suspended"
+    "active": "Active",
+    "pending": "Pending",
+    "suspended": "Suspended"
 }
