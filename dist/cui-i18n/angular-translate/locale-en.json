@@ -196,5 +196,8 @@
     "cui-alphabetically": "Alphabetically",
     "active": "Active",
     "pending": "Pending",
-    "suspended": "Suspended"
+    "suspended": "Suspended",
+    "title": "Title",
+    "id": "ID",
+    "url": "Url"
 }
