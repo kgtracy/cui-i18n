@@ -100,7 +100,7 @@
     "uppercase-not-allowed": "non contenere alcuna lettera maiuscola",
     "numbers-not-allowed": "non contenere alcun numero",
     "special-not-allowed": "non contenere alcun simbolo speciale (ad es.: ! * +)",
-    "char-not-allowed": "non contenere alcuno dei seguenti caratteri: ^&*)(#$",
+    "chars-not-allowed": "non contenere alcuno dei seguenti caratteri: ^&*)(#$",
     "password-length": "avere tra 8 e 18 caratteri",
     "password-rules": "avere 3 dei seguenti:",
     "password-lowercase": "almeno 1 lettera minuscola",

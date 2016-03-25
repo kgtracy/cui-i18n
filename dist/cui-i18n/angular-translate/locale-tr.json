@@ -100,7 +100,7 @@
     "uppercase-not-allowed": "hiç büyük harf yok",
     "numbers-not-allowed": "hiç rakam yok",
     "special-not-allowed": "hiç özel sembol yok (örn: ! * +)",
-    "char-not-allowed": "aşağıdaki karakterlerden birini içermemeli: ^&*)(#$",
+    "chars-not-allowed": "aşağıdaki karakterlerden birini içermemeli: ^&*)(#$",
     "password-length": "8-18 arası karaktere sahip",
     "password-rules": "aşağıdakilerden 3'üne sahip:",
     "password-lowercase": "en az 1 küçük harfe sahip",

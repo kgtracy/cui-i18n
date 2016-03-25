@@ -100,7 +100,7 @@
     "uppercase-not-allowed": "没有大写字母",
     "numbers-not-allowed": "没有数字",
     "special-not-allowed": "没有特殊符号（! * + 除外）",
-    "char-not-allowed": "不含下列字符：^&*)(#$",
+    "chars-not-allowed": "不含下列字符：^&*)(#$",
     "password-length": "8-18个字符之间",
     "password-rules": "有下列3种情况：",
     "password-lowercase": "至少1个小写字母",

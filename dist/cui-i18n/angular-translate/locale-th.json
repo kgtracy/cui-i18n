@@ -100,7 +100,7 @@
     "uppercase-not-allowed": "ไม่มีตัวอักษรตัวพิมพ์ใหญ่",
     "numbers-not-allowed": "ไม่มีตัวเลข",
     "special-not-allowed": "ไม่มีสัญลักษณ์พิเศษ (เช่น: ! * +)",
-    "char-not-allowed": "ไม่มีอักขระต่อไปนี้: ^&*)(#$",
+    "chars-not-allowed": "ไม่มีอักขระต่อไปนี้: ^&*)(#$",
     "password-length": "มีความยาว 8-18 ตัวอักษร",
     "password-rules": "มี 3 สิ่งต่อไปนี้:",
     "password-lowercase": "ตัวอักษรตัวพิมพ์เล็กอย่างน้อย 1 ตัว",
