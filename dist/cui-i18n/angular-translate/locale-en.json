@@ -121,7 +121,7 @@
     "no-applications-selected": "You don't have any applications selected. Click here to go back to application selection.",
     "cui-all-fields-required": "All fields are required",
     "cui-complete-registration": "Complete your registration below with",
-    "cui-registered": "registered",
+    "cui-registered": "Registered",
     "cui-open": "open",
     "cui-close": "close",
     "cui-street-address": "Street Address",
@@ -199,5 +199,9 @@
     "suspended": "Suspended",
     "title": "Title",
     "id": "ID",
-    "url": "Url"
+    "url": "Url",
+    "privacy-terms": "Privacy & Terms",
+    "help": "Help",
+    "cui-learn-more-start": "Learn more",
+    "cui-learn-more-end": "about why we ask for this information"
 }
