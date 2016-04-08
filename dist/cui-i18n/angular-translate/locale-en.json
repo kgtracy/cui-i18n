@@ -210,5 +210,8 @@
     "status": "Status",
     "locked": "Locked",
     "rejected": "Rejected",
-    "removed": "Removed"
+    "removed": "Removed",
+    "sort": "Sort",
+    "refine": "Refine",
+    "or": "or"
 }
