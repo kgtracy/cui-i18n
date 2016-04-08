@@ -155,5 +155,9 @@
     "request-reason": "Talep Nedeni",
     "reason-im-requesting": "Talep etmemin nedeni",
     "you-must-enter-a-reason": "Bu uygulamayı talep etmek için bir neden girmelisiniz",
-    "cui-org-no-applications": "Organizasyonunuzun hiç uygulaması olmadığı görülmektedir. Oturum açtıktan sonra daima yeniden deneyebilirsiniz."
+    "cui-org-no-applications": "Organizasyonunuzun hiç uygulaması olmadığı görülmektedir. Oturum açtıktan sonra daima yeniden deneyebilirsiniz.",
+    "cui-faq": "FAQ",
+    "cui-frequently-asked-questions": "sık sorulan Sorular",
+    "cui-admin-tools": "Yönetici Araçları",
+    "help": "Yardım Edin"
 }

@@ -54,7 +54,7 @@
     "cui-welcome-popover": "Las responsabilidades del Administrador de Seguridad se explicarán detalladamente una vez que haya seleccionado un método de registro. Sin embargo, puede elegir cancelar el registro para permitir que un miembro diferente de la organización se registre como Administrador de Seguridad.",
     "create-account": "Crear su cuenta",
     "cui-agree-covisint": "Acepto los términos",
-    "terms-of-service": "de servicio de Covisint",
+    "terms-of-service": "Términos de servicio",
     "cui-and": "y",
     "privacy-policy": "su política de privacidad",
     "cui-tos-agree": "Debe aceptar los términos de servicio para continuar.",
@@ -155,5 +155,9 @@
     "request-reason": "Razón de la solicitud",
     "reason-im-requesting": "Razones por las que solicito",
     "you-must-enter-a-reason": "Debe introducir una razón para solicitar esta aplicación",
-    "cui-org-no-applications": "Parece que su organización no tiene ninguna aplicación. Puede siempre volver a intentarlo tras iniciar sesión."
+    "cui-org-no-applications": "Parece que su organización no tiene ninguna aplicación. Puede siempre volver a intentarlo tras iniciar sesión.",
+    "cui-faq": "FAQ",
+    "cui-frequently-asked-questions": "preguntas frecuentes",
+    "cui-admin-tools": "Herramientas de administración",
+    "help": "Ayuda"
 }

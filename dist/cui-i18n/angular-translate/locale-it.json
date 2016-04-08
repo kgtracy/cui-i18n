@@ -155,5 +155,9 @@
     "request-reason": "Richiedi motivo",
     "reason-im-requesting": "Motivo della richiesta",
     "you-must-enter-a-reason": "Devi inserire un motivo per la richiesta di questa app",
-    "cui-org-no-applications": "Sembra che non vi siano applicazioni della tua azienza. Puoi riprovare dopo il login."
+    "cui-org-no-applications": "Sembra che non vi siano applicazioni della tua azienza. Puoi riprovare dopo il login.",
+    "cui-faq": "FAQ",
+    "cui-frequently-asked-questions": "Domande frequenti",
+    "cui-admin-tools": "strumenti di amministrazione",
+    "help": "Aiuto"
 }

@@ -205,5 +205,10 @@
     "cui-learn-more-start": "Learn more",
     "cui-learn-more-end": "about why we ask for this information",
     "cui-org-hierarchy": "Organization Hierarchy",
-    "directory": "Directory"
+    "directory": "Directory",
+    "userID": "UserID",
+    "status": "Status",
+    "locked": "Locked",
+    "rejected": "Rejected",
+    "removed": "Removed"
 }
