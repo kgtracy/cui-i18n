@@ -159,5 +159,9 @@
     "cui-faq": "FAQ",
     "cui-frequently-asked-questions": "sık sorulan Sorular",
     "cui-admin-tools": "Yönetici Araçları",
+    "active": "aktif",
+    "pending": "kadar",
+    "suspended": "asma",
+    "title": "başlık",
     "help": "Yardım Edin"
 }

@@ -159,5 +159,8 @@
     "cui-faq": "よくある質問",
     "cui-frequently-asked-questions": "よくある質問",
     "cui-admin-tools": "管理ツール",
+    "active": "アクティブ",
+    "pending": "保留中",
+    "suspended": "中断",
     "help": "助けて"
 }

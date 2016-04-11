@@ -159,5 +159,8 @@
     "cui-faq": "FAQ",
     "cui-frequently-asked-questions": "Questions fréquemment posées",
     "cui-admin-tools": "Outils d'administration",
+    "active": "actif",
+    "pending": "en attendant",
+    "suspended": "suspendu",
     "help": "Aidez-moi"
 }

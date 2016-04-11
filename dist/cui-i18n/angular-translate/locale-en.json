@@ -214,5 +214,6 @@
     "sort": "Sort",
     "refine": "Refine",
     "or": "or",
-    "organizations": "Organizations"
+    "organizations": "Organizations",
+    "roles": "Roles"
 }
