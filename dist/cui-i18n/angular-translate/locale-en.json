@@ -216,5 +216,6 @@
     "or": "or",
     "organizations": "Organizations",
     "roles": "Roles",
-    "organization-applications": "Organization Applications"
+    "organization-applications": "Organization Applications",
+    "unactivated": "Unactivated"
 }
