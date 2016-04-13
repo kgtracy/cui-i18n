@@ -217,5 +217,7 @@
     "organizations": "Organizations",
     "roles": "Roles",
     "organization-applications": "Organization Applications",
-    "unactivated": "Unactivated"
+    "unactivated": "Unactivated",
+    "log-out": "Log Out",
+    "welcome": "Welcome"
 }
