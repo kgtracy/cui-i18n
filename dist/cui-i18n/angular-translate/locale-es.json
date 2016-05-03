@@ -156,6 +156,11 @@
     "reason-im-requesting": "Razones por las que solicito",
     "you-must-enter-a-reason": "Debe introducir una razón para solicitar esta aplicación",
     "cui-org-no-applications": "Parece que su organización no tiene ninguna aplicación. Puede siempre volver a intentarlo tras iniciar sesión.",
+    "submit-request": "Enviar peticion",
+    "categories": "Categorías",
+    "cui-enter-password": "Introducir la contraseña",
+    "cui-enter-new-password": "Introduzca nueva contraseña",
+    "cui-re-enter-new-password": "Volver a introducir una nueva contraseña",
     "cui-faq": "FAQ",
     "cui-frequently-asked-questions": "preguntas frecuentes",
     "cui-admin-tools": "Herramientas de administración",
@@ -163,5 +168,6 @@
     "active": "activo",
     "pending": "pendiente",
     "suspended": "suspendido",
-    "help": "Ayuda"
+    "help": "Ayuda",
+    "or": "o"
 }

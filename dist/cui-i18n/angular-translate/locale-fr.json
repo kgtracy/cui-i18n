@@ -156,6 +156,11 @@
     "reason-im-requesting": "Raison que je demande",
     "you-must-enter-a-reason": "Vous devez entrer une raison pour demander l'application",
     "cui-org-no-applications": "On dirait que votre organisation n'a pas d'application. Vous pouvez toujours essayer de nouveau après la connexion.",
+    "submit-request": "Envoyer la demande",
+    "categories": "Catégories",
+    "cui-enter-password": "Entrer le mot de passe",
+    "cui-enter-new-password": "Entrez un nouveau mot de passe",
+    "cui-re-enter-new-password": "ré-entrez le nouveau mot de passe",
     "cui-faq": "FAQ",
     "cui-frequently-asked-questions": "Questions fréquemment posées",
     "cui-admin-tools": "Outils d'administration",
@@ -163,5 +168,6 @@
     "active": "actif",
     "pending": "en attendant",
     "suspended": "suspendu",
-    "help": "Aidez-moi"
+    "help": "Aidez-moi",
+    "or": "ou"
 }
