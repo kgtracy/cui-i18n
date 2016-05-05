@@ -226,5 +226,7 @@
     "top-level-orgs": "Top Level Organizations",
     "invite-user": "Invite User",
     "invite-division": "Invite Division",
-    "username": "Username"
+    "username": "Username",
+    "move": "move",
+    "no-bundled-or-related": "No bundled or related apps."
 }
