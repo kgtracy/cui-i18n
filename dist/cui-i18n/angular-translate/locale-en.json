@@ -221,5 +221,12 @@
     "log-out": "Log Out",
     "welcome": "Welcome",
     "privacy": "Privacy",
-    "terms": "Terms"
+    "terms": "Terms",
+    "user": "User",
+    "top-level-orgs": "Top Level Organizations",
+    "invite-user": "Invite User",
+    "invite-division": "Invite Division",
+    "username": "Username",
+    "move": "move",
+    "no-bundled-or-related": "No bundled or related apps."
 }

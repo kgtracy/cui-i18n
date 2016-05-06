@@ -156,13 +156,20 @@
     "reason-im-requesting": "Talep etmemin nedeni",
     "you-must-enter-a-reason": "Bu uygulamayı talep etmek için bir neden girmelisiniz",
     "cui-org-no-applications": "Organizasyonunuzun hiç uygulaması olmadığı görülmektedir. Oturum açtıktan sonra daima yeniden deneyebilirsiniz.",
-    "cui-faq": "FAQ",
+    "submit-request": "İstek gönderin",
+    "categories": "Kategoriler",
+    "cui-enter-password": "Parolanı Gir",
+    "cui-enter-new-password": "Yeni şifreyi girin",
+    "cui-re-enter-new-password": "yeni şifreyi tekrar giriniz",
+    "cui-faq": "SSS",
     "cui-frequently-asked-questions": "sık sorulan Sorular",
     "cui-admin-tools": "Yönetici Araçları",
     "cui-this-field-is-required": "Bu alan gereklidir.",
+    "all": "tüm",
     "active": "aktif",
     "pending": "kadar",
     "suspended": "asma",
     "title": "başlık",
-    "help": "Yardım Edin"
+    "help": "Yardım Edin",
+    "or": "veya"
 }
