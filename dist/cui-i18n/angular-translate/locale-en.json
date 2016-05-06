@@ -230,5 +230,6 @@
     "move": "move",
     "no-bundled-or-related": "No bundled or related apps.",
     "cui-continue": "Continue",
-    "cui-no-org-divisions": "No organization divisions"
+    "cui-no-org-divisions": "No organization divisions",
+    "inactive": "Inactive"
 }
