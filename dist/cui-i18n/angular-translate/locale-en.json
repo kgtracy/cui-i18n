@@ -228,5 +228,7 @@
     "invite-division": "Invite Division",
     "username": "Username",
     "move": "move",
-    "no-bundled-or-related": "No bundled or related apps."
+    "no-bundled-or-related": "No bundled or related apps.",
+    "cui-continue": "Continue",
+    "cui-no-org-divisions": "No organization divisions"
 }
