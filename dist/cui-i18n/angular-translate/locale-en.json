@@ -234,5 +234,6 @@
     "inactive": "Inactive",
     "deny": "deny",
     "approve": "approve",
-    "pending-request": "Pending Request"
+    "pending-request": "Pending Request",
+    "review-approvals": "Review Approvals"
 }
