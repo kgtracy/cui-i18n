@@ -238,5 +238,6 @@
     "review-approvals": "Review Approvals",
     "cui-package-no-claims": "This package contains no claims",
     "claims": "Claims",
-    "package-name": "Package Name"
+    "package-name": "Package Name",
+    "submit-approvals": "Submit Approvals"
 }
