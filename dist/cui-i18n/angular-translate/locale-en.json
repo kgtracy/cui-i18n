@@ -235,5 +235,8 @@
     "deny": "deny",
     "approve": "approve",
     "pending-request": "Pending Request",
-    "review-approvals": "Review Approvals"
+    "review-approvals": "Review Approvals",
+    "cui-package-no-claims": "This package contains no claims",
+    "claims": "Claims",
+    "package-name": "Package Name"
 }
