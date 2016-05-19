@@ -242,5 +242,7 @@
     "submit-approvals": "Submit Approvals",
     "view-details": "View Details",
     "request-date": "Request Date",
-    "registration-decision": "Registration Decision"
+    "registration-decision": "Registration Decision",
+    "requested": "Requested",
+    "getting-user-info": "Getting your user information..."
 }
