@@ -239,5 +239,8 @@
     "cui-package-no-claims": "This package contains no claims",
     "claims": "Claims",
     "package-name": "Package Name",
-    "submit-approvals": "Submit Approvals"
+    "submit-approvals": "Submit Approvals",
+    "view-details": "View Details",
+    "request-date": "Request Date",
+    "registration-decision": "Registration Decision"
 }
