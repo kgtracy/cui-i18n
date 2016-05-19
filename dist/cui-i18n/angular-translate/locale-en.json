@@ -244,5 +244,7 @@
     "request-date": "Request Date",
     "registration-decision": "Registration Decision",
     "requested": "Requested",
-    "getting-user-info": "Getting your user information..."
+    "getting-user-info": "Getting your user information...",
+    "approvals-submitted": "Approvals Submitted",
+    "rejection-submitted": "Rejection Submitted"
 }
