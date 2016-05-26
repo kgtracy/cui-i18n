@@ -253,5 +253,6 @@
     "person-registration-request-approved": "Approved registration request",
     "person-registration-request-rejected": "Rejected registration request",
     "no-items-rejected": "No items rejected",
-    "no-items-approved": "No items approved"
+    "no-items-approved": "No items approved",
+    "registration-request": "Registration Request"
 }
