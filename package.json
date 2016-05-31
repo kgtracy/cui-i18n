@@ -1,5 +1,5 @@
 {
-  "name": "cui-i18n",
+  "name": "@covisint/cui-i18n",
   "version": "1.0.0",
   "description": "Translation module for Angular apps using the CUI Framework.",
   "main": "index.html",
