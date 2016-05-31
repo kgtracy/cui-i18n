@@ -11,7 +11,7 @@
 
   <groupId>com.covisint.cui</groupId>
   <artifactId>cui-i18n</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <name>CUI Language Bundle</name>
   <description>A library of language resource bundles</description>
