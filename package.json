@@ -24,10 +24,7 @@
     "grunt-filerev": "^2.3.1",
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^3.3.0",
-    "sheetrock": "^1.0.0"
-  },
-  "publishConfig": {
-    "registry": "http://nexus.thirdwavellc.com/content/repositories/cui-npm/"
+    "sheetrock": "^1.0.0",
   },
   "files":
   [
