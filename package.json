@@ -10,8 +10,20 @@
     "Angular",
     "translate"
   ],
-  "author": "Ricardo Marques",
   "license": "LicenseRef-LICENSE",
+  "author": {
+    "name": "Thirdwave, LLC",
+    "email": "support@thirdwavellc.com",
+    "url": "http://www.thirdwavellc.com/"
+  },
+  "contibutors": [
+    {"name": "Ricardo Marques"},
+    {"name": "Piotr Bogun"},
+    {
+      "name": "Orin Fink",
+      "email": "orin.fink@thirdwavellc.com"
+    }
+  ],
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browser-sync": "^2.1.3",
