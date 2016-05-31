@@ -10,3 +10,4 @@ bin
 .tmp/
 build/
 *.iml
+npm-debug.log
