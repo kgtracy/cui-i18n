@@ -13,6 +13,16 @@
   <artifactId>cui-i18n</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+  <name>CUI Language Bundle</name>
+  <description>A library of language resource bundles</description>
+    <organization>
+    <name>Covisint</name>
+  </organization>
+  <scm>
+    <url>https://github.com/thirdwavellc/cui-i18n</url>
+    <connection>scm:git:git@github.com:thirdwavellc/cui-i18n.git</connection>
+    <tag>HEAD</tag>
+  </scm>
 
   <build>
     <plugins>
@@ -87,14 +97,4 @@
   </build>
 
 
-  <scm>
-    <url>https://github.com/thirdwavellc/cui-i18n</url>
-    <connection>scm:git:git@github.com:thirdwavellc/cui-i18n.git</connection>
-    <tag>HEAD</tag>
-  </scm>
-  <organization>
-    <name>Covisint</name>
-  </organization>
-  <name>CUI Language Bundle</name>
-  <description>A library of language resource bundles</description>
 </project>
