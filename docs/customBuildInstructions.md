@@ -1,9 +1,5 @@
 # How to build your own translations
 
-You have 2 options
-  1. Build your translations on top of the default bundle, or
-  2. Build solely out of your own translations
-  
 1. Set up your fork
   1. Fork this repo
   2. Clone the fork
