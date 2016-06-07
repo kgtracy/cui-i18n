@@ -22,7 +22,7 @@ The module will look up the value for the selected language based on the transla
   <script src="bower_components/cui-i18n/translate.js"></script>
   ```
 3. Then, in your app, make sure to to pass `translate` as a dependency
-  ```javascript
+  ```
   angular.module('yourApp', ['translate'])
   ```
 4. Configure your app, like this
