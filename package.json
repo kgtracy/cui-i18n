@@ -51,7 +51,8 @@
     "angular-translate-loader-static-files": "^2.8.0",
     "angular-translate-storage-local": "^2.8.0"
   },
-  "files": [
+  "files":
+  [
     "dist/",
     "translate.js"
   ]
