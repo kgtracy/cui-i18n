@@ -1,6 +1,6 @@
 {
   "name": "cui-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translation module for AngularJS apps.",
   "main": "index.html",
   "scripts": {
@@ -29,8 +29,7 @@
   "publishConfig": {
     "registry": "http://nexus.thirdwavellc.com/content/repositories/cui-npm/"
   },
-  "files":
-  [
+  "files": [
     "dist/"
   ]
 }
