@@ -1,7 +1,7 @@
 {
-  "name": "cui-i18n",
-  "version": "1.0.1",
-  "description": "Translation module for AngularJS apps.",
+  "name": "@covisint/cui-i18n",
+  "version": "1.0.0",
+  "description": "Translation module for Angular apps using the CUI Framework.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,30 @@
     "Angular",
     "translate"
   ],
-  "author": "Ricardo Marques",
-  "license": "ISC",
+  "license": "LicenseRef-LICENSE",
+  "author": {
+    "name": "Thirdwave, LLC",
+    "email": "support@thirdwavellc.com",
+    "url": "http://www.thirdwavellc.com/"
+  },
+  "contibutors": [
+    {"name": "Ricardo Marques"},
+    {"name": "Piotr Bogun"},
+    {
+      "name": "Orin Fink",
+      "email": "orin.fink@thirdwavellc.com"
+    }
+  ],
+  "dependencies": {
+    "angular-translate": "~2.8.0",
+    "angular-translate-storage-local": "~2.8.0",
+    "angular-translate-handler-log": "~2.8.0",
+    "angular-dynamic-locale": "~0.1.27",
+    "angular-i18n": "~1.4.6",
+    "angular-resource": "~1.4.6",
+    "angular-sanitize": "~1.4.6",
+    "angular-translate-loader-static-files": "~2.8.0"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browser-sync": "^2.1.3",
@@ -24,12 +46,14 @@
     "grunt-filerev": "^2.3.1",
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^3.3.0",
-    "sheetrock": "^1.0.0"
+    "sheetrock": "^1.0.0",
+    "angular": "~1.4.6",
+    "bootstrap": "~3.3.5",
+    "cui-styleguide": "^2.1.0"
   },
-  "publishConfig": {
-    "registry": "http://nexus.thirdwavellc.com/content/repositories/cui-npm/"
-  },
-  "files": [
-    "dist/"
+  "files":
+  [
+    "build/",
+    "translate.js"
   ]
 }
