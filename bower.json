@@ -31,7 +31,11 @@
     "package.json",
     "styles.css",
     "index2.html",
-    "app2.js"
+    "app2.js",
+    "generateMessaging.js",
+    "generateTimezones.js",
+    "generateTranslations.js",
+    "generator.js"
   ],
   "dependencies": {
     "angular-translate": "~2.8.0",
