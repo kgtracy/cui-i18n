@@ -1,6 +1,6 @@
 {
   "name": "@covisint/cui-i18n",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Translation module for Angular apps using the CUI Framework.",
   "main": "index.html",
   "scripts": {
@@ -17,8 +17,12 @@
     "url": "http://www.thirdwavellc.com/"
   },
   "contibutors": [
-    {"name": "Ricardo Marques"},
-    {"name": "Piotr Bogun"},
+    {
+      "name": "Ricardo Marques"
+    },
+    {
+      "name": "Piotr Bogun"
+    },
     {
       "name": "Orin Fink",
       "email": "orin.fink@thirdwavellc.com"
@@ -51,8 +55,7 @@
     "angular-translate-loader-static-files": "^2.8.0",
     "angular-translate-storage-local": "^2.8.0"
   },
-  "files":
-  [
+  "files": [
     "dist/",
     "translate.js"
   ]
