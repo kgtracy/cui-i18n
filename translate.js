@@ -16,7 +16,7 @@
         $translateProvider.useSanitizeValueStrategy('escape');
 
         //Where the $locale settings are (for currency,dates and number formats)
-        tmhDynamicLocaleProvider.localeLocationPattern('bower_components/angular-i18n/angular-locale_{{locale}}.js');
+        tmhDynamicLocaleProvider.localeLocationPattern('node_modules/angular-i18n/angular-locale_{{locale}}.js');
 
     }])
     .factory('LocaleLoader',['$http','$q',function($http,$q){
