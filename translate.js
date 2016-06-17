@@ -118,7 +118,7 @@
                 '</select>'+
             '</div>'+
             '',
-            controller: function ($scope) {
+            controller: ['$scope', function ($scope) {
                 $scope.$watch(function(){ return LocaleService.getLocaleDisplayName();},function(){
                   $scope.currentLocaleDisplayName = LocaleService.getLocaleDisplayName();
                 });
@@ -128,7 +128,7 @@
                 $scope.changeLanguage = function (locale) {
                     LocaleService.setLocaleByDisplayName(locale);
                 };
-            }
+            }]
         };
     }]);
 
