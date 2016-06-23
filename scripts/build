@@ -1,10 +1,10 @@
 #!/bin/bash
 
-bower install
 npm install
+npm update
 node generate.js
 source scripts/native2ascii
 grunt build
 mvn clean package deploy -U
 mvn package
-java -jar target/cui-i18n-0.0.1-SNAPSHOT.jar -cp com.covisint.cui.i18n ListCountry
+java -jar target/cui-i18n-1.0.0-SNAPSHOT.jar -cp com.covisint.cui.i18n ListCountry
