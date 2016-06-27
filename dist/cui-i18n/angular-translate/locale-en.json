@@ -263,5 +263,8 @@
     "submit-grant-update": "Submit grant update",
     "review-user-pending-approval": "Review User Pending Approval",
     "view-request-for": "View Request for",
-    "job-title": "job title"
+    "job-title": "job title",
+    "query": "query",
+    "suspend-app": "suspend app",
+    "new-grants": "new grants"
 }
