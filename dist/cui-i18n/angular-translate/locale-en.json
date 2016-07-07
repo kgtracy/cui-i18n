@@ -139,7 +139,7 @@
     "new-request": "New Request",
     "select-applications": "Select Applications",
     "browse-applications": "Browse Applications",
-    "go": "GO",
+    "go": "Go",
     "filter-list": "Filter List",
     "filter": "Filter",
     "owning-org": "Owning Org",
@@ -266,5 +266,9 @@
     "job-title": "job title",
     "query": "query",
     "suspend-app": "suspend app",
-    "new-grants": "new grants"
+    "new-grants": "new grants",
+    "update-grant-settings": "Update Grant Settings",
+    "assign-new-grant-to": "Assign new grant to",
+    "division": "Division",
+    "redirecting-to-sso": "Requesting your credentials"
 }
