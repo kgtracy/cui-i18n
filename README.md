@@ -130,4 +130,3 @@ and use labels wherever you want to
   1. Go into your package.json file, inside of your app's project
   2. Add `"cui-i18n-nameOfYourProject": "git+ssh://git@github.com:GitHubUserOrGroupName/cui-i18n-nameOfYourProject.git"`
   3. Run `npm install`
-8. Make sure you setup your translations in your app's config to match your new language keys (follow the instructions [here](./README.md))
