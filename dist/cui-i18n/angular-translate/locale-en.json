@@ -282,6 +282,7 @@
     "search-within": "Search within",
     "in-your-org": "in your org",
     "people": "People",
+    "revoke-package": "Revoke Package",
     "cui-by-username": "By username",
     "cui-by-status": "By status"
 }
