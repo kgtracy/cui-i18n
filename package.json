@@ -1,6 +1,6 @@
 {
   "name": "@covisint/cui-i18n",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Translation module for Angular apps using the CUI Framework.",
   "main": "index.html",
   "scripts": {
