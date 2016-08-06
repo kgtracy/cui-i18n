@@ -84,8 +84,8 @@ and use labels wherever you want to
   1. Fork this repo
   2. Clone the fork
 2. Set up the sheet that will hold your translations
-  1. [Copy this sheet](https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0)
-  2. Customize it, following the structure
+  1. [Copy this sheet](https://docs.google.com/spreadsheets/d/1VbMLi5EPmkE-_tiBIgB_HRu_HNPg2-i1F9OXXzWJqGk/edit#gid=0)
+  2. Customize it, following the structure by adding custom language keys and/or using keys from the default cui set as overrides
   3. [Make your sheet public](http://www.wikihow.com/Make-a-Google-Doc-Public)
 3. Setup your cui-i18n project to point to that sheet
   1. In [`./generateTranslations.js`](./generateTranslations.js) customize `var codes` on line 4 to match the ones on your sheet
