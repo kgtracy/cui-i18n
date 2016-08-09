@@ -9,4 +9,4 @@ source scripts/native2ascii
 grunt build
 mvn clean package deploy -U
 mvn package
-java -jar target/cui-i18n-1.0.0-SNAPSHOT.jar -cp com.covisint.cui.i18n ListCountry
+java -jar target/cui-i18n-1.0.9-SNAPSHOT.jar -cp com.covisint.cui.i18n ListCountry
