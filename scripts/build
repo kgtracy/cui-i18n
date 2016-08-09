@@ -2,7 +2,9 @@
 
 npm install
 npm update
-node generate.js
+node generateMessaging.js
+node generateTimezones.js
+node generateTranslations.js
 source scripts/native2ascii
 grunt build
 mvn clean package deploy -U
