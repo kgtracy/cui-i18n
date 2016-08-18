@@ -32,10 +32,6 @@
         "name": "(GMT+10:00) บริสเบน"
     },
     {
-        "id": "Australia/Darwin",
-        "name": "(GMT+09:30) ดาร์วิน"
-    },
-    {
         "id": "Australia/Adelaide",
         "name": "(GMT+09:30) แอดิเลด"
     },
@@ -170,10 +166,6 @@
     {
         "id": "GMT",
         "name": "(GMT-00:00) เวลากลางเมืองกรีนวิช : ดับลิน เอดินบะระ ลิสบอน"
-    },
-    {
-        "id": "Europe/London",
-        "name": "(GMT+01:00) ลอนดอน"
     },
     {
         "id": "Atlantic/Azores",

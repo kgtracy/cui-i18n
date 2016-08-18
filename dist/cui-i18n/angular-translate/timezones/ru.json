@@ -32,10 +32,6 @@
         "name": "(GMT+10:00) Брисбен"
     },
     {
-        "id": "Australia/Darwin",
-        "name": "(GMT+09:30) Дарвин"
-    },
-    {
         "id": "Australia/Adelaide",
         "name": "(GMT+09:30) Аделаида"
     },
@@ -170,10 +166,6 @@
     {
         "id": "GMT",
         "name": "(GMT-00:00) Время по Гринвичу: Дублин, Эдинбург, Лиссабон"
-    },
-    {
-        "id": "Europe/London",
-        "name": "(GMT+01:00) Лондон"
     },
     {
         "id": "Atlantic/Azores",

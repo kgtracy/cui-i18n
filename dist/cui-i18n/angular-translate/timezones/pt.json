@@ -32,10 +32,6 @@
         "name": "(TMG+10:00) Brisbane"
     },
     {
-        "id": "Australia/Darwin",
-        "name": "(TMG+09:30) Darwin"
-    },
-    {
         "id": "Australia/Adelaide",
         "name": "(TMG+09:30) Adelaide"
     },
@@ -170,10 +166,6 @@
     {
         "id": "GMT",
         "name": "(TMG-00:00) Tempo Médio de Greenwich: Dublin, Edinburgo, Lisboa"
-    },
-    {
-        "id": "Europe/London",
-        "name": "(TMG+01:00) Londres"
     },
     {
         "id": "Atlantic/Azores",

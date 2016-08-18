@@ -1,6 +1,6 @@
 {
   "name": "@covisint/cui-i18n",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Translation module for Angular apps using the CUI Framework.",
   "keywords": [
     "Angular",
@@ -57,7 +57,7 @@
     "grunt-usemin": "^3.1.1",
     "jquery": "^3.0.0",
     "load-grunt-tasks": "^3.3.0",
-    "sheetrock": "^1.0.0",
+    "sheetrock": "1.0.0",
     "@covisint/cui-styleguide": "*"
   },
   "dependencies": {

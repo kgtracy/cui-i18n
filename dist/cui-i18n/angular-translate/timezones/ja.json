@@ -32,10 +32,6 @@
         "name": "(GMT+10:00)ブリスベーン"
     },
     {
-        "id": "Australia/Darwin",
-        "name": "(GMT+09:30)ダ―ウィン"
-    },
-    {
         "id": "Australia/Adelaide",
         "name": "(GMT+09:30)アデレード"
     },
@@ -170,10 +166,6 @@
     {
         "id": "GMT",
         "name": "(GMT-00:00) グリニッジ標準時、ダブリン、エディンバラ、リスボン"
-    },
-    {
-        "id": "Europe/London",
-        "name": "(GMT+01:00)ロンドン"
     },
     {
         "id": "Atlantic/Azores",

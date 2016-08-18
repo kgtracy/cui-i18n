@@ -32,10 +32,6 @@
         "name": "(GMT+10:00) Brisbane"
     },
     {
-        "id": "Australia/Darwin",
-        "name": "(GMT+09:30) Darwin"
-    },
-    {
         "id": "Australia/Adelaide",
         "name": "(GMT+09:30) Adélaïde"
     },
@@ -170,10 +166,6 @@
     {
         "id": "GMT",
         "name": "(GMT-00:00) Heure de Greenvich : Dublin, Edinburgh, Lisbon"
-    },
-    {
-        "id": "Europe/London",
-        "name": "(GMT+01:00) Londres"
     },
     {
         "id": "Atlantic/Azores",

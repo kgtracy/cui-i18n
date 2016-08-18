@@ -32,10 +32,6 @@
         "name": "(GMT+10:00) 布里斯班"
     },
     {
-        "id": "Australia/Darwin",
-        "name": "(GMT+09:30) 达尔文"
-    },
-    {
         "id": "Australia/Adelaide",
         "name": "(GMT+09:30) 阿德莱德"
     },
@@ -170,10 +166,6 @@
     {
         "id": "GMT",
         "name": "(GMT-00:00) 格林威治标准时间：都柏林、爱丁堡、里斯本"
-    },
-    {
-        "id": "Europe/London",
-        "name": "(GMT+01:00) 伦敦"
     },
     {
         "id": "Atlantic/Azores",
