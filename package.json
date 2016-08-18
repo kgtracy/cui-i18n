@@ -1,6 +1,6 @@
 {
   "name": "@covisint/cui-i18n",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Translation module for Angular apps using the CUI Framework.",
   "keywords": [
     "Angular",
@@ -28,14 +28,14 @@
     }
   ],
   "main": "index.html",
-  "homepage": "https://github.com/covisint/cui-i18n",      
+  "homepage": "https://github.com/covisint/cui-i18n",
   "repository": {
     "type": "git",
     "url": "https://github.com/covisint/cui-i18n"
   },
   "bugs": {
     "url": "https://github.com/covisint/cui-i18n/issues"
-  },  
+  },
   "files": [
     "dist/",
     "translate.js"
