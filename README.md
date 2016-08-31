@@ -79,13 +79,15 @@ Along with the angular module, in this repo we also provide a generator that cre
   ```
 and use labels wherever you want to
 
+{% raw %}
+
   ```html
   {{"translation-key" | translate}}
 
   <!-- example -->
   {{"cui-create-security-admin-account" | translate}}
   ```
-
+{% endraw %}
 
 ## How to build your own translations
 
