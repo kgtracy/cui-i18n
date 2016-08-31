@@ -78,7 +78,6 @@ Along with the angular module, in this repo we also provide a generator that cre
   <div ng-translate-language-select></div>
   ```
 and use labels wherever you want to
-
 {% raw %}
 
   ```html
