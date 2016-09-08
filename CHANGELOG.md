@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+
+
+## [1.0.13] - 2016-09-08
+### Added
+- addition of "unlock" button, confirmation message and error message when unlocking a user account
+- added automated Google Translate content for new rows that did not have any translations yet. (row 290 + at the time of the release.)
+
 ### Modified
 - README updates for better parsing by upstream Gitbook
 - CHANGELOG updates

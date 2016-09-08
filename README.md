@@ -140,3 +140,19 @@ and use labels wherever you want to
   1. Go into your package.json file, inside of your app's project
   2. Add `"cui-i18n-nameOfYourProject": "git+ssh://git@github.com:GitHubUserOrGroupName/cui-i18n-nameOfYourProject.git"`
   3. Run `npm install`
+
+
+## Creating a new release
+
+  1.  Update/add necessary files in the [CUI Translations (Official) google sheet](https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0)
+  2.  Run `mvn versions:set` and use a new patch/feature level version as necessary
+  3.  Edit the ./scripts/build file and ensure the last line represents the updated version for the .jar file
+  4.  Run `mvn versions:commit` to make sure there isn't any extra files in the project root
+  5.  Run `./scripts/build` to create all of the new language files in the project.
+  6.  Update the CHANGELOG with relevant comments on what has been added/changed etc.
+  7.  Add the new/updated files to the git index `git add .`
+  8.  Commit with an appropriate message `git commit -m "updated language bundle"
+  9.  Update the NPM package `npm version patch`  or other npm version command as appropriate
+ 10.  Push the commit to the central repo with tags `git push upstream master --tags`
+ 11.  Publish to the NPM Registry `npm publish --access public`
+ 
