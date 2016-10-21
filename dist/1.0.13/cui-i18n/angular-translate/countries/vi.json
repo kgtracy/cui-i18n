@@ -1,0 +1,1002 @@
+[
+{
+"name" : "Andorra",
+"code" : "AD"
+},
+{
+"name" : "Các Tiểu Vương quốc A-rập Thống nhất",
+"code" : "AE"
+},
+{
+"name" : "Áp-ga-ni-xtan",
+"code" : "AF"
+},
+{
+"name" : "An-ti-gu-a và Ba-bu-đa",
+"code" : "AG"
+},
+{
+"name" : "Anguilla",
+"code" : "AI"
+},
+{
+"name" : "An-ba-ni",
+"code" : "AL"
+},
+{
+"name" : "Ác-mê-ni-a",
+"code" : "AM"
+},
+{
+"name" : "Netherlands Antilles",
+"code" : "AN"
+},
+{
+"name" : "Ăng-gô-la",
+"code" : "AO"
+},
+{
+"name" : "Antarctica",
+"code" : "AQ"
+},
+{
+"name" : "Ác-hen-ti-na",
+"code" : "AR"
+},
+{
+"name" : "American Samoa",
+"code" : "AS"
+},
+{
+"name" : "Áo",
+"code" : "AT"
+},
+{
+"name" : "Úc",
+"code" : "AU"
+},
+{
+"name" : "Aruba",
+"code" : "AW"
+},
+{
+"name" : "Åland Islands",
+"code" : "AX"
+},
+{
+"name" : "Ai-déc-bai-gian",
+"code" : "AZ"
+},
+{
+"name" : "Bô-xni-a Héc-xê-gô-vi-na",
+"code" : "BA"
+},
+{
+"name" : "Bác-ba-đốt",
+"code" : "BB"
+},
+{
+"name" : "Băng-la-đét",
+"code" : "BD"
+},
+{
+"name" : "Bỉ",
+"code" : "BE"
+},
+{
+"name" : "Buốc-ki-na Pha-xô",
+"code" : "BF"
+},
+{
+"name" : "Bun-ga-ri",
+"code" : "BG"
+},
+{
+"name" : "Ba-ren",
+"code" : "BH"
+},
+{
+"name" : "Bu-run-đi",
+"code" : "BI"
+},
+{
+"name" : "Bê-nanh",
+"code" : "BJ"
+},
+{
+"name" : "Saint Barthélemy",
+"code" : "BL"
+},
+{
+"name" : "Bermuda",
+"code" : "BM"
+},
+{
+"name" : "Bru-nây",
+"code" : "BN"
+},
+{
+"name" : "Bô-li-vi-a",
+"code" : "BO"
+},
+{
+"name" : "Sint Eustatius and Saba Bonaire",
+"code" : "BQ"
+},
+{
+"name" : "Bra-xin",
+"code" : "BR"
+},
+{
+"name" : "Ba-ha-ma",
+"code" : "BS"
+},
+{
+"name" : "Bhutan",
+"code" : "BT"
+},
+{
+"name" : "Bouvet Island",
+"code" : "BV"
+},
+{
+"name" : "Bốt-xoa-na",
+"code" : "BW"
+},
+{
+"name" : "Bê-la-rút",
+"code" : "BY"
+},
+{
+"name" : "Bê-li-xê",
+"code" : "BZ"
+},
+{
+"name" : "Ca-na-đa",
+"code" : "CA"
+},
+{
+"name" : "Cocos Islands",
+"code" : "CC"
+},
+{
+"name" : "The Democratic Republic Of Congo",
+"code" : "CD"
+},
+{
+"name" : "Cộng hòa Trung Phi",
+"code" : "CF"
+},
+{
+"name" : "Công-gô",
+"code" : "CG"
+},
+{
+"name" : "Thụy Sĩ",
+"code" : "CH"
+},
+{
+"name" : "Bờ Biển Ngà",
+"code" : "CI"
+},
+{
+"name" : "Cook Islands",
+"code" : "CK"
+},
+{
+"name" : "Chi-lê",
+"code" : "CL"
+},
+{
+"name" : "Ca-mơ-run",
+"code" : "CM"
+},
+{
+"name" : "Trung Quốc",
+"code" : "CN"
+},
+{
+"name" : "Cô-lôm-bi-a",
+"code" : "CO"
+},
+{
+"name" : "Cốt-xta Ri-ca",
+"code" : "CR"
+},
+{
+"name" : "Cu Ba",
+"code" : "CU"
+},
+{
+"name" : "Cáp-ve",
+"code" : "CV"
+},
+{
+"name" : "Curaçao",
+"code" : "CW"
+},
+{
+"name" : "Christmas Island",
+"code" : "CX"
+},
+{
+"name" : "Síp",
+"code" : "CY"
+},
+{
+"name" : "Cộng hòa Séc",
+"code" : "CZ"
+},
+{
+"name" : "Đức",
+"code" : "DE"
+},
+{
+"name" : "Gi-bu-ti",
+"code" : "DJ"
+},
+{
+"name" : "Đan Mạch",
+"code" : "DK"
+},
+{
+"name" : "Dominica",
+"code" : "DM"
+},
+{
+"name" : "Dominican Republic",
+"code" : "DO"
+},
+{
+"name" : "An-giê-ri",
+"code" : "DZ"
+},
+{
+"name" : "Ê-cu-a-đo",
+"code" : "EC"
+},
+{
+"name" : "E-xtô-ni-a",
+"code" : "EE"
+},
+{
+"name" : "Ai Cập",
+"code" : "EG"
+},
+{
+"name" : "Tây Sahara",
+"code" : "EH"
+},
+{
+"name" : "Ê-ri-tơ-rê-a",
+"code" : "ER"
+},
+{
+"name" : "Tây Ban Nha",
+"code" : "ES"
+},
+{
+"name" : "Ê-ti-ô-pi-a",
+"code" : "ET"
+},
+{
+"name" : "Phần Lan",
+"code" : "FI"
+},
+{
+"name" : "Phi-gi",
+"code" : "FJ"
+},
+{
+"name" : "Falkland Islands",
+"code" : "FK"
+},
+{
+"name" : "Mi-crô-nê-xi-a",
+"code" : "FM"
+},
+{
+"name" : "Faroe Islands",
+"code" : "FO"
+},
+{
+"name" : "Pháp",
+"code" : "FR"
+},
+{
+"name" : "Ga-bông",
+"code" : "GA"
+},
+{
+"name" : "Vương quốc Anh",
+"code" : "GB"
+},
+{
+"name" : "Grê-na-đa",
+"code" : "GD"
+},
+{
+"name" : "Gru-di-a",
+"code" : "GE"
+},
+{
+"name" : "French Guiana",
+"code" : "GF"
+},
+{
+"name" : "Guernsey",
+"code" : "GG"
+},
+{
+"name" : "Gha-na",
+"code" : "GH"
+},
+{
+"name" : "Gibraltar",
+"code" : "GI"
+},
+{
+"name" : "Greenland",
+"code" : "GL"
+},
+{
+"name" : "Găm-bi-a",
+"code" : "GM"
+},
+{
+"name" : "Ghi-nê",
+"code" : "GN"
+},
+{
+"name" : "Guadeloupe",
+"code" : "GP"
+},
+{
+"name" : "Ghi-nê Xích-đạo",
+"code" : "GQ"
+},
+{
+"name" : "Hy Lạp",
+"code" : "GR"
+},
+{
+"name" : "South Georgia And The South Sandwich Islands",
+"code" : "GS"
+},
+{
+"name" : "Goa-tê-ma-la",
+"code" : "GT"
+},
+{
+"name" : "Guam",
+"code" : "GU"
+},
+{
+"name" : "Ghi-nê Bít-xao",
+"code" : "GW"
+},
+{
+"name" : "Guy-a-na",
+"code" : "GY"
+},
+{
+"name" : "Hong Kong",
+"code" : "HK"
+},
+{
+"name" : "Heard Island And McDonald Islands",
+"code" : "HM"
+},
+{
+"name" : "Hôn-đu-rát",
+"code" : "HN"
+},
+{
+"name" : "Crô-a-ti-a",
+"code" : "HR"
+},
+{
+"name" : "Ha-i-ti",
+"code" : "HT"
+},
+{
+"name" : "Hung-ga-ri",
+"code" : "HU"
+},
+{
+"name" : "Nam Dương",
+"code" : "ID"
+},
+{
+"name" : "Ai-len",
+"code" : "IE"
+},
+{
+"name" : "I-xra-en",
+"code" : "IL"
+},
+{
+"name" : "Isle Of Man",
+"code" : "IM"
+},
+{
+"name" : "Ấn Độ",
+"code" : "IN"
+},
+{
+"name" : "British Indian Ocean Territory",
+"code" : "IO"
+},
+{
+"name" : "I-rắc",
+"code" : "IQ"
+},
+{
+"name" : "I-ran",
+"code" : "IR"
+},
+{
+"name" : "Ai-xơ-len",
+"code" : "IS"
+},
+{
+"name" : "Ý",
+"code" : "IT"
+},
+{
+"name" : "Jersey",
+"code" : "JE"
+},
+{
+"name" : "Ha-mai-ca",
+"code" : "JM"
+},
+{
+"name" : "Gióc-đa-ni",
+"code" : "JO"
+},
+{
+"name" : "Nhật Bản",
+"code" : "JP"
+},
+{
+"name" : "Kê-ni-a",
+"code" : "KE"
+},
+{
+"name" : "Cư-rơ-gư-xtan",
+"code" : "KG"
+},
+{
+"name" : "Campuchia",
+"code" : "KH"
+},
+{
+"name" : "Ki-ri-ba-ti",
+"code" : "KI"
+},
+{
+"name" : "Cô-mô",
+"code" : "KM"
+},
+{
+"name" : "Xan-kít và Nê-vi",
+"code" : "KN"
+},
+{
+"name" : "Bắc Triều Tiên",
+"code" : "KP"
+},
+{
+"name" : "Hàn Quốc",
+"code" : "KR"
+},
+{
+"name" : "Cô-oét",
+"code" : "KW"
+},
+{
+"name" : "Cayman Islands",
+"code" : "KY"
+},
+{
+"name" : "Ka-dắc-xtan",
+"code" : "KZ"
+},
+{
+"name" : "Lào",
+"code" : "LA"
+},
+{
+"name" : "Li-băng",
+"code" : "LB"
+},
+{
+"name" : "Xan Lu-xi",
+"code" : "LC"
+},
+{
+"name" : "Lich-ten-xtên",
+"code" : "LI"
+},
+{
+"name" : "Xri Lan-ca",
+"code" : "LK"
+},
+{
+"name" : "Li-bê-ri-a",
+"code" : "LR"
+},
+{
+"name" : "Lê-xô-thô",
+"code" : "LS"
+},
+{
+"name" : "Li-tu-a-ni-a",
+"code" : "LT"
+},
+{
+"name" : "Lúc-xăm-bua",
+"code" : "LU"
+},
+{
+"name" : "Lát-vi-a",
+"code" : "LV"
+},
+{
+"name" : "Li-bi",
+"code" : "LY"
+},
+{
+"name" : "Ma-rốc",
+"code" : "MA"
+},
+{
+"name" : "Mô-na-cô",
+"code" : "MC"
+},
+{
+"name" : "Môn-đô-va",
+"code" : "MD"
+},
+{
+"name" : "Montenegro",
+"code" : "ME"
+},
+{
+"name" : "Saint Martin",
+"code" : "MF"
+},
+{
+"name" : "Ma-đa-gát-xca",
+"code" : "MG"
+},
+{
+"name" : "Quần đảo Mác-san",
+"code" : "MH"
+},
+{
+"name" : "Ma-xê-đô-ni-a",
+"code" : "MK"
+},
+{
+"name" : "Ma-li",
+"code" : "ML"
+},
+{
+"name" : "Mi-an-ma",
+"code" : "MM"
+},
+{
+"name" : "Mông Cổ",
+"code" : "MN"
+},
+{
+"name" : "Macao",
+"code" : "MO"
+},
+{
+"name" : "Northern Mariana Islands",
+"code" : "MP"
+},
+{
+"name" : "Martinique",
+"code" : "MQ"
+},
+{
+"name" : "Mô-ri-ta-ni",
+"code" : "MR"
+},
+{
+"name" : "Montserrat",
+"code" : "MS"
+},
+{
+"name" : "Man-ta",
+"code" : "MT"
+},
+{
+"name" : "Mô-ri-xơ",
+"code" : "MU"
+},
+{
+"name" : "Man-đi-vơ",
+"code" : "MV"
+},
+{
+"name" : "Ma-la-uy",
+"code" : "MW"
+},
+{
+"name" : "Mê-hi-cô",
+"code" : "MX"
+},
+{
+"name" : "Ma-lay-xi-a",
+"code" : "MY"
+},
+{
+"name" : "Mô-dăm-bích",
+"code" : "MZ"
+},
+{
+"name" : "Nam-mi-bi-a",
+"code" : "NA"
+},
+{
+"name" : "New Caledonia",
+"code" : "NC"
+},
+{
+"name" : "Ni-giê",
+"code" : "NE"
+},
+{
+"name" : "Norfolk Island",
+"code" : "NF"
+},
+{
+"name" : "Ni-giê-ri-a",
+"code" : "NG"
+},
+{
+"name" : "Ni-ca-ra-goa",
+"code" : "NI"
+},
+{
+"name" : "Hà Lan",
+"code" : "NL"
+},
+{
+"name" : "Na Uy",
+"code" : "NO"
+},
+{
+"name" : "Nê-pan",
+"code" : "NP"
+},
+{
+"name" : "Nauru",
+"code" : "NR"
+},
+{
+"name" : "Niue",
+"code" : "NU"
+},
+{
+"name" : "Niu Di-lân",
+"code" : "NZ"
+},
+{
+"name" : "Ô-man",
+"code" : "OM"
+},
+{
+"name" : "Pa-na-ma",
+"code" : "PA"
+},
+{
+"name" : "Pê-ru",
+"code" : "PE"
+},
+{
+"name" : "French Polynesia",
+"code" : "PF"
+},
+{
+"name" : "Pa-pu-a Niu Ghi-nê",
+"code" : "PG"
+},
+{
+"name" : "Phi-lip-pin",
+"code" : "PH"
+},
+{
+"name" : "Pa-ki-xtan",
+"code" : "PK"
+},
+{
+"name" : "Ba Lan",
+"code" : "PL"
+},
+{
+"name" : "Saint Pierre And Miquelon",
+"code" : "PM"
+},
+{
+"name" : "Pitcairn",
+"code" : "PN"
+},
+{
+"name" : "Puerto Rico",
+"code" : "PR"
+},
+{
+"name" : "Palestine",
+"code" : "PS"
+},
+{
+"name" : "Bồ Đào Nha",
+"code" : "PT"
+},
+{
+"name" : "Palau",
+"code" : "PW"
+},
+{
+"name" : "Pa-ra-goay",
+"code" : "PY"
+},
+{
+"name" : "Ca-ta",
+"code" : "QA"
+},
+{
+"name" : "Reunion",
+"code" : "RE"
+},
+{
+"name" : "Ru-ma-ni",
+"code" : "RO"
+},
+{
+"name" : "Serbia",
+"code" : "RS"
+},
+{
+"name" : "Nga",
+"code" : "RU"
+},
+{
+"name" : "Ru-an-đa",
+"code" : "RW"
+},
+{
+"name" : "A-rập Xê-út",
+"code" : "SA"
+},
+{
+"name" : "Quần đảo Xô-lô-mông",
+"code" : "SB"
+},
+{
+"name" : "Xây-sen",
+"code" : "SC"
+},
+{
+"name" : "Xu-đăng",
+"code" : "SD"
+},
+{
+"name" : "Thụy Điển",
+"code" : "SE"
+},
+{
+"name" : "Xin-ga-po",
+"code" : "SG"
+},
+{
+"name" : "Saint Helena",
+"code" : "SH"
+},
+{
+"name" : "Xlô-ven-ni-a",
+"code" : "SI"
+},
+{
+"name" : "Svalbard And Jan Mayen",
+"code" : "SJ"
+},
+{
+"name" : "Xlô-va-ki-a",
+"code" : "SK"
+},
+{
+"name" : "Xi-ê-ra Lê-ôn",
+"code" : "SL"
+},
+{
+"name" : "Xan Ma-ri-nô",
+"code" : "SM"
+},
+{
+"name" : "Xê-nê-gan",
+"code" : "SN"
+},
+{
+"name" : "Xô-ma-li",
+"code" : "SO"
+},
+{
+"name" : "Xu-ri-nam",
+"code" : "SR"
+},
+{
+"name" : "South Sudan",
+"code" : "SS"
+},
+{
+"name" : "Xao Tô-mê và Prin-xi-pê",
+"code" : "ST"
+},
+{
+"name" : "En-san-va-đo",
+"code" : "SV"
+},
+{
+"name" : "Sint Maarten (Dutch part)",
+"code" : "SX"
+},
+{
+"name" : "Xi-ri",
+"code" : "SY"
+},
+{
+"name" : "Xoa-di-len",
+"code" : "SZ"
+},
+{
+"name" : "Turks And Caicos Islands",
+"code" : "TC"
+},
+{
+"name" : "Sát",
+"code" : "TD"
+},
+{
+"name" : "French Southern Territories",
+"code" : "TF"
+},
+{
+"name" : "Tô-gô",
+"code" : "TG"
+},
+{
+"name" : "Thái Lan",
+"code" : "TH"
+},
+{
+"name" : "Tát-gi-ki-xtan",
+"code" : "TJ"
+},
+{
+"name" : "Tokelau",
+"code" : "TK"
+},
+{
+"name" : "Timor-Leste",
+"code" : "TL"
+},
+{
+"name" : "Tuốc-mê-ni-xtan",
+"code" : "TM"
+},
+{
+"name" : "Tuy-ni-di",
+"code" : "TN"
+},
+{
+"name" : "Tông-ga",
+"code" : "TO"
+},
+{
+"name" : "Thổ Nhĩ Kỳ",
+"code" : "TR"
+},
+{
+"name" : "Tri-ni-đát và Tô-ba-gô",
+"code" : "TT"
+},
+{
+"name" : "Tu-va-lu",
+"code" : "TV"
+},
+{
+"name" : "Đài Loan",
+"code" : "TW"
+},
+{
+"name" : "Tan-da-ni-a",
+"code" : "TZ"
+},
+{
+"name" : "U-crai-na",
+"code" : "UA"
+},
+{
+"name" : "U-gan-đa",
+"code" : "UG"
+},
+{
+"name" : "United States Minor Outlying Islands",
+"code" : "UM"
+},
+{
+"name" : "Hoa Kỳ",
+"code" : "US"
+},
+{
+"name" : "U-ru-goay",
+"code" : "UY"
+},
+{
+"name" : "U-dơ-bê-ki-xtan",
+"code" : "UZ"
+},
+{
+"name" : "Va-ti-căng",
+"code" : "VA"
+},
+{
+"name" : "Xan Vin-xen và Grê-na-din",
+"code" : "VC"
+},
+{
+"name" : "Vê-nê-zu-ê-la",
+"code" : "VE"
+},
+{
+"name" : "British Virgin Islands",
+"code" : "VG"
+},
+{
+"name" : "U.S. Virgin Islands",
+"code" : "VI"
+},
+{
+"name" : "Việt Nam",
+"code" : "VN"
+},
+{
+"name" : "Va-nu-a-tu",
+"code" : "VU"
+},
+{
+"name" : "Wallis And Futuna",
+"code" : "WF"
+},
+{
+"name" : "Xa-moa",
+"code" : "WS"
+},
+{
+"name" : "Y-ê-men",
+"code" : "YE"
+},
+{
+"name" : "Mayotte",
+"code" : "YT"
+},
+{
+"name" : "Nam Phi",
+"code" : "ZA"
+},
+{
+"name" : "Dăm-bi-a",
+"code" : "ZM"
+},
+{
+"name" : "Dim-ba-bu-ê",
+"code" : "ZW"
+}
+]

@@ -1,5 +1,9 @@
 module.exports = function(grunt) {
+
   require('load-grunt-tasks')(grunt);
+
+  const packageJson = require('./package.json')
+
   grunt.initConfig ({
     browserSync: {
       dev: {
@@ -44,6 +48,12 @@ module.exports = function(grunt) {
         src: 'index2.html',
         dest: 'build/index2.html'
       },
+      countries: {
+        expand: true,
+        cwd: 'assets/countries/',
+        src: '*.json',
+        dest: 'dist/' + packageJson.version + '/cui-i18n/angular-translate/countries/'
+      },
       localeFiles: {
         src: 'bower_components/angular-i18n/*.js',
         dest: 'build/'
@@ -74,12 +84,26 @@ module.exports = function(grunt) {
       }
     },
     exec: {
+      init: 'node initDist.js',
       generate: 'node generateTranslations.js && node generateMessaging.js && node generateTimezones.js' 
-    }
+    },
+    clean: ['dist/']
 
   });
 
   grunt.registerTask('default', ['browserSync:dev']);
-  grunt.registerTask('build', ['exec:generate','copy','useminPrepare','concat:generated','cssmin:generated','uglify:generated','usemin']);
+
+  grunt.registerTask('build', [
+    'clean',
+    'exec:init',
+    'exec:generate',
+    'copy',
+    'useminPrepare',
+    'concat:generated',
+    'cssmin:generated',
+    'uglify:generated',
+    'usemin'
+  ]);
+
   grunt.registerTask('demo', ['browserSync:demo']);
 }

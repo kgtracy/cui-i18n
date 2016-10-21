@@ -1,0 +1,1002 @@
+[
+{
+"name" : "Andóra",
+"code" : "AD"
+},
+{
+"name" : "Aontas na nÉimíríochtaí Arabacha",
+"code" : "AE"
+},
+{
+"name" : "An Afganastáin",
+"code" : "AF"
+},
+{
+"name" : "Antigua agus Barbuda",
+"code" : "AG"
+},
+{
+"name" : "Anguilla",
+"code" : "AI"
+},
+{
+"name" : "An Albáin",
+"code" : "AL"
+},
+{
+"name" : "An Airméin",
+"code" : "AM"
+},
+{
+"name" : "Antillí na hÍsiltíre",
+"code" : "AN"
+},
+{
+"name" : "Angóla",
+"code" : "AO"
+},
+{
+"name" : "An Antartaice",
+"code" : "AQ"
+},
+{
+"name" : "An Airgintín",
+"code" : "AR"
+},
+{
+"name" : "Samó Meiriceánach",
+"code" : "AS"
+},
+{
+"name" : "An Ostair",
+"code" : "AT"
+},
+{
+"name" : "An Astráil",
+"code" : "AU"
+},
+{
+"name" : "Aruba",
+"code" : "AW"
+},
+{
+"name" : "Åland Islands",
+"code" : "AX"
+},
+{
+"name" : "An Asarbaiseáin",
+"code" : "AZ"
+},
+{
+"name" : "An Bhoisnia-Heirseagaivéin",
+"code" : "BA"
+},
+{
+"name" : "Barbadós",
+"code" : "BB"
+},
+{
+"name" : "An Bhanglaidéis",
+"code" : "BD"
+},
+{
+"name" : "An Bheilg",
+"code" : "BE"
+},
+{
+"name" : "Buircíne Fasó",
+"code" : "BF"
+},
+{
+"name" : "An Bhulgáir",
+"code" : "BG"
+},
+{
+"name" : "Bairéin",
+"code" : "BH"
+},
+{
+"name" : "An Bhurúin",
+"code" : "BI"
+},
+{
+"name" : "Beinin",
+"code" : "BJ"
+},
+{
+"name" : "Saint Barthélemy",
+"code" : "BL"
+},
+{
+"name" : "Beirmiúda",
+"code" : "BM"
+},
+{
+"name" : "Brúiné",
+"code" : "BN"
+},
+{
+"name" : "An Bholaiv",
+"code" : "BO"
+},
+{
+"name" : "Sint Eustatius and Saba Bonaire",
+"code" : "BQ"
+},
+{
+"name" : "An Bhrasaíl",
+"code" : "BR"
+},
+{
+"name" : "Na Bahámaí",
+"code" : "BS"
+},
+{
+"name" : "An Bhútáin",
+"code" : "BT"
+},
+{
+"name" : "Oileáin Bouvet",
+"code" : "BV"
+},
+{
+"name" : "An Bhotsuáin",
+"code" : "BW"
+},
+{
+"name" : "An Bhealarúis",
+"code" : "BY"
+},
+{
+"name" : "An Bheilís",
+"code" : "BZ"
+},
+{
+"name" : "Ceanada",
+"code" : "CA"
+},
+{
+"name" : "Oileáin Cocos (Keeling)",
+"code" : "CC"
+},
+{
+"name" : "Poblacht Dhaonlathach an Chongó",
+"code" : "CD"
+},
+{
+"name" : "Poblacht na hAfraice Láir",
+"code" : "CF"
+},
+{
+"name" : "An Congó",
+"code" : "CG"
+},
+{
+"name" : "An Eilvéis",
+"code" : "CH"
+},
+{
+"name" : "An Cósta Eabhair",
+"code" : "CI"
+},
+{
+"name" : "Oileáin Cook",
+"code" : "CK"
+},
+{
+"name" : "An tSile",
+"code" : "CL"
+},
+{
+"name" : "Camarún",
+"code" : "CM"
+},
+{
+"name" : "An tSín",
+"code" : "CN"
+},
+{
+"name" : "An Cholóim",
+"code" : "CO"
+},
+{
+"name" : "Cósta Ríce",
+"code" : "CR"
+},
+{
+"name" : "Cúba",
+"code" : "CU"
+},
+{
+"name" : "Rinn Verde",
+"code" : "CV"
+},
+{
+"name" : "Curaçao",
+"code" : "CW"
+},
+{
+"name" : "Oileán na Nollag",
+"code" : "CX"
+},
+{
+"name" : "An Chipir",
+"code" : "CY"
+},
+{
+"name" : "Poblacht na Seice",
+"code" : "CZ"
+},
+{
+"name" : "An Ghearmáin",
+"code" : "DE"
+},
+{
+"name" : "Djibouti",
+"code" : "DJ"
+},
+{
+"name" : "An Danmhairg",
+"code" : "DK"
+},
+{
+"name" : "Doiminice",
+"code" : "DM"
+},
+{
+"name" : "An Phoblacht Dhoiminiceach",
+"code" : "DO"
+},
+{
+"name" : "An Ailgéir",
+"code" : "DZ"
+},
+{
+"name" : "Eacuadór",
+"code" : "EC"
+},
+{
+"name" : "An Eastóin",
+"code" : "EE"
+},
+{
+"name" : "An Éigipt",
+"code" : "EG"
+},
+{
+"name" : "An Sahára Thiar",
+"code" : "EH"
+},
+{
+"name" : "Eritrea",
+"code" : "ER"
+},
+{
+"name" : "An Spáinn",
+"code" : "ES"
+},
+{
+"name" : "An Aetóip",
+"code" : "ET"
+},
+{
+"name" : "An Fhionlainn",
+"code" : "FI"
+},
+{
+"name" : "Fidsí",
+"code" : "FJ"
+},
+{
+"name" : "Oileáin Fháclainne",
+"code" : "FK"
+},
+{
+"name" : "An Mhicrinéis",
+"code" : "FM"
+},
+{
+"name" : "Oileáin Fharó",
+"code" : "FO"
+},
+{
+"name" : "An Fhrainc",
+"code" : "FR"
+},
+{
+"name" : "An Ghabúin",
+"code" : "GA"
+},
+{
+"name" : "An Ríocht Aontaithe",
+"code" : "GB"
+},
+{
+"name" : "Grenada",
+"code" : "GD"
+},
+{
+"name" : "An tSeoirsia",
+"code" : "GE"
+},
+{
+"name" : "An Ghuáin Fhrancach",
+"code" : "GF"
+},
+{
+"name" : "Guernsey",
+"code" : "GG"
+},
+{
+"name" : "Gána",
+"code" : "GH"
+},
+{
+"name" : "Giobráltar",
+"code" : "GI"
+},
+{
+"name" : "An Ghraonlainn",
+"code" : "GL"
+},
+{
+"name" : "An Ghaimbia",
+"code" : "GM"
+},
+{
+"name" : "An Ghuine",
+"code" : "GN"
+},
+{
+"name" : "Guadalúip",
+"code" : "GP"
+},
+{
+"name" : "An Ghuine Mheánchriosach",
+"code" : "GQ"
+},
+{
+"name" : "An Ghréig",
+"code" : "GR"
+},
+{
+"name" : "An tSeoirsia Theas agus Oileáin Sandwich Theas",
+"code" : "GS"
+},
+{
+"name" : "Guatamala",
+"code" : "GT"
+},
+{
+"name" : "Guam",
+"code" : "GU"
+},
+{
+"name" : "An Ghuine-Bhissau",
+"code" : "GW"
+},
+{
+"name" : "An Ghuáin",
+"code" : "GY"
+},
+{
+"name" : "Hong Kong",
+"code" : "HK"
+},
+{
+"name" : "Oileán Heard agus Oileáin McDonald",
+"code" : "HM"
+},
+{
+"name" : "Hondúras",
+"code" : "HN"
+},
+{
+"name" : "An Chróit",
+"code" : "HR"
+},
+{
+"name" : "Háití",
+"code" : "HT"
+},
+{
+"name" : "An Ungáir",
+"code" : "HU"
+},
+{
+"name" : "An Indinéis",
+"code" : "ID"
+},
+{
+"name" : "Éire",
+"code" : "IE"
+},
+{
+"name" : "Iosrael",
+"code" : "IL"
+},
+{
+"name" : "Isle Of Man",
+"code" : "IM"
+},
+{
+"name" : "An India",
+"code" : "IN"
+},
+{
+"name" : "Críocha Briotanacha an Aigéin Indiagh",
+"code" : "IO"
+},
+{
+"name" : "An Iaráic",
+"code" : "IQ"
+},
+{
+"name" : "An Iaráin",
+"code" : "IR"
+},
+{
+"name" : "An Íoslainn",
+"code" : "IS"
+},
+{
+"name" : "An Iodáil",
+"code" : "IT"
+},
+{
+"name" : "Jersey",
+"code" : "JE"
+},
+{
+"name" : "Iamáice",
+"code" : "JM"
+},
+{
+"name" : "An Iordáin",
+"code" : "JO"
+},
+{
+"name" : "An tSeapáin",
+"code" : "JP"
+},
+{
+"name" : "An Chéinia",
+"code" : "KE"
+},
+{
+"name" : "An Chirgeastáin",
+"code" : "KG"
+},
+{
+"name" : "An Chambóid",
+"code" : "KH"
+},
+{
+"name" : "Cireabaití",
+"code" : "KI"
+},
+{
+"name" : "Oileáin Chomóra",
+"code" : "KM"
+},
+{
+"name" : "Saint Kitts agus Nevis",
+"code" : "KN"
+},
+{
+"name" : "An Chóiré Thuaidh",
+"code" : "KP"
+},
+{
+"name" : "An Chóiré Theas",
+"code" : "KR"
+},
+{
+"name" : "Cuáit",
+"code" : "KW"
+},
+{
+"name" : "Oileáin Cayman",
+"code" : "KY"
+},
+{
+"name" : "An Chasacstáin",
+"code" : "KZ"
+},
+{
+"name" : "Laos",
+"code" : "LA"
+},
+{
+"name" : "An Liobáin",
+"code" : "LB"
+},
+{
+"name" : "Saint Lucia",
+"code" : "LC"
+},
+{
+"name" : "Lichtinstéin",
+"code" : "LI"
+},
+{
+"name" : "Srí Lanca",
+"code" : "LK"
+},
+{
+"name" : "An Libéir",
+"code" : "LR"
+},
+{
+"name" : "Leosóta",
+"code" : "LS"
+},
+{
+"name" : "An Liotuáin",
+"code" : "LT"
+},
+{
+"name" : "Lucsamburg",
+"code" : "LU"
+},
+{
+"name" : "An Laitvia",
+"code" : "LV"
+},
+{
+"name" : "An Libia",
+"code" : "LY"
+},
+{
+"name" : "Maracó",
+"code" : "MA"
+},
+{
+"name" : "Monacó",
+"code" : "MC"
+},
+{
+"name" : "An Mholdóiv",
+"code" : "MD"
+},
+{
+"name" : "Montenegro",
+"code" : "ME"
+},
+{
+"name" : "Saint Martin",
+"code" : "MF"
+},
+{
+"name" : "Madagascar",
+"code" : "MG"
+},
+{
+"name" : "Oileáin Marshall",
+"code" : "MH"
+},
+{
+"name" : "An Mhacadóin",
+"code" : "MK"
+},
+{
+"name" : "Mailí",
+"code" : "ML"
+},
+{
+"name" : "Maenmar",
+"code" : "MM"
+},
+{
+"name" : "An Mhongóil",
+"code" : "MN"
+},
+{
+"name" : "Macao",
+"code" : "MO"
+},
+{
+"name" : "Oileáin Mariana Thuaidh",
+"code" : "MP"
+},
+{
+"name" : "Martinique",
+"code" : "MQ"
+},
+{
+"name" : "An Mharatáin",
+"code" : "MR"
+},
+{
+"name" : "Montsarat",
+"code" : "MS"
+},
+{
+"name" : "Málta",
+"code" : "MT"
+},
+{
+"name" : "Oileán Mhuirís",
+"code" : "MU"
+},
+{
+"name" : "Mhaildiví",
+"code" : "MV"
+},
+{
+"name" : "An Mhaláiv",
+"code" : "MW"
+},
+{
+"name" : "Meicsiceo",
+"code" : "MX"
+},
+{
+"name" : "An Mhalaeisia",
+"code" : "MY"
+},
+{
+"name" : "Mósaimbíc",
+"code" : "MZ"
+},
+{
+"name" : "An Namaib",
+"code" : "NA"
+},
+{
+"name" : "An Nua-Chaladóin",
+"code" : "NC"
+},
+{
+"name" : "An Nígir",
+"code" : "NE"
+},
+{
+"name" : "Oileán Norfolk",
+"code" : "NF"
+},
+{
+"name" : "An Nigéir",
+"code" : "NG"
+},
+{
+"name" : "Nicearagua",
+"code" : "NI"
+},
+{
+"name" : "An Ísiltír",
+"code" : "NL"
+},
+{
+"name" : "An Iorua",
+"code" : "NO"
+},
+{
+"name" : "Neipeal",
+"code" : "NP"
+},
+{
+"name" : "Nárú",
+"code" : "NR"
+},
+{
+"name" : "Niue",
+"code" : "NU"
+},
+{
+"name" : "An Nua-Shéalainn",
+"code" : "NZ"
+},
+{
+"name" : "Oman",
+"code" : "OM"
+},
+{
+"name" : "Panama",
+"code" : "PA"
+},
+{
+"name" : "Peiriú",
+"code" : "PE"
+},
+{
+"name" : "An Pholainéis Fhrancach",
+"code" : "PF"
+},
+{
+"name" : "Nua-Ghuine Phapua",
+"code" : "PG"
+},
+{
+"name" : "Na hOileáin Fhilipíneacha",
+"code" : "PH"
+},
+{
+"name" : "An Phacastáin",
+"code" : "PK"
+},
+{
+"name" : "An Pholainn",
+"code" : "PL"
+},
+{
+"name" : "Saint Pierre agus Miquelon",
+"code" : "PM"
+},
+{
+"name" : "Pitcairn",
+"code" : "PN"
+},
+{
+"name" : "Portó Ríce",
+"code" : "PR"
+},
+{
+"name" : "Na Críocha Pailistíneacha",
+"code" : "PS"
+},
+{
+"name" : "An Phortaingéil",
+"code" : "PT"
+},
+{
+"name" : "Palau",
+"code" : "PW"
+},
+{
+"name" : "Paragua",
+"code" : "PY"
+},
+{
+"name" : "Catar",
+"code" : "QA"
+},
+{
+"name" : "Réunion",
+"code" : "RE"
+},
+{
+"name" : "An Rómáin",
+"code" : "RO"
+},
+{
+"name" : "Serbia",
+"code" : "RS"
+},
+{
+"name" : "Cónaidhm na Rúise",
+"code" : "RU"
+},
+{
+"name" : "Ruanda",
+"code" : "RW"
+},
+{
+"name" : "An Araib Shádach",
+"code" : "SA"
+},
+{
+"name" : "Oileáin Solomon",
+"code" : "SB"
+},
+{
+"name" : "Na Séiséil",
+"code" : "SC"
+},
+{
+"name" : "An tSúdáin",
+"code" : "SD"
+},
+{
+"name" : "An tSualainn",
+"code" : "SE"
+},
+{
+"name" : "Singeapór",
+"code" : "SG"
+},
+{
+"name" : "San Héilin",
+"code" : "SH"
+},
+{
+"name" : "An tSlóvéin",
+"code" : "SI"
+},
+{
+"name" : "Svalbard agus Jan Mayen",
+"code" : "SJ"
+},
+{
+"name" : "An tSlóvaic",
+"code" : "SK"
+},
+{
+"name" : "Siarra Leon",
+"code" : "SL"
+},
+{
+"name" : "San Mairíne",
+"code" : "SM"
+},
+{
+"name" : "An tSeineagáil",
+"code" : "SN"
+},
+{
+"name" : "An tSomáil",
+"code" : "SO"
+},
+{
+"name" : "Suranam",
+"code" : "SR"
+},
+{
+"name" : "South Sudan",
+"code" : "SS"
+},
+{
+"name" : "Sao Tome agus Principe",
+"code" : "ST"
+},
+{
+"name" : "An tSalvadóir",
+"code" : "SV"
+},
+{
+"name" : "Sint Maarten (Dutch part)",
+"code" : "SX"
+},
+{
+"name" : "An tSiria",
+"code" : "SY"
+},
+{
+"name" : "An tSuasalainn",
+"code" : "SZ"
+},
+{
+"name" : "Oileáin Turks agus Caicos",
+"code" : "TC"
+},
+{
+"name" : "Sead",
+"code" : "TD"
+},
+{
+"name" : "Críocha Francacha Theas",
+"code" : "TF"
+},
+{
+"name" : "Tóga",
+"code" : "TG"
+},
+{
+"name" : "An Téalainn",
+"code" : "TH"
+},
+{
+"name" : "An Táidsíceastáin",
+"code" : "TJ"
+},
+{
+"name" : "Tócalá",
+"code" : "TK"
+},
+{
+"name" : "Tíomór-Leste",
+"code" : "TL"
+},
+{
+"name" : "An Tuircméanastáin",
+"code" : "TM"
+},
+{
+"name" : "An Túinéis",
+"code" : "TN"
+},
+{
+"name" : "Tonga",
+"code" : "TO"
+},
+{
+"name" : "An Tuirc",
+"code" : "TR"
+},
+{
+"name" : "Oileáin na Tríonóide agus Tobága",
+"code" : "TT"
+},
+{
+"name" : "Tuvalú",
+"code" : "TV"
+},
+{
+"name" : "An Téaváin",
+"code" : "TW"
+},
+{
+"name" : "An Tansáin",
+"code" : "TZ"
+},
+{
+"name" : "An Úcráin",
+"code" : "UA"
+},
+{
+"name" : "Uganda",
+"code" : "UG"
+},
+{
+"name" : "Mion-Oileáin Imeallacha S.A.M.",
+"code" : "UM"
+},
+{
+"name" : "Stáit Aontaithe Mheiriceá",
+"code" : "US"
+},
+{
+"name" : "Urugua",
+"code" : "UY"
+},
+{
+"name" : "Úisbéiceastáin",
+"code" : "UZ"
+},
+{
+"name" : "An Chathaoir Naofa (Stát Chathair na Vatacáine)",
+"code" : "VA"
+},
+{
+"name" : "Saint Vincent agus na Grenadines",
+"code" : "VC"
+},
+{
+"name" : "Veiniséala",
+"code" : "VE"
+},
+{
+"name" : "Oileáin Bhriotanacha na Maighdean",
+"code" : "VG"
+},
+{
+"name" : "Oileáin na Maighdean S.A.M.",
+"code" : "VI"
+},
+{
+"name" : "Vítneam",
+"code" : "VN"
+},
+{
+"name" : "Vanuatú",
+"code" : "VU"
+},
+{
+"name" : "Oileáin Vailís agus Futúna",
+"code" : "WF"
+},
+{
+"name" : "Samó",
+"code" : "WS"
+},
+{
+"name" : "Éimin",
+"code" : "YE"
+},
+{
+"name" : "Mayotte",
+"code" : "YT"
+},
+{
+"name" : "An Afraic Theas",
+"code" : "ZA"
+},
+{
+"name" : "An tSaimbia",
+"code" : "ZM"
+},
+{
+"name" : "An tSiombáib",
+"code" : "ZW"
+}
+]

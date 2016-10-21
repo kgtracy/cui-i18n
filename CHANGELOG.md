@@ -4,6 +4,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Changed
+* Dist directory has now added extra version number folder (`dist/<version-number>/...`) for cache-busting.
+
 
 ## [1.0.13] - 2016-09-08
 ### Added

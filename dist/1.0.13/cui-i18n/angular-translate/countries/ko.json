@@ -1,0 +1,1002 @@
+[
+{
+"name" : "안도라",
+"code" : "AD"
+},
+{
+"name" : "아랍에미리트",
+"code" : "AE"
+},
+{
+"name" : "아프가니스탄",
+"code" : "AF"
+},
+{
+"name" : "앤티가 바부다",
+"code" : "AG"
+},
+{
+"name" : "안길라",
+"code" : "AI"
+},
+{
+"name" : "알바니아",
+"code" : "AL"
+},
+{
+"name" : "아르메니아",
+"code" : "AM"
+},
+{
+"name" : "네덜란드령 안틸레스",
+"code" : "AN"
+},
+{
+"name" : "앙골라",
+"code" : "AO"
+},
+{
+"name" : "남극",
+"code" : "AQ"
+},
+{
+"name" : "아르헨티나",
+"code" : "AR"
+},
+{
+"name" : "미국령 사모아",
+"code" : "AS"
+},
+{
+"name" : "오스트리아",
+"code" : "AT"
+},
+{
+"name" : "오스트레일리아",
+"code" : "AU"
+},
+{
+"name" : "아루바",
+"code" : "AW"
+},
+{
+"name" : "올란드 제도",
+"code" : "AX"
+},
+{
+"name" : "아제르바이잔",
+"code" : "AZ"
+},
+{
+"name" : "보스니아 헤르체고비나",
+"code" : "BA"
+},
+{
+"name" : "바베이도스",
+"code" : "BB"
+},
+{
+"name" : "방글라데시",
+"code" : "BD"
+},
+{
+"name" : "벨기에",
+"code" : "BE"
+},
+{
+"name" : "부르키나파소",
+"code" : "BF"
+},
+{
+"name" : "불가리아",
+"code" : "BG"
+},
+{
+"name" : "바레인",
+"code" : "BH"
+},
+{
+"name" : "부룬디",
+"code" : "BI"
+},
+{
+"name" : "베넹",
+"code" : "BJ"
+},
+{
+"name" : "생 바르텔레미",
+"code" : "BL"
+},
+{
+"name" : "버뮤다",
+"code" : "BM"
+},
+{
+"name" : "브루나이",
+"code" : "BN"
+},
+{
+"name" : "볼리비아",
+"code" : "BO"
+},
+{
+"name" : "신트유스타티우스 보네르",
+"code" : "BQ"
+},
+{
+"name" : "브라질",
+"code" : "BR"
+},
+{
+"name" : "바하마",
+"code" : "BS"
+},
+{
+"name" : "부탄",
+"code" : "BT"
+},
+{
+"name" : "부베이 섬",
+"code" : "BV"
+},
+{
+"name" : "보츠와나",
+"code" : "BW"
+},
+{
+"name" : "벨라루스",
+"code" : "BY"
+},
+{
+"name" : "벨리즈",
+"code" : "BZ"
+},
+{
+"name" : "캐나다",
+"code" : "CA"
+},
+{
+"name" : "코코스 군도",
+"code" : "CC"
+},
+{
+"name" : "콩고 민주 공화국",
+"code" : "CD"
+},
+{
+"name" : "중앙 아프리카",
+"code" : "CF"
+},
+{
+"name" : "콩고",
+"code" : "CG"
+},
+{
+"name" : "스위스",
+"code" : "CH"
+},
+{
+"name" : "코트디부와르",
+"code" : "CI"
+},
+{
+"name" : "쿡 제도",
+"code" : "CK"
+},
+{
+"name" : "칠레",
+"code" : "CL"
+},
+{
+"name" : "카메룬",
+"code" : "CM"
+},
+{
+"name" : "중국",
+"code" : "CN"
+},
+{
+"name" : "콜롬비아",
+"code" : "CO"
+},
+{
+"name" : "코스타리카",
+"code" : "CR"
+},
+{
+"name" : "쿠바",
+"code" : "CU"
+},
+{
+"name" : "까뽀베르데",
+"code" : "CV"
+},
+{
+"name" : "퀴라소",
+"code" : "CW"
+},
+{
+"name" : "크리스마스 섬",
+"code" : "CX"
+},
+{
+"name" : "사이프러스",
+"code" : "CY"
+},
+{
+"name" : "체코",
+"code" : "CZ"
+},
+{
+"name" : "독일",
+"code" : "DE"
+},
+{
+"name" : "지부티",
+"code" : "DJ"
+},
+{
+"name" : "덴마크",
+"code" : "DK"
+},
+{
+"name" : "도미니카",
+"code" : "DM"
+},
+{
+"name" : "도미니카 공화국",
+"code" : "DO"
+},
+{
+"name" : "알제리",
+"code" : "DZ"
+},
+{
+"name" : "에쿠아도르",
+"code" : "EC"
+},
+{
+"name" : "에스토니아",
+"code" : "EE"
+},
+{
+"name" : "이집트",
+"code" : "EG"
+},
+{
+"name" : "서사하라",
+"code" : "EH"
+},
+{
+"name" : "에리트리아",
+"code" : "ER"
+},
+{
+"name" : "스페인",
+"code" : "ES"
+},
+{
+"name" : "이디오피아",
+"code" : "ET"
+},
+{
+"name" : "핀란드",
+"code" : "FI"
+},
+{
+"name" : "피지",
+"code" : "FJ"
+},
+{
+"name" : "포클랜드 제도",
+"code" : "FK"
+},
+{
+"name" : "마이크로네시아",
+"code" : "FM"
+},
+{
+"name" : "페로 제도",
+"code" : "FO"
+},
+{
+"name" : "프랑스",
+"code" : "FR"
+},
+{
+"name" : "가봉",
+"code" : "GA"
+},
+{
+"name" : "영국",
+"code" : "GB"
+},
+{
+"name" : "그레나다",
+"code" : "GD"
+},
+{
+"name" : "그루지야",
+"code" : "GE"
+},
+{
+"name" : "프랑스령 기아나",
+"code" : "GF"
+},
+{
+"name" : "건지",
+"code" : "GG"
+},
+{
+"name" : "가나",
+"code" : "GH"
+},
+{
+"name" : "지브롤터",
+"code" : "GI"
+},
+{
+"name" : "그린랜드",
+"code" : "GL"
+},
+{
+"name" : "감비아",
+"code" : "GM"
+},
+{
+"name" : "기니",
+"code" : "GN"
+},
+{
+"name" : "과달로프",
+"code" : "GP"
+},
+{
+"name" : "적도 기니",
+"code" : "GQ"
+},
+{
+"name" : "그리스",
+"code" : "GR"
+},
+{
+"name" : "사우스 조지아 및 사우스 샌드위치 제도",
+"code" : "GS"
+},
+{
+"name" : "과테말라",
+"code" : "GT"
+},
+{
+"name" : "괌",
+"code" : "GU"
+},
+{
+"name" : "기네비쏘",
+"code" : "GW"
+},
+{
+"name" : "가이아나",
+"code" : "GY"
+},
+{
+"name" : "홍콩",
+"code" : "HK"
+},
+{
+"name" : "허드 섬 및 맥도널드 제도",
+"code" : "HM"
+},
+{
+"name" : "온두라스",
+"code" : "HN"
+},
+{
+"name" : "크로아티아",
+"code" : "HR"
+},
+{
+"name" : "하이티",
+"code" : "HT"
+},
+{
+"name" : "헝가리",
+"code" : "HU"
+},
+{
+"name" : "인도네시아",
+"code" : "ID"
+},
+{
+"name" : "아일랜드",
+"code" : "IE"
+},
+{
+"name" : "이스라엘",
+"code" : "IL"
+},
+{
+"name" : "맨 섬",
+"code" : "IM"
+},
+{
+"name" : "인도",
+"code" : "IN"
+},
+{
+"name" : "영인도 제도",
+"code" : "IO"
+},
+{
+"name" : "이라크",
+"code" : "IQ"
+},
+{
+"name" : "이란",
+"code" : "IR"
+},
+{
+"name" : "아이슬란드",
+"code" : "IS"
+},
+{
+"name" : "이탈리아",
+"code" : "IT"
+},
+{
+"name" : "저지",
+"code" : "JE"
+},
+{
+"name" : "자메이카",
+"code" : "JM"
+},
+{
+"name" : "요르단",
+"code" : "JO"
+},
+{
+"name" : "일본",
+"code" : "JP"
+},
+{
+"name" : "케냐",
+"code" : "KE"
+},
+{
+"name" : "키르기스스탄",
+"code" : "KG"
+},
+{
+"name" : "캄보디아",
+"code" : "KH"
+},
+{
+"name" : "키리바시",
+"code" : "KI"
+},
+{
+"name" : "코모르",
+"code" : "KM"
+},
+{
+"name" : "세인트 크리스토퍼 니비스",
+"code" : "KN"
+},
+{
+"name" : "북한",
+"code" : "KP"
+},
+{
+"name" : "대한민국",
+"code" : "KR"
+},
+{
+"name" : "쿠웨이트",
+"code" : "KW"
+},
+{
+"name" : "케이맨 제도",
+"code" : "KY"
+},
+{
+"name" : "카자흐스탄",
+"code" : "KZ"
+},
+{
+"name" : "라오스",
+"code" : "LA"
+},
+{
+"name" : "레바논",
+"code" : "LB"
+},
+{
+"name" : "세인트 루시아",
+"code" : "LC"
+},
+{
+"name" : "리히텐슈타인",
+"code" : "LI"
+},
+{
+"name" : "스리랑카",
+"code" : "LK"
+},
+{
+"name" : "라이베리아",
+"code" : "LR"
+},
+{
+"name" : "레소토",
+"code" : "LS"
+},
+{
+"name" : "리투아니아",
+"code" : "LT"
+},
+{
+"name" : "룩셈부르크",
+"code" : "LU"
+},
+{
+"name" : "라트비아",
+"code" : "LV"
+},
+{
+"name" : "리비아",
+"code" : "LY"
+},
+{
+"name" : "모로코",
+"code" : "MA"
+},
+{
+"name" : "모나코",
+"code" : "MC"
+},
+{
+"name" : "몰도바",
+"code" : "MD"
+},
+{
+"name" : "몬테네그로",
+"code" : "ME"
+},
+{
+"name" : "생 마르탱",
+"code" : "MF"
+},
+{
+"name" : "마다가스카르",
+"code" : "MG"
+},
+{
+"name" : "마셜 제도",
+"code" : "MH"
+},
+{
+"name" : "마케도니아어",
+"code" : "MK"
+},
+{
+"name" : "말리",
+"code" : "ML"
+},
+{
+"name" : "미얀마",
+"code" : "MM"
+},
+{
+"name" : "몽골",
+"code" : "MN"
+},
+{
+"name" : "마카오",
+"code" : "MO"
+},
+{
+"name" : "북마리아나 제도",
+"code" : "MP"
+},
+{
+"name" : "말티니크",
+"code" : "MQ"
+},
+{
+"name" : "모리타니",
+"code" : "MR"
+},
+{
+"name" : "몬트세라트",
+"code" : "MS"
+},
+{
+"name" : "몰타",
+"code" : "MT"
+},
+{
+"name" : "모리셔스",
+"code" : "MU"
+},
+{
+"name" : "몰디브",
+"code" : "MV"
+},
+{
+"name" : "말라위",
+"code" : "MW"
+},
+{
+"name" : "멕시코",
+"code" : "MX"
+},
+{
+"name" : "말레이지아",
+"code" : "MY"
+},
+{
+"name" : "모잠비크",
+"code" : "MZ"
+},
+{
+"name" : "나미비아",
+"code" : "NA"
+},
+{
+"name" : "뉴 칼레도니아",
+"code" : "NC"
+},
+{
+"name" : "니제르",
+"code" : "NE"
+},
+{
+"name" : "노퍽 섬",
+"code" : "NF"
+},
+{
+"name" : "나이지리아",
+"code" : "NG"
+},
+{
+"name" : "니카라과",
+"code" : "NI"
+},
+{
+"name" : "네덜란드",
+"code" : "NL"
+},
+{
+"name" : "노르웨이",
+"code" : "NO"
+},
+{
+"name" : "네팔",
+"code" : "NP"
+},
+{
+"name" : "나우루",
+"code" : "NR"
+},
+{
+"name" : "니우에",
+"code" : "NU"
+},
+{
+"name" : "뉴질랜드",
+"code" : "NZ"
+},
+{
+"name" : "오만",
+"code" : "OM"
+},
+{
+"name" : "파나마",
+"code" : "PA"
+},
+{
+"name" : "페루",
+"code" : "PE"
+},
+{
+"name" : "프랑스령 폴리네시아",
+"code" : "PF"
+},
+{
+"name" : "파푸아뉴기니",
+"code" : "PG"
+},
+{
+"name" : "필리핀",
+"code" : "PH"
+},
+{
+"name" : "파키스탄",
+"code" : "PK"
+},
+{
+"name" : "폴란드",
+"code" : "PL"
+},
+{
+"name" : "세인트 피에르 미켈론",
+"code" : "PM"
+},
+{
+"name" : "핏케언 제도",
+"code" : "PN"
+},
+{
+"name" : "푸에르토리코",
+"code" : "PR"
+},
+{
+"name" : "팔레스타인",
+"code" : "PS"
+},
+{
+"name" : "포르투칼",
+"code" : "PT"
+},
+{
+"name" : "팔라우",
+"code" : "PW"
+},
+{
+"name" : "파라과이",
+"code" : "PY"
+},
+{
+"name" : "카타르",
+"code" : "QA"
+},
+{
+"name" : "리유니언",
+"code" : "RE"
+},
+{
+"name" : "루마니아",
+"code" : "RO"
+},
+{
+"name" : "세르비아",
+"code" : "RS"
+},
+{
+"name" : "러시아",
+"code" : "RU"
+},
+{
+"name" : "르완다",
+"code" : "RW"
+},
+{
+"name" : "사우디아라비아",
+"code" : "SA"
+},
+{
+"name" : "솔로몬 제도",
+"code" : "SB"
+},
+{
+"name" : "쉐이쉘",
+"code" : "SC"
+},
+{
+"name" : "수단",
+"code" : "SD"
+},
+{
+"name" : "스웨덴",
+"code" : "SE"
+},
+{
+"name" : "싱가포르",
+"code" : "SG"
+},
+{
+"name" : "세인트 헬레나",
+"code" : "SH"
+},
+{
+"name" : "슬로베니아",
+"code" : "SI"
+},
+{
+"name" : "스발바르 및 얀마웬",
+"code" : "SJ"
+},
+{
+"name" : "슬로바키아",
+"code" : "SK"
+},
+{
+"name" : "시에라리온",
+"code" : "SL"
+},
+{
+"name" : "산마리노",
+"code" : "SM"
+},
+{
+"name" : "세네갈",
+"code" : "SN"
+},
+{
+"name" : "소말리아",
+"code" : "SO"
+},
+{
+"name" : "수리남",
+"code" : "SR"
+},
+{
+"name" : "남수단",
+"code" : "SS"
+},
+{
+"name" : "상투메 프린시페",
+"code" : "ST"
+},
+{
+"name" : "엘살바도르",
+"code" : "SV"
+},
+{
+"name" : "신트마르텐(네덜란드령)",
+"code" : "SX"
+},
+{
+"name" : "시리아",
+"code" : "SY"
+},
+{
+"name" : "스와질랜드",
+"code" : "SZ"
+},
+{
+"name" : "터크스 케이커스 제도",
+"code" : "TC"
+},
+{
+"name" : "차드",
+"code" : "TD"
+},
+{
+"name" : "프랑스 남부 지방",
+"code" : "TF"
+},
+{
+"name" : "토고",
+"code" : "TG"
+},
+{
+"name" : "태국",
+"code" : "TH"
+},
+{
+"name" : "타지키스탄",
+"code" : "TJ"
+},
+{
+"name" : "토켈라우",
+"code" : "TK"
+},
+{
+"name" : "동티모르",
+"code" : "TL"
+},
+{
+"name" : "투르크메니스탄",
+"code" : "TM"
+},
+{
+"name" : "튀니지",
+"code" : "TN"
+},
+{
+"name" : "통가",
+"code" : "TO"
+},
+{
+"name" : "터키",
+"code" : "TR"
+},
+{
+"name" : "트리니다드 토바고",
+"code" : "TT"
+},
+{
+"name" : "투발루",
+"code" : "TV"
+},
+{
+"name" : "대만",
+"code" : "TW"
+},
+{
+"name" : "탄자니아",
+"code" : "TZ"
+},
+{
+"name" : "우크라이나",
+"code" : "UA"
+},
+{
+"name" : "우간다",
+"code" : "UG"
+},
+{
+"name" : "미국령 군도",
+"code" : "UM"
+},
+{
+"name" : "미국",
+"code" : "US"
+},
+{
+"name" : "우루과이",
+"code" : "UY"
+},
+{
+"name" : "우즈베키스탄",
+"code" : "UZ"
+},
+{
+"name" : "바티칸",
+"code" : "VA"
+},
+{
+"name" : "세인트 빈센트 그레나딘스",
+"code" : "VC"
+},
+{
+"name" : "베네수엘라",
+"code" : "VE"
+},
+{
+"name" : "영국령 버진 아일랜드",
+"code" : "VG"
+},
+{
+"name" : "미국령 버진 아일랜드",
+"code" : "VI"
+},
+{
+"name" : "베트남",
+"code" : "VN"
+},
+{
+"name" : "바누아투",
+"code" : "VU"
+},
+{
+"name" : "윌리스 푸투나",
+"code" : "WF"
+},
+{
+"name" : "사모아",
+"code" : "WS"
+},
+{
+"name" : "예멘",
+"code" : "YE"
+},
+{
+"name" : "마요티",
+"code" : "YT"
+},
+{
+"name" : "남아프리카",
+"code" : "ZA"
+},
+{
+"name" : "잠비아",
+"code" : "ZM"
+},
+{
+"name" : "짐바브웨",
+"code" : "ZW"
+}
+]
