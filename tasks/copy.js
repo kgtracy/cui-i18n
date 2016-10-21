@@ -15,7 +15,7 @@ module.exports = function(grunt, config) {
             dest: 'dist/' + config.version + '/cui-i18n/angular-translate/countries/'
         },
         localeFiles: {
-            src: 'bower_components/angular-i18n/*.js',
+            src: 'node_modules/angular-i18n/*.js',
             dest: 'build/'
         },
         dist: {
