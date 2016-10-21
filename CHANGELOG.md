@@ -1,23 +1,26 @@
-# Change Log for the CUI i18n Library 
-All notable changes to this project will be documented in this file.
-This project adheres to [Semantic Versioning](http://semver.org/).
+# Cui-i18n Changelog
 
-## [Unreleased]
+## [1.0.15] - 2016-10-21
 
 ### Changed
-* Dist directory has now added extra version number folder (`dist/<version-number>/...`) for cache-busting.
+* The dist directory now follows a slightly changes folder structure. This is a breaking change for projects using this dependency. 
+	* Before: `dist/cui-i18n/...`
+	* After: `dist/<i18n version number>/cui-i18n/...`
 
 
 ## [1.0.13] - 2016-09-08
+
 ### Added
 - addition of "unlock" button, confirmation message and error message when unlocking a user account
 - added automated Google Translate content for new rows that did not have any translations yet. (row 290 + at the time of the release.)
 
-### Modified
+### Changed
 - README updates for better parsing by upstream Gitbook
 - CHANGELOG updates
 
+
 ## [1.0.12] - 2016-08-22
+
 ### Added
 - latest official translations from actual people, not Google translate.
 - Changes link in the README to point to an empty sample translation template. The empty template is encuraged to be used instead of having a full set of translation keys in your own custom repository.
@@ -27,10 +30,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 ## [1.0.10] - 2016-08-06
-### Modified
+
+### Changed
 - Additional language keys updated by humans.
 
 
 ## [1.0.9] - 2016-06-28
+
 ### Added
 - Initial public release of the CUI i18n Library
