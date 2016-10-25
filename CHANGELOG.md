@@ -1,5 +1,16 @@
 # Cui-i18n Changelog
 
+## [1.0.16] - 2016-10-25
+
+### Changed
+* The dist directory contains the original structure, plus a versioned structure.
+* `grunt build` now requires that you supply it a version number.
+* Adds ascii script to `grunt build`.
+	* `grunt build --newVersion=<version>`
+* Generate scripts (generateTimezones.js, generateTranslations.js, generateMessaging.js) now require the `initDist.js`
+script to be run beforehand.
+* `initDist.js` now requires a version number to be passed as a parameter.
+
 ## [1.0.15] - 2016-10-21
 
 ### Changed
