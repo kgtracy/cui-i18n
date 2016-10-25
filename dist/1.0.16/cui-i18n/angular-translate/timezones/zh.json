@@ -1,0 +1,258 @@
+[
+    {
+        "id": "Pacific/Fiji",
+        "name": "(GMT+12:00) 斐济、堪察加半岛、马绍尔群岛"
+    },
+    {
+        "id": "Pacific/Auckland",
+        "name": "(GMT+12:00) 奥克兰、惠灵顿"
+    },
+    {
+        "id": "Pacific/Efate",
+        "name": "(GMT+11:00) 马加丹、所罗门群岛、新喀里多尼亚"
+    },
+    {
+        "id": "Asia/Vladivostok",
+        "name": "(GMT+10:00) 符拉迪沃斯托克"
+    },
+    {
+        "id": "Australia/Lord_Howe",
+        "name": "(GMT+10:00) 霍巴特"
+    },
+    {
+        "id": "Pacific/Guam",
+        "name": "(GMT+10:00) 关岛、莫尔兹比港"
+    },
+    {
+        "id": "Australia/Sydney",
+        "name": "(GMT+10:00) 堪培拉、墨尔本、悉尼"
+    },
+    {
+        "id": "Australia/Brisbane",
+        "name": "(GMT+10:00) 布里斯班"
+    },
+    {
+        "id": "Australia/Adelaide",
+        "name": "(GMT+09:30) 阿德莱德"
+    },
+    {
+        "id": "Asia/Yakutsk",
+        "name": "(GMT+09:00) 雅库茨克"
+    },
+    {
+        "id": "Asia/Seoul",
+        "name": "(GMT+09:00) 首尔"
+    },
+    {
+        "id": "Asia/Tokyo",
+        "name": "(GMT+09:00) 大阪、札幌、东京"
+    },
+    {
+        "id": "ACT",
+        "name": "(GMT+09:00) 澳洲"
+    },
+    {
+        "id": "Asia/Taipei",
+        "name": "(GMT+08:00) 台北"
+    },
+    {
+        "id": "Asia/Singapore",
+        "name": "(GMT+08:00) 新加坡"
+    },
+    {
+        "id": "Australia/Perth",
+        "name": "(GMT+08:00) 珀斯"
+    },
+    {
+        "id": "Asia/Hong_Kong",
+        "name": "(GMT+08:00) 北京、重庆、香港、乌鲁木齐"
+    },
+    {
+        "id": "Asia/Bangkok",
+        "name": "(GMT+07:00) 曼谷、河内、雅加达"
+    },
+    {
+        "id": "Asia/Colombo",
+        "name": "(GMT+06:00) 科伦坡"
+    },
+    {
+        "id": "Asia/Alma-Ata",
+        "name": "(GMT+06:00) 阿拉木图、达卡"
+    },
+    {
+        "id": "Asia/Calcutta",
+        "name": "(GMT+05:30) 孟买、加尔各答、马德拉斯、新德里"
+    },
+    {
+        "id": "Asia/Karachi",
+        "name": "(GMT+05:00) 伊斯兰堡、卡拉奇、塔什干"
+    },
+    {
+        "id": "Asia/Yekaterinburg",
+        "name": "(GMT+05:00) 叶卡特琳堡"
+    },
+    {
+        "id": "Asia/Kabul",
+        "name": "(GMT+04:30) 喀布尔"
+    },
+    {
+        "id": "Asia/Baku",
+        "name": "(GMT+04:00) 巴库、第比利斯"
+    },
+    {
+        "id": "Asia/Muscat",
+        "name": "(GMT+04:00) 阿布扎比、马斯喀特"
+    },
+    {
+        "id": "Asia/Tehran",
+        "name": "(GMT+03:30) 德黑兰"
+    },
+    {
+        "id": "Africa/Nairobi",
+        "name": "(GMT+03:00) 内罗毕"
+    },
+    {
+        "id": "Europe/Moscow",
+        "name": "(GMT+03:00) 莫斯科、圣彼得堡、伏尔加格勒"
+    },
+    {
+        "id": "Asia/Baghdad",
+        "name": "(GMT+03:00) 巴格达、科威特、利雅得"
+    },
+    {
+        "id": "Asia/Jerusalem",
+        "name": "(GMT+02:00) 耶路撒冷"
+    },
+    {
+        "id": "Europe/Helsinki",
+        "name": "(GMT+02:00) 赫尔辛基、里加、塔林"
+    },
+    {
+        "id": "Africa/Harare",
+        "name": "(GMT+02:00) 哈拉雷、比勒陀利亚"
+    },
+    {
+        "id": "Africa/Cairo",
+        "name": "(GMT+02:00) 开罗"
+    },
+    {
+        "id": "Europe/Bucharest",
+        "name": "(GMT+02:00) 布加勒斯特"
+    },
+    {
+        "id": "Europe/Athens",
+        "name": "(GMT+02:00) 雅典、伊斯坦布尔、明斯克"
+    },
+    {
+        "id": "Europe/Sofia",
+        "name": "(GMT+01:00) 萨拉热窝、斯科普里、索非亚、华沙、萨格勒布"
+    },
+    {
+        "id": "Europe/Brussels",
+        "name": "(GMT+01:00) 布鲁塞尔、柏林，伯尔尼、罗马、斯德哥尔摩、维也纳"
+    },
+    {
+        "id": "Europe/Belgrade",
+        "name": "(GMT+01:00) 贝尔格莱德、萨拉热窝、斯科普里、萨格勒布"
+    },
+    {
+        "id": "Europe/Amsterdam",
+        "name": "(GMT+01:00) 阿姆斯特丹、哥本哈根、马德里、巴黎、维尔纽斯"
+    },
+    {
+        "id": "Africa/Casablanca",
+        "name": "(GMT-00:00) 卡萨布兰卡、蒙罗维亚"
+    },
+    {
+        "id": "GMT",
+        "name": "(GMT-00:00) 格林威治标准时间：都柏林、爱丁堡、里斯本"
+    },
+    {
+        "id": "Atlantic/Azores",
+        "name": "(GMT-01:00) 亚速尔群岛、佛得角岛"
+    },
+    {
+        "id": "Atlantic/South_Georgia",
+        "name": "(GMT-02:00) 中大西洋"
+    },
+    {
+        "id": "BET",
+        "name": "(GMT-03:00) 巴西利亚"
+    },
+    {
+        "id": "America/Buenos_Aires",
+        "name": "(GMT-03:00) 布宜诺斯艾利斯、乔治敦"
+    },
+    {
+        "id": "CNT",
+        "name": "(GMT-03:00) CNT"
+    },
+    {
+        "id": "America/St_Johns",
+        "name": "(GMT-03:30) 纽芬兰"
+    },
+    {
+        "id": "America/Halifax",
+        "name": "(GMT-04:00) 大西洋时间（加拿大）"
+    },
+    {
+        "id": "America/Caracas",
+        "name": "(GMT-04:00) 加拉加斯、拉巴斯"
+    },
+    {
+        "id": "America/Santiago",
+        "name": "(GMT-04:00) 圣地亚哥"
+    },
+    {
+        "id": "America/Bogota",
+        "name": "(GMT-05:00) 波哥大、利马、基多"
+    },
+    {
+        "id": "EST5EDT",
+        "name": "(GMT-05:00) 东部时间（美国和加拿大）"
+    },
+    {
+        "id": "IET",
+        "name": "(GMT-05:00) 印第安纳州（东）"
+    },
+    {
+        "id": "CST6CDT",
+        "name": "(GMT-06:00) 中部时间（美国和加拿大）"
+    },
+    {
+        "id": "America/Mexico_City",
+        "name": "(GMT-06:00) 墨西哥城、特古西加尔巴"
+    },
+    {
+        "id": "America/Winnipeg",
+        "name": "(GMT-06:00) 萨斯喀彻温"
+    },
+    {
+        "id": "America/Phoenix",
+        "name": "(GMT-07:00) 亚利桑那"
+    },
+    {
+        "id": "MST7MDT",
+        "name": "(GMT-07:00) 山地时间（美国和加拿大）"
+    },
+    {
+        "id": "America/Tijuana",
+        "name": "(GMT-08:00) 太平洋时间（美国和加拿大）、提华纳"
+    },
+    {
+        "id": "America/Anchorage",
+        "name": "(GMT-09:00) 阿拉斯加"
+    },
+    {
+        "id": "Pacific/Honolulu",
+        "name": "(GMT-10:00) 夏威夷"
+    },
+    {
+        "id": "Pacific/Apia",
+        "name": "(GMT-11:00) 萨摩亚中途岛"
+    },
+    {
+        "id": "Pacific/Enderbury",
+        "name": "(GMT-12:00) 埃尼威托克岛、夸贾林环礁"
+    }
+]

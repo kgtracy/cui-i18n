@@ -1,0 +1,258 @@
+[
+    {
+        "id": "Pacific/Fiji",
+        "name": "(GMT+12:00) Фиджи, Камчатка, Маршалловы острова"
+    },
+    {
+        "id": "Pacific/Auckland",
+        "name": "(GMT+12:00) Окленд, Веллингтон"
+    },
+    {
+        "id": "Pacific/Efate",
+        "name": "(GMT+11:00) Магадан, Соломоновы острова, Новая Каледония"
+    },
+    {
+        "id": "Asia/Vladivostok",
+        "name": "(GMT+10:00) Владивосток"
+    },
+    {
+        "id": "Australia/Lord_Howe",
+        "name": "(GMT+10:00) Хобарт"
+    },
+    {
+        "id": "Pacific/Guam",
+        "name": "(GMT+10:00) Гуам, Порт-Морсби"
+    },
+    {
+        "id": "Australia/Sydney",
+        "name": "(GMT+10:00) Канберра, Мельбурн, Сидней"
+    },
+    {
+        "id": "Australia/Brisbane",
+        "name": "(GMT+10:00) Брисбен"
+    },
+    {
+        "id": "Australia/Adelaide",
+        "name": "(GMT+09:30) Аделаида"
+    },
+    {
+        "id": "Asia/Yakutsk",
+        "name": "(GMT+09:00) Якутск"
+    },
+    {
+        "id": "Asia/Seoul",
+        "name": "(GMT+09:00) Сеул"
+    },
+    {
+        "id": "Asia/Tokyo",
+        "name": "(GMT+09:00) Осака, Саппоро, Токио"
+    },
+    {
+        "id": "ACT",
+        "name": "(GMT+09:00) Австралия (Аделаида)"
+    },
+    {
+        "id": "Asia/Taipei",
+        "name": "(GMT+08:00) Тайбэй"
+    },
+    {
+        "id": "Asia/Singapore",
+        "name": "(GMT+08:00) Сингапур"
+    },
+    {
+        "id": "Australia/Perth",
+        "name": "(GMT+08:00) Перт"
+    },
+    {
+        "id": "Asia/Hong_Kong",
+        "name": "(GMT+08:00) Пекин, Чунцин, Гонконг, Урумчи"
+    },
+    {
+        "id": "Asia/Bangkok",
+        "name": "(GMT+07:00) Бангкок, Ханой, Джакарта"
+    },
+    {
+        "id": "Asia/Colombo",
+        "name": "(GMT+06:00) Коломбо"
+    },
+    {
+        "id": "Asia/Alma-Ata",
+        "name": "(GMT+06:00) Алматы, Дакка"
+    },
+    {
+        "id": "Asia/Calcutta",
+        "name": "(GMT+05:30) Бомбей, Калькутта, Мадрас, Нью-Дели"
+    },
+    {
+        "id": "Asia/Karachi",
+        "name": "(GMT+05:00) Исламабад, Карачи, Ташкент"
+    },
+    {
+        "id": "Asia/Yekaterinburg",
+        "name": "(GMT+05:00) Екатеринбург"
+    },
+    {
+        "id": "Asia/Kabul",
+        "name": "(GMT+04:30) Кабул"
+    },
+    {
+        "id": "Asia/Baku",
+        "name": "(GMT+04:00) Баку, Тбилиси"
+    },
+    {
+        "id": "Asia/Muscat",
+        "name": "(GMT+04:00) Абу-Даби, Маскат"
+    },
+    {
+        "id": "Asia/Tehran",
+        "name": "(GMT+03:30) Тегеран"
+    },
+    {
+        "id": "Africa/Nairobi",
+        "name": "(GMT+03:00) Найроби"
+    },
+    {
+        "id": "Europe/Moscow",
+        "name": "(GMT+03:00) Москва, Санкт-Петербург, Волгоград"
+    },
+    {
+        "id": "Asia/Baghdad",
+        "name": "(GMT+03:00) Багдад, Кувейт, Эр-Рияд"
+    },
+    {
+        "id": "Asia/Jerusalem",
+        "name": "(GMT+02:00) Иерусалим"
+    },
+    {
+        "id": "Europe/Helsinki",
+        "name": "(GMT+02:00) Хельсинки, Рига, Таллинн"
+    },
+    {
+        "id": "Africa/Harare",
+        "name": "(GMT+02:00) Хараре, Претория"
+    },
+    {
+        "id": "Africa/Cairo",
+        "name": "(GMT+02:00) Каир"
+    },
+    {
+        "id": "Europe/Bucharest",
+        "name": "(GMT+02:00) Бухарест"
+    },
+    {
+        "id": "Europe/Athens",
+        "name": "(GMT+02:00) Афины, Стамбул, Минск"
+    },
+    {
+        "id": "Europe/Sofia",
+        "name": "(GMT+01:00) Сараево, Скопье, София, Варшава, Загреб"
+    },
+    {
+        "id": "Europe/Brussels",
+        "name": "(GMT+01:00) Брюссель, Берлин, Берн, Рим, Стокгольм, Вена"
+    },
+    {
+        "id": "Europe/Belgrade",
+        "name": "(GMT+01:00) Белград, Сараево, Скопье, Загреб"
+    },
+    {
+        "id": "Europe/Amsterdam",
+        "name": "(GMT+01:00) Амстердам, Копенгаген, Мадрид, Париж, Вильнюс"
+    },
+    {
+        "id": "Africa/Casablanca",
+        "name": "(GMT-00:00) Касабланка, Монровия"
+    },
+    {
+        "id": "GMT",
+        "name": "(GMT-00:00) Время по Гринвичу: Дублин, Эдинбург, Лиссабон"
+    },
+    {
+        "id": "Atlantic/Azores",
+        "name": "(GMT-01:00) Азорские острова, острова Зелёного Мыса"
+    },
+    {
+        "id": "Atlantic/South_Georgia",
+        "name": "(GMT-02:00) Среднеатлантическое время"
+    },
+    {
+        "id": "BET",
+        "name": "(GMT-03:00) Бразилиа"
+    },
+    {
+        "id": "America/Buenos_Aires",
+        "name": "(GMT-03:00) Буэнос-Айрес, Джорджтаун"
+    },
+    {
+        "id": "CNT",
+        "name": "(GMT-03:00) Канада / Ньюфаундленд"
+    },
+    {
+        "id": "America/St_Johns",
+        "name": "(GMT-03:30) Ньюфаундленд"
+    },
+    {
+        "id": "America/Halifax",
+        "name": "(GMT-04:00) Атлантическое время, Канада"
+    },
+    {
+        "id": "America/Caracas",
+        "name": "(GMT-04:00) Каракас, Ла-Пас"
+    },
+    {
+        "id": "America/Santiago",
+        "name": "(GMT-04:00) Сантьяго"
+    },
+    {
+        "id": "America/Bogota",
+        "name": "(GMT-05:00) Богота, Лима, Кито"
+    },
+    {
+        "id": "EST5EDT",
+        "name": "(GMT-05:00) Восточное время (США и Канада)"
+    },
+    {
+        "id": "IET",
+        "name": "(GMT-05:00) Индиана (Восток)"
+    },
+    {
+        "id": "CST6CDT",
+        "name": "(GMT-06:00) Центральное время (США и Канада)"
+    },
+    {
+        "id": "America/Mexico_City",
+        "name": "(GMT-06:00) Мехико, Тегусигальпа"
+    },
+    {
+        "id": "America/Winnipeg",
+        "name": "(GMT-06:00) Саскачеван"
+    },
+    {
+        "id": "America/Phoenix",
+        "name": "(GMT-07:00) Аризона"
+    },
+    {
+        "id": "MST7MDT",
+        "name": "(GMT-07:00) Зона зимнего времени (США и Канада)"
+    },
+    {
+        "id": "America/Tijuana",
+        "name": "(GMT-08:00) Тихоокеанское время (США и Канада); Тихуана"
+    },
+    {
+        "id": "America/Anchorage",
+        "name": "(GMT-09:00) Аляска"
+    },
+    {
+        "id": "Pacific/Honolulu",
+        "name": "(GMT-10:00) Гавайи"
+    },
+    {
+        "id": "Pacific/Apia",
+        "name": "(GMT-11:00) Острова Мидуэй, Самоа"
+    },
+    {
+        "id": "Pacific/Enderbury",
+        "name": "(GMT-12:00) Эниветок, Кваджалейн"
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "id": "Pacific/Fiji",
+        "name": "(GMT+12:00)フィジー、カムチャッカ、マーシャル諸島"
+    },
+    {
+        "id": "Pacific/Auckland",
+        "name": "(GMT+12:00)オークランド、ウェリントン"
+    },
+    {
+        "id": "Pacific/Efate",
+        "name": "(GMT+11:00)マガダン、ソロモン諸島、ニューカレドニア"
+    },
+    {
+        "id": "Asia/Vladivostok",
+        "name": "(GMT+10:00)ウラジオストック"
+    },
+    {
+        "id": "Australia/Lord_Howe",
+        "name": "(GMT+10:00) ホバート"
+    },
+    {
+        "id": "Pacific/Guam",
+        "name": "(GMT+10:00)グアム、ポートモレスビー"
+    },
+    {
+        "id": "Australia/Sydney",
+        "name": "(GMT+10:00) キャンベラ、メルボルン、シドニー"
+    },
+    {
+        "id": "Australia/Brisbane",
+        "name": "(GMT+10:00)ブリスベーン"
+    },
+    {
+        "id": "Australia/Adelaide",
+        "name": "(GMT+09:30)アデレード"
+    },
+    {
+        "id": "Asia/Yakutsk",
+        "name": "(GMT+09:00)ヤクーツク"
+    },
+    {
+        "id": "Asia/Seoul",
+        "name": "(GMT+09:00)ソウル"
+    },
+    {
+        "id": "Asia/Tokyo",
+        "name": "(GMT+09:00) 大阪、札幌、東京"
+    },
+    {
+        "id": "ACT",
+        "name": "(GMT+09:00) ACT"
+    },
+    {
+        "id": "Asia/Taipei",
+        "name": "(GMT+08:00) 台北"
+    },
+    {
+        "id": "Asia/Singapore",
+        "name": "(GMT+08:00) シンガポール"
+    },
+    {
+        "id": "Australia/Perth",
+        "name": "(GMT+08:00) パース"
+    },
+    {
+        "id": "Asia/Hong_Kong",
+        "name": "(GMT+08:00) 北京、重慶、香港、ウルムチ"
+    },
+    {
+        "id": "Asia/Bangkok",
+        "name": "(GMT+07:00) バンコク、ハノイ、ジャカルタ"
+    },
+    {
+        "id": "Asia/Colombo",
+        "name": "(GMT+06:00)コロンボ"
+    },
+    {
+        "id": "Asia/Alma-Ata",
+        "name": "(GMT+06:00)アルマトイ、ダッカ"
+    },
+    {
+        "id": "Asia/Calcutta",
+        "name": "(GMT+05:３0) ボンベイ、カルカッタ、マドラス、ニューデリー"
+    },
+    {
+        "id": "Asia/Karachi",
+        "name": "(GMT+05:00)イスラマバード、カラチ、タシュケント"
+    },
+    {
+        "id": "Asia/Yekaterinburg",
+        "name": "(GMT+05:00)エカテリンブルグ"
+    },
+    {
+        "id": "Asia/Kabul",
+        "name": "(GMT+04:30) カブール"
+    },
+    {
+        "id": "Asia/Baku",
+        "name": "(GMT+04:00) バクー、トビリシ"
+    },
+    {
+        "id": "Asia/Muscat",
+        "name": "(GMT+04:00) アブダビ、マスカット"
+    },
+    {
+        "id": "Asia/Tehran",
+        "name": "(GMT+03:30) テヘラン"
+    },
+    {
+        "id": "Africa/Nairobi",
+        "name": "(GMT+03:00) ナイロビ"
+    },
+    {
+        "id": "Europe/Moscow",
+        "name": "(GMT+03:00) モスクワ、サンクトぺテルブルグ、ヴォルゴグラード"
+    },
+    {
+        "id": "Asia/Baghdad",
+        "name": "(GMT+0３:00) バグダッド、クウェ―ト、リヤド"
+    },
+    {
+        "id": "Asia/Jerusalem",
+        "name": "(GMT+02:00) エルサレム"
+    },
+    {
+        "id": "Europe/Helsinki",
+        "name": "(GMT+02:00) ヘルシンキ、リガ、タリン"
+    },
+    {
+        "id": "Africa/Harare",
+        "name": "(GMT+02:00) ハラレ、プレトリア"
+    },
+    {
+        "id": "Africa/Cairo",
+        "name": "(GMT+02:00) カイロ"
+    },
+    {
+        "id": "Europe/Bucharest",
+        "name": "(GMT+02:00) ブカレスト"
+    },
+    {
+        "id": "Europe/Athens",
+        "name": "(GMT+02:00) アテネ、イスタンブール、ミンスク"
+    },
+    {
+        "id": "Europe/Sofia",
+        "name": "(GMT+01:00) サラエボ、スコピエ、ソフィア、ワルシャワ、ザグレブ"
+    },
+    {
+        "id": "Europe/Brussels",
+        "name": "(GMT+01:00) ブリュッセル、ベルリン、ベルン、ローマ、ストックホルム、ウィ―ン"
+    },
+    {
+        "id": "Europe/Belgrade",
+        "name": "(GMT+01:00) ベオグラード、サラエボ、スコピエ、ザグレブ"
+    },
+    {
+        "id": "Europe/Amsterdam",
+        "name": "(GMT+01:00) アムステルダム、コペンハーゲン、マドリッド、パリ、ビリニュス"
+    },
+    {
+        "id": "Africa/Casablanca",
+        "name": "(GMT-00:00) カサブランカ、モンロビア"
+    },
+    {
+        "id": "GMT",
+        "name": "(GMT-00:00) グリニッジ標準時、ダブリン、エディンバラ、リスボン"
+    },
+    {
+        "id": "Atlantic/Azores",
+        "name": "(GMT-01:00) アゾレス、カ―ボ・ヴェルデ諸島"
+    },
+    {
+        "id": "Atlantic/South_Georgia",
+        "name": "(GMT-02:00) 中部大西洋"
+    },
+    {
+        "id": "BET",
+        "name": "(GMT-03:00)ブラジリア"
+    },
+    {
+        "id": "America/Buenos_Aires",
+        "name": "(GMT-03:00)ブエノスアイレス、ジョージタウン"
+    },
+    {
+        "id": "CNT",
+        "name": "(GMT-03:00) CNT"
+    },
+    {
+        "id": "America/St_Johns",
+        "name": "(GMT-03:30) ニューファウンドランド"
+    },
+    {
+        "id": "America/Halifax",
+        "name": "(GMT-04:00) カナダ大西洋標準時"
+    },
+    {
+        "id": "America/Caracas",
+        "name": "(GMT-04:00) カラカス、ラパス"
+    },
+    {
+        "id": "America/Santiago",
+        "name": "(GMT-04:00)サンチャゴ"
+    },
+    {
+        "id": "America/Bogota",
+        "name": "(GMT-05:00) ボゴタ、リマ、キト"
+    },
+    {
+        "id": "EST5EDT",
+        "name": "(GMT-05:00) 東部標準時（米国、カナダ）"
+    },
+    {
+        "id": "IET",
+        "name": "(GMT-05:00)インディアナ（東部）"
+    },
+    {
+        "id": "CST6CDT",
+        "name": "(GMT-06:00) 中部標準時（米国、カナダ）"
+    },
+    {
+        "id": "America/Mexico_City",
+        "name": "(GMT-06:00) メキシコシティ、テグシガルパ"
+    },
+    {
+        "id": "America/Winnipeg",
+        "name": "(GMT-06:00)サスカチュワン"
+    },
+    {
+        "id": "America/Phoenix",
+        "name": "(GMT-07:00) アリゾナ"
+    },
+    {
+        "id": "MST7MDT",
+        "name": "(GMT-07:00) 山岳部（米国、カナダ）"
+    },
+    {
+        "id": "America/Tijuana",
+        "name": "(GMT-08:00) 太平洋標準時（米国、カナダ）、ティファナ"
+    },
+    {
+        "id": "America/Anchorage",
+        "name": "(GMT-09:00) アラスカ"
+    },
+    {
+        "id": "Pacific/Honolulu",
+        "name": "(GMT-10:00) ハワイ"
+    },
+    {
+        "id": "Pacific/Apia",
+        "name": "(GMT-11:00) ミッドウェイ諸島サモア"
+    },
+    {
+        "id": "Pacific/Enderbury",
+        "name": "(GMT-12:00)エ二ウェトク、クェゼリン"
+    }
+]

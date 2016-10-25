@@ -1,0 +1,258 @@
+[
+    {
+        "id": "Pacific/Fiji",
+        "name": "(GMT+12:00) Fidschi, Kamtschatka, Marshallinseln"
+    },
+    {
+        "id": "Pacific/Auckland",
+        "name": "(GMT+12:00) Auckland, Wellington"
+    },
+    {
+        "id": "Pacific/Efate",
+        "name": "(GMT+11:00) Magadan, Solomon Inseln, Neukaledonien"
+    },
+    {
+        "id": "Asia/Vladivostok",
+        "name": "(GMT+10:00) Wladiwostok"
+    },
+    {
+        "id": "Australia/Lord_Howe",
+        "name": "(GMT+10:00) Hobart"
+    },
+    {
+        "id": "Pacific/Guam",
+        "name": "(GMT+10:00) Guam, Port Moresby"
+    },
+    {
+        "id": "Australia/Sydney",
+        "name": "(GMT+10:00) Canberra, Melbourne, Sydney"
+    },
+    {
+        "id": "Australia/Brisbane",
+        "name": "(GMT+10:00) Brisbane"
+    },
+    {
+        "id": "Australia/Adelaide",
+        "name": "(GMT+09:30) Adelaide"
+    },
+    {
+        "id": "Asia/Yakutsk",
+        "name": "(GMT+09:00) Yakutsk"
+    },
+    {
+        "id": "Asia/Seoul",
+        "name": "(GMT+09:00) Seoul"
+    },
+    {
+        "id": "Asia/Tokyo",
+        "name": "(GMT+09:00) Osaka, Sapporo, Tokyo"
+    },
+    {
+        "id": "ACT",
+        "name": "(GMT+09:00) ACT"
+    },
+    {
+        "id": "Asia/Taipei",
+        "name": "(GMT+08:00) Taipeh"
+    },
+    {
+        "id": "Asia/Singapore",
+        "name": "(GMT+08:00) Singapur"
+    },
+    {
+        "id": "Australia/Perth",
+        "name": "(GMT+08:00) Perth"
+    },
+    {
+        "id": "Asia/Hong_Kong",
+        "name": "(GMT+08:00) Peking, Chongqing, Hong Kong, Urumqi"
+    },
+    {
+        "id": "Asia/Bangkok",
+        "name": "(GMT+07:00) Bangkok, Hanoi, Jakarta"
+    },
+    {
+        "id": "Asia/Colombo",
+        "name": "(GMT+06:00) Colombo"
+    },
+    {
+        "id": "Asia/Alma-Ata",
+        "name": "(GMT+06:00) Almaty, Dhaka"
+    },
+    {
+        "id": "Asia/Calcutta",
+        "name": "(GMT+05:30) Bombay, Kalkutta, Madras, Neu Delhi"
+    },
+    {
+        "id": "Asia/Karachi",
+        "name": "(GMT+05:00) Islamabad, Karachi, Tashkent"
+    },
+    {
+        "id": "Asia/Yekaterinburg",
+        "name": "(GMT+05:00) Ekaterinburg"
+    },
+    {
+        "id": "Asia/Kabul",
+        "name": "(GMT+04:30) Kabul"
+    },
+    {
+        "id": "Asia/Baku",
+        "name": "(GMT+04:00) Baku, Tbilsi"
+    },
+    {
+        "id": "Asia/Muscat",
+        "name": "(GMT+04:00) Abu Dhabi, Muscat"
+    },
+    {
+        "id": "Asia/Tehran",
+        "name": "(GMT+03:30) Teheran"
+    },
+    {
+        "id": "Africa/Nairobi",
+        "name": "(GMT+03:00) Nairobi"
+    },
+    {
+        "id": "Europe/Moscow",
+        "name": "(GMT+03:00) Moskau, St. Petersburg, Wolgograd"
+    },
+    {
+        "id": "Asia/Baghdad",
+        "name": "(GMT+03:00) Baghdad, Kuwait, Riyadh"
+    },
+    {
+        "id": "Asia/Jerusalem",
+        "name": "(GMT+02:00) Jerusalem"
+    },
+    {
+        "id": "Europe/Helsinki",
+        "name": "(GMT+02:00) Helsinki, Riga, Tallinn"
+    },
+    {
+        "id": "Africa/Harare",
+        "name": "(GMT+02:00) Harare, Pretoria"
+    },
+    {
+        "id": "Africa/Cairo",
+        "name": "(GMT+02:00) Kairo"
+    },
+    {
+        "id": "Europe/Bucharest",
+        "name": "(GMT+02:00) Bukarest"
+    },
+    {
+        "id": "Europe/Athens",
+        "name": "(GMT+02:00) Athen, Istanbul, Minsk"
+    },
+    {
+        "id": "Europe/Sofia",
+        "name": "(GMT+01:00) Sarajevo, Skopje, Sofia, Warschau, Zagreb"
+    },
+    {
+        "id": "Europe/Brussels",
+        "name": "(GMT+01:00) Brüssel, Berlin, Bern, Rom, Stockholm, Wien"
+    },
+    {
+        "id": "Europe/Belgrade",
+        "name": "(GMT+01:00) Belgrad, Sarajevo, Skopje, Zagreb"
+    },
+    {
+        "id": "Europe/Amsterdam",
+        "name": "(GMT+01:00) Amsterdam, Kopenhagen, Madrid, Paris, Vilnius"
+    },
+    {
+        "id": "Africa/Casablanca",
+        "name": "(GMT-00:00) Casablanca, Monrovia"
+    },
+    {
+        "id": "GMT",
+        "name": "(GMT-00:00) Greenwich Mean Time; Dublin, Edinburgh, Lissabon"
+    },
+    {
+        "id": "Atlantic/Azores",
+        "name": "(GMT-01:00) Azoren, Kap Verde Inseln"
+    },
+    {
+        "id": "Atlantic/South_Georgia",
+        "name": "(GMT-02:00) Mid-Atlantic"
+    },
+    {
+        "id": "BET",
+        "name": "(GMT-03:00) Brasilien"
+    },
+    {
+        "id": "America/Buenos_Aires",
+        "name": "(GMT-03:00) Buenos Aires, Georgetown"
+    },
+    {
+        "id": "CNT",
+        "name": "(GMT-03:00) CNT"
+    },
+    {
+        "id": "America/St_Johns",
+        "name": "(GMT-03:30) Neufundland"
+    },
+    {
+        "id": "America/Halifax",
+        "name": "(GMT-04:00) Atlantic Time Kanada"
+    },
+    {
+        "id": "America/Caracas",
+        "name": "(GMT-04:00) Caracas, La Paz"
+    },
+    {
+        "id": "America/Santiago",
+        "name": "(GMT-04:00) Santiago"
+    },
+    {
+        "id": "America/Bogota",
+        "name": "(GMT-05:00) Bogota, Lima, Quito"
+    },
+    {
+        "id": "EST5EDT",
+        "name": "(GMT-05:00) Eastern Time (US & Kanada)"
+    },
+    {
+        "id": "IET",
+        "name": "(GMT-05:00) Indiana (Ost)"
+    },
+    {
+        "id": "CST6CDT",
+        "name": "(GMT-06:00) Central Time (US & Kanada)"
+    },
+    {
+        "id": "America/Mexico_City",
+        "name": "(GMT-06:00) Mexiko Stadt, Tegucigalpa"
+    },
+    {
+        "id": "America/Winnipeg",
+        "name": "(GMT-06:00) Saskatchewan"
+    },
+    {
+        "id": "America/Phoenix",
+        "name": "(GMT-07:00) Arizona"
+    },
+    {
+        "id": "MST7MDT",
+        "name": "(GMT-07:00) Mountain Time (US & Kanada)"
+    },
+    {
+        "id": "America/Tijuana",
+        "name": "(GMT-08:00) Pazifische Zeitzone (US & Kanada); Tijuana"
+    },
+    {
+        "id": "America/Anchorage",
+        "name": "(GMT-09:00) Alaska"
+    },
+    {
+        "id": "Pacific/Honolulu",
+        "name": "(GMT-10:00) Hawaii"
+    },
+    {
+        "id": "Pacific/Apia",
+        "name": "(GMT-11:00) Amerikanisch-Samoa"
+    },
+    {
+        "id": "Pacific/Enderbury",
+        "name": "(GMT-12:00) Eniwetok, Kwajalein"
+    }
+]

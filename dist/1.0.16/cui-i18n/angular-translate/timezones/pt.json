@@ -1,0 +1,258 @@
+[
+    {
+        "id": "Pacific/Fiji",
+        "name": "(TMG+12:00) Fiji, Kamchatka, Ilhas Marshall"
+    },
+    {
+        "id": "Pacific/Auckland",
+        "name": "(TMG+12:00) Auckland, Wellington"
+    },
+    {
+        "id": "Pacific/Efate",
+        "name": "(TMG+11:00) Magadan, Ilhas Salomão, Nova Caledônia"
+    },
+    {
+        "id": "Asia/Vladivostok",
+        "name": "(TMG+10:00) Vladivostoque"
+    },
+    {
+        "id": "Australia/Lord_Howe",
+        "name": "(TMG+10:00) Hobart"
+    },
+    {
+        "id": "Pacific/Guam",
+        "name": "(TMG+10:00) Guam, Port Moresby"
+    },
+    {
+        "id": "Australia/Sydney",
+        "name": "(TMG+10:00) Camberra, Melbourne, Sídnei"
+    },
+    {
+        "id": "Australia/Brisbane",
+        "name": "(TMG+10:00) Brisbane"
+    },
+    {
+        "id": "Australia/Adelaide",
+        "name": "(TMG+09:30) Adelaide"
+    },
+    {
+        "id": "Asia/Yakutsk",
+        "name": "(TMG+09:00) Yakutsk"
+    },
+    {
+        "id": "Asia/Seoul",
+        "name": "(TMG+09:00) Seul"
+    },
+    {
+        "id": "Asia/Tokyo",
+        "name": "(TMG+09:00) Osaca, Saporo, Tóquio"
+    },
+    {
+        "id": "ACT",
+        "name": "(TMG+09:00) TCA"
+    },
+    {
+        "id": "Asia/Taipei",
+        "name": "(TMG+08:00) Taipei"
+    },
+    {
+        "id": "Asia/Singapore",
+        "name": "(TMG+08:00) Cingapura"
+    },
+    {
+        "id": "Australia/Perth",
+        "name": "(TMG+08:00) Perth"
+    },
+    {
+        "id": "Asia/Hong_Kong",
+        "name": "(TMG+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+    },
+    {
+        "id": "Asia/Bangkok",
+        "name": "(TMG+07:00) Banguecoque, Hanoi, Jacarta"
+    },
+    {
+        "id": "Asia/Colombo",
+        "name": "(TMG+06:00) Colombo"
+    },
+    {
+        "id": "Asia/Alma-Ata",
+        "name": "(TMG+06:00) Almaty, Dacca"
+    },
+    {
+        "id": "Asia/Calcutta",
+        "name": "(TMG+05:30) Bombaím, Calcutá, Chennai, Nova Deli"
+    },
+    {
+        "id": "Asia/Karachi",
+        "name": "(TMG+05:00) Islamabade, Carachi, Tashkent"
+    },
+    {
+        "id": "Asia/Yekaterinburg",
+        "name": "(TMG+05:00) Ecaterimburgo"
+    },
+    {
+        "id": "Asia/Kabul",
+        "name": "(TMG+04:30) Cabul"
+    },
+    {
+        "id": "Asia/Baku",
+        "name": "(TMG+04:00) Baku, Tbilisi"
+    },
+    {
+        "id": "Asia/Muscat",
+        "name": "(TMG+04:00) Abu Dabi, Mascate"
+    },
+    {
+        "id": "Asia/Tehran",
+        "name": "(TMG+03:30) Teerã"
+    },
+    {
+        "id": "Africa/Nairobi",
+        "name": "(TMG+03:00) Nairobi"
+    },
+    {
+        "id": "Europe/Moscow",
+        "name": "(TMG+03:00) Moscou, S. Petersburgo, Volgogrado"
+    },
+    {
+        "id": "Asia/Baghdad",
+        "name": "(TMG+03:00) Bagdá, Kuwait, Riade"
+    },
+    {
+        "id": "Asia/Jerusalem",
+        "name": "(TMG+02:00) Jerusalem"
+    },
+    {
+        "id": "Europe/Helsinki",
+        "name": "(TMG+02:00) Helsinque, Riga, Taline"
+    },
+    {
+        "id": "Africa/Harare",
+        "name": "(TMG+02:00) Harare, Pretória"
+    },
+    {
+        "id": "Africa/Cairo",
+        "name": "(TMG+02:00) Cairo"
+    },
+    {
+        "id": "Europe/Bucharest",
+        "name": "(TMG+02:00) Bucareste"
+    },
+    {
+        "id": "Europe/Athens",
+        "name": "(TMG+02:00) Atenas, Istambul, Minsque"
+    },
+    {
+        "id": "Europe/Sofia",
+        "name": "(TMG+01:00) Sarajevo, Skopje, Sófia, Varsóvia, Zagreb"
+    },
+    {
+        "id": "Europe/Brussels",
+        "name": "(TMG+01:00) Bruxelas, Berlim, Berna, Roma, Estocolmo, Viena"
+    },
+    {
+        "id": "Europe/Belgrade",
+        "name": "(TMG+01:00) Belgrado, Sarajevo, Skopje, Zagreb"
+    },
+    {
+        "id": "Europe/Amsterdam",
+        "name": "(TMG+01:00) Amsterdã, Copenhague, Madri, Paris, Vilnius"
+    },
+    {
+        "id": "Africa/Casablanca",
+        "name": "(TMG-00:00) Casablanca, Monróvia"
+    },
+    {
+        "id": "GMT",
+        "name": "(TMG-00:00) Tempo Médio de Greenwich: Dublin, Edinburgo, Lisboa"
+    },
+    {
+        "id": "Atlantic/Azores",
+        "name": "(TMG-01:00) Açores, Cabo Verde"
+    },
+    {
+        "id": "Atlantic/South_Georgia",
+        "name": "(TMG-02:00) Atlântico Médio"
+    },
+    {
+        "id": "BET",
+        "name": "(TMG-03:00) Brasília"
+    },
+    {
+        "id": "America/Buenos_Aires",
+        "name": "(TMG-03:00) Buenos Aires, Georgetown"
+    },
+    {
+        "id": "CNT",
+        "name": "(TMG-03:00) TCN"
+    },
+    {
+        "id": "America/St_Johns",
+        "name": "(TMG-03:30) Terra Nova"
+    },
+    {
+        "id": "America/Halifax",
+        "name": "(TMG-04:00) Hora do Atlântico Canadá"
+    },
+    {
+        "id": "America/Caracas",
+        "name": "(TMG-04:00) Caracas, La Paz"
+    },
+    {
+        "id": "America/Santiago",
+        "name": "(TMG-04:00) Santiago"
+    },
+    {
+        "id": "America/Bogota",
+        "name": "(TMG-05:00) Bogotá, Lima, Quito"
+    },
+    {
+        "id": "EST5EDT",
+        "name": "(TMG-05:00) Hora Oriental (EUA & Canadá)"
+    },
+    {
+        "id": "IET",
+        "name": "(TMG-05:00) Indiana (Oriental)"
+    },
+    {
+        "id": "CST6CDT",
+        "name": "(TMG-06:00) Hora Central (EUA & Canadá)"
+    },
+    {
+        "id": "America/Mexico_City",
+        "name": "(TMG-06:00) Cidade do México, Tegucigalpa"
+    },
+    {
+        "id": "America/Winnipeg",
+        "name": "(TMG-06:00) Saskatchewan"
+    },
+    {
+        "id": "America/Phoenix",
+        "name": "(TMG-07:00) Arizona"
+    },
+    {
+        "id": "MST7MDT",
+        "name": "(TMG-07:00) Hora das Montanhas (EUA & Canadá)"
+    },
+    {
+        "id": "America/Tijuana",
+        "name": "(TMG-08:00) Hora do Pacífico (EUA & Canadá); Tijuana"
+    },
+    {
+        "id": "America/Anchorage",
+        "name": "(TMG-09:00) Alasca"
+    },
+    {
+        "id": "Pacific/Honolulu",
+        "name": "(TMG-10:00) Havaí"
+    },
+    {
+        "id": "Pacific/Apia",
+        "name": "(TMG-11:00) Ilha Midway Samoa"
+    },
+    {
+        "id": "Pacific/Enderbury",
+        "name": "(TMG-12:00) Eniwetok, Kwajalein"
+    }
+]

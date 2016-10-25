@@ -1,0 +1,258 @@
+[
+    {
+        "id": "Pacific/Fiji",
+        "name": "(GMT+12:00) ฟิจิ, คาบสมุทรคัมซัตกา, เกาะมาร์แชลล์"
+    },
+    {
+        "id": "Pacific/Auckland",
+        "name": "(GMT+12:00) อ็อคแลนด์, เวลลิงตัน"
+    },
+    {
+        "id": "Pacific/Efate",
+        "name": "(GMT+11:00) มากาดาน หมู่เกาะโซโลมอน, นิว แคลิโดเนีย"
+    },
+    {
+        "id": "Asia/Vladivostok",
+        "name": "(GMT+10:00) วีลาดิโวสตอก"
+    },
+    {
+        "id": "Australia/Lord_Howe",
+        "name": "(GMT+10:00) โฮบาร์ต"
+    },
+    {
+        "id": "Pacific/Guam",
+        "name": "(GMT+10:00) กัม, พอร์ต มอร์สบี"
+    },
+    {
+        "id": "Australia/Sydney",
+        "name": "(GMT+10:00) แคนเบอร์รา เมลเบิร์น ซิดนีย์"
+    },
+    {
+        "id": "Australia/Brisbane",
+        "name": "(GMT+10:00) บริสเบน"
+    },
+    {
+        "id": "Australia/Adelaide",
+        "name": "(GMT+09:30) แอดิเลด"
+    },
+    {
+        "id": "Asia/Yakutsk",
+        "name": "(GMT+09:00) ยาคุตสค์"
+    },
+    {
+        "id": "Asia/Seoul",
+        "name": "(GMT+09:00) โซล"
+    },
+    {
+        "id": "Asia/Tokyo",
+        "name": "(GMT+09:00) โอซากา ซับโปโร โตเกียว"
+    },
+    {
+        "id": "ACT",
+        "name": "(GMT+09:00) เอซีที"
+    },
+    {
+        "id": "Asia/Taipei",
+        "name": "(GMT+08:00) ไทเป"
+    },
+    {
+        "id": "Asia/Singapore",
+        "name": "(GMT+08:00) สิงค์โปร"
+    },
+    {
+        "id": "Australia/Perth",
+        "name": "(GMT+08:00) เพิร์ท"
+    },
+    {
+        "id": "Asia/Hong_Kong",
+        "name": "(GMT+08:00) ปักกิ่ง ฉงชิ่ง ฮ่องกง อุรุมชี"
+    },
+    {
+        "id": "Asia/Bangkok",
+        "name": "(GMT+07:00) กรุงเทพ ฮานอย จาการ์ตา"
+    },
+    {
+        "id": "Asia/Colombo",
+        "name": "(GMT+06:00) โคลัมโบ"
+    },
+    {
+        "id": "Asia/Alma-Ata",
+        "name": "(GMT+06:00) อัลมาตี ธากา"
+    },
+    {
+        "id": "Asia/Calcutta",
+        "name": "(GMT+05:30) บอมเบย์ โกลกาตา มัทราส นิว เดลี"
+    },
+    {
+        "id": "Asia/Karachi",
+        "name": "(GMT+05:00) อิสลามาบัด การาจี ทาชเคนท์"
+    },
+    {
+        "id": "Asia/Yekaterinburg",
+        "name": "(GMT+05:00) เอกาเตรินเบิร์ก"
+    },
+    {
+        "id": "Asia/Kabul",
+        "name": "(GMT+04:30) คาบูล"
+    },
+    {
+        "id": "Asia/Baku",
+        "name": "(GMT+04:00) บากู ทบิลิซิ"
+    },
+    {
+        "id": "Asia/Muscat",
+        "name": "(GMT+04:00) อะบูดาบี"
+    },
+    {
+        "id": "Asia/Tehran",
+        "name": "(GMT+03:30) เตหะราน"
+    },
+    {
+        "id": "Africa/Nairobi",
+        "name": "(GMT+03:00) ไนโรบี"
+    },
+    {
+        "id": "Europe/Moscow",
+        "name": "(GMT+03:00) มอสโค, เซนต์ ปีเตอร์สเบิร์ก วอลโกกราด"
+    },
+    {
+        "id": "Asia/Baghdad",
+        "name": "(GMT+03:00) แบกแดด คูเวต ริยาด"
+    },
+    {
+        "id": "Asia/Jerusalem",
+        "name": "(GMT+02:00) เจรูซาเล็ม"
+    },
+    {
+        "id": "Europe/Helsinki",
+        "name": "(GMT+02:00) เฮลซิงกิ ริก้า ทาลลินน์"
+    },
+    {
+        "id": "Africa/Harare",
+        "name": "(GMT+02:00) ฮาแรร์ พริทอเรีย"
+    },
+    {
+        "id": "Africa/Cairo",
+        "name": "(GMT+02:00) ไคโร"
+    },
+    {
+        "id": "Europe/Bucharest",
+        "name": "(GMT+02:00) บูดาเรสต์"
+    },
+    {
+        "id": "Europe/Athens",
+        "name": "(GMT+02:00) เอเธนส์, อิสตันบูล มินสก์"
+    },
+    {
+        "id": "Europe/Sofia",
+        "name": "(GMT+01:00) ซาราเยโว สโกเปีย, โซเฟีย, วอร์ซอ, ซาเกร็บ"
+    },
+    {
+        "id": "Europe/Brussels",
+        "name": "(GMT+01:00) บรัสเซลส์ เบอร์ลิน เบอร์น โรม สตอกโฮล์ม เวียนนา"
+    },
+    {
+        "id": "Europe/Belgrade",
+        "name": "(GMT+01:00) เบลเกรด ซาลาเยโว สโกเปีย ซาเกร็บ"
+    },
+    {
+        "id": "Europe/Amsterdam",
+        "name": "(GMT+01:00) อัมสเตอร์ดัม) , โคเปนเฮเกน มาดริด ปารีส วิลนีอุส"
+    },
+    {
+        "id": "Africa/Casablanca",
+        "name": "(GMT-00:00) คาซาบรังก้า มันโรเวีย"
+    },
+    {
+        "id": "GMT",
+        "name": "(GMT-00:00) เวลากลางเมืองกรีนวิช : ดับลิน เอดินบะระ ลิสบอน"
+    },
+    {
+        "id": "Atlantic/Azores",
+        "name": "(GMT-01:00) อะโซร์ส เกาะเคป เวิร์ด ไอร์แลนด์"
+    },
+    {
+        "id": "Atlantic/South_Georgia",
+        "name": "(GMT-02:00) แอตแลนติกตอนกลาง"
+    },
+    {
+        "id": "BET",
+        "name": "(GMT-03:00) บราซิเลีย"
+    },
+    {
+        "id": "America/Buenos_Aires",
+        "name": "(GMT-03:00) บัวโนส ไอเรส, จอร์จทาวน์"
+    },
+    {
+        "id": "CNT",
+        "name": "(GMT-03:00) ซีเอ็นที"
+    },
+    {
+        "id": "America/St_Johns",
+        "name": "(GMT-03:30) นิวฟาวด์แลนด์"
+    },
+    {
+        "id": "America/Halifax",
+        "name": "(GMT-04:00) เวลาแถบแอตแลนติก แคนาดา"
+    },
+    {
+        "id": "America/Caracas",
+        "name": "(GMT-04:00) คาราคัส ลา ปาซ"
+    },
+    {
+        "id": "America/Santiago",
+        "name": "(GMT-04:00) ซานติเอโก"
+    },
+    {
+        "id": "America/Bogota",
+        "name": "(GMT-05:00) โบโกตา, ลิมา กีโต"
+    },
+    {
+        "id": "EST5EDT",
+        "name": "(GMT-05:00) เวลาแถบตะวันออก อเมริกา & แคนาดา"
+    },
+    {
+        "id": "IET",
+        "name": "(GMT-05:00) อินเดียน่า ตะวันออก"
+    },
+    {
+        "id": "CST6CDT",
+        "name": "(GMT-06:00) เวลาส่วนตอนกลาง"
+    },
+    {
+        "id": "America/Mexico_City",
+        "name": "(GMT-06:00) กรุงเม็กซิโก, ติกูซิกัลป์ปา"
+    },
+    {
+        "id": "America/Winnipeg",
+        "name": "(GMT-06:00) รัฐชัสแคตชวัน"
+    },
+    {
+        "id": "America/Phoenix",
+        "name": "(GMT-07:00) อริโซน่า"
+    },
+    {
+        "id": "MST7MDT",
+        "name": "(GMT-07:00) เวลาแถบเมืองเขตภูเขา อเมริกา & แคนาดา"
+    },
+    {
+        "id": "America/Tijuana",
+        "name": "(GMT-08:00) เวลาเขตแปซิฟิก อเมริกา & แคนาดา; ติฮัวนา"
+    },
+    {
+        "id": "America/Anchorage",
+        "name": "(GMT-09:00) อะลาสก้า"
+    },
+    {
+        "id": "Pacific/Honolulu",
+        "name": "(GMT-10:00) ฮาวาย"
+    },
+    {
+        "id": "Pacific/Apia",
+        "name": "(GMT-11:00) หมู่เกาะมิดเวย์ ซามัว"
+    },
+    {
+        "id": "Pacific/Enderbury",
+        "name": "(GMT-12:00) เอนิวิตอก, ควาจาเลน"
+    }
+]
