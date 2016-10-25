@@ -12,7 +12,13 @@ module.exports = function(grunt, config) {
             expand: true,
             cwd: 'assets/countries/',
             src: '*.json',
-            dest: 'dist/' + config.version + '/cui-i18n/angular-translate/countries/'
+            dest: 'dist/cui-i18n/angular-translate/countries/'
+        },
+        countriesVersioned: {
+            expand: true,
+            cwd: 'assets/countries/',
+            src: '*.json',
+            dest: 'dist/' + config.newVersion + '/cui-i18n/angular-translate/countries/'
         },
         localeFiles: {
             src: 'node_modules/angular-i18n/*.js',

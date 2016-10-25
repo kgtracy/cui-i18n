@@ -1,6 +1,7 @@
-module.exports = function(grunt) {
+module.exports = function(grunt, config) {
     return {
-        init: 'node initDist.js',
-        generate: 'node generateTranslations.js && node generateMessaging.js && node generateTimezones.js' 
+        init: 'node initDist.js ' + config.newVersion,
+        generate: 'node generateTranslations.js && node generateMessaging.js && node generateTimezones.js',
+        ascii: 'source scripts/native2ascii ' + config.newVersion
     }
 }

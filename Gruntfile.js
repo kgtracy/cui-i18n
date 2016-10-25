@@ -4,7 +4,8 @@ module.exports = function(grunt) {
     const packageJson = require('./package.json')
 
     const config = {
-        version: packageJson.version
+        version: packageJson.version,
+        newVersion: grunt.option('newVersion')
     }
 
     const tasks = ['browserSync', 'clean', 'copy', 'exec', 'uglify', 'usemin', 'useminPrepare']
@@ -30,6 +31,7 @@ module.exports = function(grunt) {
         'clean',
         'exec:init',
         'exec:generate',
+        'exec:ascii',
         'copy',
         'useminPrepare',
         'concat:generated',

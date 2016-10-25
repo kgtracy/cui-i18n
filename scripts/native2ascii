@@ -1,11 +1,20 @@
 #!/bin/bash
 
-# quick script to run the native2ascii script on all properties files in the dist/java foldder
+# Quick script to run the native2ascii script on all properties files in the dist/java foldder
+# This script requires you to pass in a version parameter for it to properly go through the dist directory
 
-FILES=dist/cui-i18n/java/*.properties
-mkdir -p dist/cui-i18n/java/ascii
+if [ $# -lt 1 ]
+	then
+		echo "Must pass a new version as an argument"
+		exit 1
+fi
+
+version=$1
+
+FILES=dist/${version}/cui-i18n/java/*.properties
 
 for file in $FILES
 do
-  native2ascii -encoding utf8 "$file" dist/cui-i18n/java/ascii/"${file##*/}"
+	native2ascii -encoding utf8 "$file" dist/cui-i18n/java/ascii/"${file##*/}"
+  native2ascii -encoding utf8 "$file" dist/${version}/cui-i18n/java/ascii/"${file##*/}"
 done
