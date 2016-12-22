@@ -319,5 +319,9 @@
     "cui-password-policy": "Password Policy",
     "cui-security-admin": "Security Administrator",
     "cui-button-loading-text": "Loading...",
-    "cui-username-taken": "Username is taken"
+    "cui-username-taken": "Username is taken",
+    "cui-no-applications": "You currently have no applications",
+    "cui-mask-answers": "Mask/Unmask security answers",
+    "cui-pwd-reset-success": "Password Reset Success!",
+    "cui-last-login": "Last Login"
 }

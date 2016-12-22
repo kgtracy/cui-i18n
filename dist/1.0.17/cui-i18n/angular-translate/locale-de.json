@@ -319,5 +319,9 @@
     "cui-password-policy": "Kennwortrichtlinie",
     "cui-security-admin": "Security Administrator",
     "cui-button-loading-text": "Laden...",
-    "cui-username-taken": "Benutzername ist vergeben"
+    "cui-username-taken": "Benutzername ist vergeben",
+    "cui-no-applications": "Sie haben zur Zeit keine Anwendungen",
+    "cui-mask-answers": "Maske / demaskieren Sicherheit Antworten",
+    "cui-pwd-reset-success": "Kennwort zurücksetzen Erfolg!",
+    "cui-last-login": "Letzte Anmeldung"
 }

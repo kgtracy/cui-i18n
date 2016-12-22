@@ -319,5 +319,9 @@
     "cui-password-policy": "パスワードポリシー",
     "cui-security-admin": "セキュリティ管理者",
     "cui-button-loading-text": "読み込んでいます...",
-    "cui-username-taken": "ユーザー名が取られます"
+    "cui-username-taken": "ユーザー名が取られます",
+    "cui-no-applications": "あなたは現在のアプリケーションを持っていません",
+    "cui-mask-answers": "マスク/マスク解除セキュリティの回答",
+    "cui-pwd-reset-success": "パスワードは、成功をリセット！",
+    "cui-last-login": "前回のログイン"
 }

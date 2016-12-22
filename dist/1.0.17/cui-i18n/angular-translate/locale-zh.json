@@ -319,5 +319,9 @@
     "cui-password-policy": "密码策略",
     "cui-security-admin": "安全管理员",
     "cui-button-loading-text": "载入中...",
-    "cui-username-taken": "用户名已存在"
+    "cui-username-taken": "用户名已存在",
+    "cui-no-applications": "您目前没有任何应用程序",
+    "cui-mask-answers": "面膜/揭露安全答案",
+    "cui-pwd-reset-success": "密码重置成功！",
+    "cui-last-login": "上次登录"
 }

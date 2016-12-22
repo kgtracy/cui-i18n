@@ -319,5 +319,9 @@
     "cui-password-policy": "Şifre Politikası",
     "cui-security-admin": "Güvenlik Yöneticisi",
     "cui-button-loading-text": "Yükleniyor...",
-    "cui-username-taken": "kullanıcı adı alınmış"
+    "cui-username-taken": "kullanıcı adı alınmış",
+    "cui-no-applications": "Şu anda hiçbir uygulamalar var",
+    "cui-mask-answers": "/ Maskesini güvenlik cevapları Maske",
+    "cui-pwd-reset-success": "Şifre Başarı Reset!",
+    "cui-last-login": "Son giriş"
 }

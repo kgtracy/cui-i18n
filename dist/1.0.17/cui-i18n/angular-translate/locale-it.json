@@ -319,5 +319,9 @@
     "cui-password-policy": "Criterio password",
     "cui-security-admin": "Security Administrator",
     "cui-button-loading-text": "Caricamento in corso...",
-    "cui-username-taken": "Nome utente viene preso"
+    "cui-username-taken": "Nome utente viene preso",
+    "cui-no-applications": "Al momento ci sono applicazioni",
+    "cui-mask-answers": "Maschera risposte di sicurezza / Unmask",
+    "cui-pwd-reset-success": "Password Reset successo!",
+    "cui-last-login": "Ultimo accesso"
 }
