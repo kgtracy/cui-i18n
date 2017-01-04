@@ -45,7 +45,6 @@
   },
   "devDependencies": {
     "@covisint/cui-styleguide": "*",
-    "angular": "1.5.9",
     "bootstrap": "3.3.7",
     "grunt": "0.4.5",
     "grunt-browser-sync": "2.2.0",
@@ -63,13 +62,14 @@
     "sheetrock": "1.0.0"
   },
   "dependencies": {
+    "angular": "1.5.9",
     "angular-dynamic-locale": "0.1.32",
-    "angular-i18n": "1.6.1",
-    "angular-resource": "1.6.1",
-    "angular-sanitize": "1.6.1",
-    "angular-translate": "2.13.1",
-    "angular-translate-handler-log": "2.13.1",
-    "angular-translate-loader-static-files": "2.13.1",
-    "angular-translate-storage-local": "2.13.1"
+    "angular-i18n": "1.5.10",
+    "angular-resource": "1.5.10",
+    "angular-sanitize": "1.5.10",
+    "angular-translate": "2.11.0",
+    "angular-translate-handler-log": "2.11.0",
+    "angular-translate-loader-static-files": "2.11.0",
+    "angular-translate-storage-local": "2.11.0"
   }
 }
