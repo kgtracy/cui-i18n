@@ -1,5 +1,11 @@
 # Cui-i18n Changelog
 
+## [1.0.20] - 2017-1-4
+
+#### Changed
+* Locked all dependency versions
+
+
 ## [1.0.16] - 2016-10-25
 
 ### Changed
