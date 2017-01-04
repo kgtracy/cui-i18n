@@ -1,5 +1,11 @@
 # Cui-i18n Changelog
 
+## [1.0.21] - 2017-1-4
+
+### Changed
+* Adds angular as a dependency to possibly prevent angular-translate from bringing in the newest version of angular in downstream projects
+
+
 ## [1.0.20] - 2017-1-4
 
 #### Changed
