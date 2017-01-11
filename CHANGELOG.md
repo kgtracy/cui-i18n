@@ -3,6 +3,11 @@
 ## [1.0.21] - 2017-1-4
 
 ### Changed
+* Additional language keys updated by humans
+
+## [1.0.22] - 2017-1-11
+
+### Changed
 * Adds angular as a dependency to possibly prevent angular-translate from bringing in the newest version of angular in downstream projects
 
 
@@ -26,7 +31,7 @@ script to be run beforehand.
 ## [1.0.15] - 2016-10-21
 
 ### Changed
-* The dist directory now follows a slightly changes folder structure. This is a breaking change for projects using this dependency. 
+* The dist directory now follows a slightly changes folder structure. This is a breaking change for projects using this dependency.
 	* Before: `dist/cui-i18n/...`
 	* After: `dist/<i18n version number>/cui-i18n/...`
 
