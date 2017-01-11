@@ -25,6 +25,10 @@
     {
       "name": "Orin Fink",
       "email": "orin.fink@thirdwavellc.com"
+    },
+    {
+      "name": "Carlito Alo",
+      "email": "carlito.alo@covisint.com"
     }
   ],
   "main": "index.html",
