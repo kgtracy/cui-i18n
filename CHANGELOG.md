@@ -1,5 +1,11 @@
 # Cui-i18n Changelog
 
+## [1.0.24] - 2017-1-25
+
+### Changed
+* Additional language keys updated
+
+
 ## [1.0.23] - 2017-1-16
 
 ### Changed
