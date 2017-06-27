@@ -13,7 +13,7 @@ const currentVersion = fs.readdirSync('./dist/')[0]
 const codes = ['en', 'pt', 'tr', 'zh', 'fr', 'es', 'it', 'ru', 'th', 'ja', 'de']
 const mainSheetUrl = 'https://docs.google.com/spreadsheets/d/1yIYGAL7nOObK1QVczGto7LWAPzYaWR4gSQHfD3qYJDA/edit#gid=521689317'
 // const mainSheetUrl = 'https://docs.google.com/spreadsheets/d/1HM5GLoTXQSuSn0tJxAK6jT1qqNLz1Vc3SbvHZbvxeHo/edit#gid=0'
-// const overwriteSheetUrl = 'https://docs.google.com/spreadsheets/d/1cuc65_-DO4kV9EGRJsOjEg-9hGByqHZsNkieMPbuZxE/edit#gid=0'
+const overwriteSheetUrl = 'https://docs.google.com/spreadsheets/d/1RcsgKcYAes2faA-5PzcO17UEs2OkqBmr_x0362N9a38/edit?usp=sharing&gid=0'
 
 const overrideCallback = (error, options, response, parsedResponse, files) => {
     if (error) {
